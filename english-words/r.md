@@ -714,3 +714,84 @@ referred”。
 ---
 
 **这六个单词组成了一个非常丰富的描述体系！你接下来是想继续增加新词，还是想让我用其中几个词为你设计一个更难的填空练习？**
+
+# resort
+
+It is a pleasure to explore the word **"resort."** This is a versatile word that functions as both a "destination for relaxation" and a "strategy of desperation."
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: /rɪˈzɔːt/ | US: /rɪˈzɔːrt/
+* **Part of Speech:** Noun, Verb
+* **CEFR Level:** B1 (Noun - place) / C1 (Verb - strategy)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. *(Noun)* A place where people go for holidays, usually offering multiple activities (hotels, pools, skiing).
+2. *(Verb)* To turn to a strategy or action because no other choices are available (usually something negative).
+3. *(Noun)* The act of turning to a final option (often in the phrase "last resort").
+* **Chinese Definition:** 1. *(Noun)* 度假胜地 (dù jià shèng dì)
+2. *(Verb)* 诉诸 / 采取 (sù zhū / cǎi qǔ) — usually for a difficult method
+3. *(Noun)* 最后的手段 (zuì hòu de shǒu duàn)
+* **Collocations:** * **Beach resort** (A holiday spot by the sea)
+* **Resort to violence** (To start using force because words failed)
+* **Last resort** (The final option when all else fails)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "We spent our entire summer at a ski **resort** in the Alps, but unfortunately, there wasn't much snow."
+* **Formal/Academic Example:** "Governments should only **resort to** economic sanctions after all diplomatic channels have been thoroughly exhausted."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** Derived from the Old French *resortir*, meaning **"to go out again"** or **"to come back."**
+* *Re-* (again) + *sortir* (to go out).
+* Originally, it meant a place you would return to frequently for help or safety. Over time, it split into "a place you return to for fun" (holiday) and "a method you return to when in trouble" (strategy).
+
+
+* **Word Family:** * **Resorting** (Present participle/Gerund)
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+* **Synonyms (Noun):** Retreat, hotel, spa, destination.
+* **Synonyms (Verb):** Turn to, fall back on, utilize (as a backup).
+* **Antonyms (Verb):** Avoid, abstain, bypass, ignore.
+
+### The "Don't Mix Up" Section: Resort vs. Resource
+
+* **Resource:** Something you **have** and can use (money, talent, tools). It is an asset.
+* **Resort (Verb):** Something you **do** when your resources are gone.
+
+> *Example: If your **resource** (money) runs out, you might **resort** to asking for a loan.*
+
+---
+
+## 6. Memory Anchor
+
+### Mnemonic
+
+Think of **"RE-SORT."**
+
+Imagine you have a list of plans. You try Plan A, then Plan B. When they fail, you have to **Re-sort** your options to find the very last one at the bottom of the pile. That is your **last resort**.
+
+### Logical Association
+
+Think of a holiday **resort** as a place where you "re-sort" your life—you leave your stress behind and organize your thoughts while relaxing. Conversely, in a crisis, you "re-sort" your strategies until you find the one that finally works, even if it's a difficult choice.
+
+---
+
+**Would you like me to help you use "as a last resort" in a sentence regarding a difficult decision you're currently weighing?**

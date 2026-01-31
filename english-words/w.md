@@ -315,3 +315,79 @@ Would you like me to find some examples of how the word is being used in recent 
 7. **Wayward**: 任性/难测（散）
 
 **这七个词已经可以构成一个非常高级的文学叙事感了。你觉得这组词里哪个最难掌握？或者你有新的单词要加进来吗？**
+
+# wrath
+
+It is a pleasure to explore **"wrath."** This is a powerful, high-intensity word. While "anger" is a common spark, "wrath" is a forest fire. It carries a biblical or epic weight, often implying not just anger, but the *desire for punishment or vengeance*.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: /rɒθ/ | US: /ræθ/
+* **Part of Speech:** Noun (Occasional Verb in archaic contexts)
+* **CEFR Level:** C2 (Proficiency / Literary)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** Extreme, intense anger; deep indignation that often leads to a desire for vengeance or retribution.
+* **Chinese Definition:** 愤怒 (fèn nù) / 狂怒 (kuáng nù) / 严厉的惩罚 (yán lì de chéng fá)
+* **Collocations:** * **The wrath of God** (Divine punishment)
+* **Incur someone's wrath** (To make someone extremely angry at you)
+* **Feel the wrath of...** (To experience the consequences of someone's fury)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "If I don't get this report finished by the deadline, I'm definitely going to **incur the wrath** of the boss."
+* **Formal/Academic Example:** "In John Steinbeck’s *The Grapes of **Wrath***, the title serves as a metaphor for the growing indignation of displaced workers during the Great Depression."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** Derived from the Old English *wrāththu*, which comes from *wrāth*, meaning "twisted" or "bitter."
+* *Interesting Fact:* It is linguistically related to the word **wreath** (something twisted). The idea is that anger "twists" one's face or spirit.
+
+
+* **Word Family:** * **Wrathful** (Adjective: "He gave me a wrathful look.")
+* **Wrathfully** (Adverb: "She spoke wrathfully to the intruder.")
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+* **Synonyms (High Intensity):** Fury, rage, ire, choler (archaic).
+* **Synonyms (Justice-oriented):** Indignation, retribution.
+* **Antonyms:** Patience, calmness, forgiveness, serenity, mildness.
+
+### The "Don't Mix Up" Section: Wrath vs. Anger
+
+* **Anger:** A common, everyday emotion. You get *angry* when someone cuts you off in traffic. It’s personal and often temporary.
+* **Wrath:** Much larger and more "grand." **Wrath** usually implies a position of power or a sense of "righteous" judgment. A king or a god has *wrath*; a toddler has a *tantrum*.
+
+> *Anger is a feeling; wrath is a force of nature.*
+
+---
+
+## 6. Memory Anchor
+
+### Mnemonic
+
+Think of **"W" + "Rath."**
+Imagine a **W**rathful **R**at that is so angry it starts **Rath**-ling (rattling) its cage until the whole room shakes.
+
+### Logical Association
+
+Connect it to the word **"Wroth"** (an old adjective for angry). Because the word sounds like "rot," you can imagine a bitter, "twisted" anger that has rotted into something much more dangerous and vengeful than simple annoyance.
+
+---
+
+**Would you like me to show you how "wrath" is used in classical literature or mythology to describe the consequences of defying powerful figures?**

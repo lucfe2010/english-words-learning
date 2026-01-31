@@ -842,3 +842,82 @@ contradicted** 是一个动词的过去式形式，来源于动词 **contradict*
 **这 14 个词已经构成了一套极其完整的“性格描述符”。你不仅掌握了单词，还掌握了一套用来分析复杂人性的工具。**
 
 **我们是否要在这里暂停一下，让我为你生成一个综合性的自测练习？或者你已经准备好迎接第 15 个单词了？**
+
+# confounding
+
+It is a pleasure to deconstruct **"confounding."** This word describes a specific type of confusion that is active, surprising, and often mathematically or logically frustrating.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: /kənˈfaʊn.dɪŋ/ | US: /kənˈfaʊn.dɪŋ/
+* **Part of Speech:** Adjective (also the present participle of the verb *confound*)
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. Causing surprise or confusion in someone, especially by acting against their expectations. 2. *(Statistics/Science)* A factor that obscures the true relationship between two other variables.
+* **Chinese Definition:** 使人困惑的 (shǐ rén kùn huò de) / 令人惊异的 (lìng rén jīng yì de) / 混杂变量 (hùn zá biàn liàng - technical)
+* **Collocations:** * **Confounding variable** (A third factor that creates a false link in an experiment)
+* **Confounding factor** (Something that complicates a situation)
+* **Utterly confounding** (Completely confusing)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The magician’s final trick was truly **confounding**; I was standing two feet away and still couldn't see how he did it."
+* **Formal/Academic Example:** "The study on heart disease was criticized for failing to account for **confounding** variables, such as the participants' varying levels of daily stress."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** Derived from the Latin *confundere*, meaning **"to pour together"** or "to mix up."
+* *Com-* (together) + *fundere* (to pour).
+* Think of pouring two different liquids into one cup—once they are mixed, you can't tell which is which. That is the essence of being confounded.
+
+
+* **Word Family:** * **Confound** (Verb: "The results confounded the researchers.")
+* **Confounded** (Adjective: used to describe the person who is confused, or as an old-fashioned British swear word: "You confounded nuisance!")
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+* **Synonyms (General):** Baffling, perplexing, puzzling, bewildering.
+* **Synonyms (Scientific):** Obscuring, distorting, complicating.
+* **Antonyms:** Clarifying, enlightening, explanatory, straightforward.
+
+### The "Don't Mix Up" Section: Confounding vs. Confusing
+
+* **Confusing:** A broad term. A messy room is confusing. A vague map is confusing. It just means a lack of order.
+* **Confounding:** Implies that your **expectations were defeated**. It’s the confusion you feel when you were sure of an answer, but the result turned out to be the opposite.
+
+> *A difficult math problem is confusing; a math problem where 2+2 equals 5 is confounding.*
+
+---
+
+## 6. Memory Anchor
+
+### Mnemonic
+
+Think of **"CON" + "FOUND."**
+Imagine a **Con**-artist who has **Found** a way to trick you. You thought you knew where your wallet was, but his trickery is so **confounding** that you can't explain how it disappeared.
+
+### Logical Association
+
+Think of the root "to pour together." In science, a **confounding variable** is when the "effect" of one thing is poured together with the "effect" of another. If you drink coffee and get a headache, is it the caffeine or the sugar? Because they are "poured together" in the cup, the cause is **confounding**.
+
+---
+
+**Would you like me to walk you through a classic example of a "confounding variable"—like the famous correlation between ice cream sales and shark attacks?**

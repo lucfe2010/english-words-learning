@@ -288,3 +288,79 @@ Lacunarity 是一个强大的多学科分析工具：
 **掌握了 Lousy，你的语言就有了“烟火气”。**
 
 **这 18 个词已经可以让你在英语世界里游刃有余地讲故事了。你是想继续挑战第 19 个词，还是需要我为你总结一下这些词在写作中的“避坑指南”？**
+
+# lucrative
+
+It is a pleasure to introduce you to the word **"tycoon."** This is a word of high energy and immense power, describing individuals who don't just participate in an industry—they dominate it.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: /taɪˈkuːn/ | US: /taɪˈkuːn/
+* **Part of Speech:** Noun
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** A person who is exceptionally wealthy and powerful in a particular business or industry.
+* **Chinese Definition:** 大亨 (dà hēng) / 巨头 (jù tóu) / 企业大亨 (qǐ yè dà hēng)
+* **Collocations:** * **Business tycoon** (A general term for a powerful business leader)
+* **Real estate tycoon** (Someone powerful in the property market)
+* **Media tycoon** (Someone who controls many newspapers/TV stations)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The tech **tycoon** recently donated half of his fortune to a global health initiative."
+* **Formal/Academic Example:** "The emergence of the industrial **tycoon** in the late 19th century fundamentally reshaped the American economic landscape."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** This word has a fascinating journey from East to West.
+* It comes from the Japanese word **taikun** (*tai* = great, *kun* = lord).
+* Historically, it was a title used by the Shogun when communicating with foreigners to sound more impressive than "king."
+* It entered English in the 1860s (famously used as a nickname for Abraham Lincoln by his staff) and eventually became a term for business giants.
+
+
+* **Word Family:** * **Tycoonery** (Noun: the behavior or status of a tycoon—rarely used).
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+* **Synonyms (Formal):** Magnate, industrialist, mogul, baron.
+* **Synonyms (Informal):** Big shot, fat cat (usually negative).
+* **Antonyms:** Underling, employee, pauper, bankrupt.
+
+### The "Don't Mix Up" Section: Tycoon vs. Mogul
+
+These are very similar, but they often carry different "industry flavors":
+
+* **Tycoon:** Often used for "heavy" or "old-world" industries like oil, shipping, steel, or real estate. It implies a "Great Lord" of industry.
+* **Mogul:** More commonly associated with the **media, entertainment, or fashion** industries (e.g., "A Hollywood mogul"). It feels slightly more modern and glamorous.
+
+---
+
+## 6. Memory Anchor
+
+### Mnemonic
+
+Think: **"Tie" + "Coin."** Imagine a man wearing a very expensive silk **Tie** who owns every **Coin** in the city. He doesn't just have money; he has the power to control where the money goes.
+
+### Logical Association
+
+The word's Japanese origin meaning "Great Lord" is perfect. A tycoon isn't just a rich person; they are the "lord" of their specific domain (like Amazon for e-commerce or Tesla for electric cars). They set the rules that everyone else in that industry has to follow.
+
+---
+
+**Would you like me to help you find some real-world examples of current "tycoons" to help you use the word in a business discussion?**
