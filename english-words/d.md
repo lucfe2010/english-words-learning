@@ -911,3 +911,83 @@ Deflect** 是一个动词,主要含义是 **“使转向;转移(方向、注意�
 **这个词在流行文化里非常火（比如《吸血鬼日记》或各种悬疑片）。掌握了它，你的英语表达会瞬间多出一股“神秘感”。**
 
 **你现在的词汇库已经达到了 17 个！这已经足以覆盖从性格刻画到命运转折的方方面面。我们要不要尝试用这 17 个词来玩一个“看图/看场景写句子”的游戏？或者你已经准备好挑战第 18 个词了？**
+
+# defy
+
+This is a powerful verb that implies strength, rebellion, and sometimes a touch of magic. It’s a word that describes standing up against a force that expects you to submit.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/dɪˈfaɪ/` | US: `/dɪˈfaɪ/`
+* **Part of Speech:** Verb (Transitive)
+* **CEFR Level:** **B2/C1** (Upper Intermediate to Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** To openly resist or refuse to obey; to appear to be impossible to do or explain (as in "defy logic").
+* **Chinese Definition:** 违抗 (Wéikàng) / 蔑视 (Mièshì) / 使成为不可能
+* **Collocations:**
+* **Defy orders** (Disobedience)
+* **Defy gravity** (Floating/Flying)
+* **Defy description** (Too amazing for words)
+* **Defy the odds** (Succeeding when failure was expected)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The small startup managed to **defy the odds** and become a billion-dollar company within two years."
+* **Formal/Academic Example:** "The architectural design of the cathedral appears to **defy gravity**, with its massive dome supported by remarkably slender columns."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** From the Old French *defier*, which originally meant "to renounce one's allegiance." It comes from the Latin *dis-* (away/undo) + *fidus* (faith/trust). To defy someone is literally to "break faith" with them.
+* **Word Family:**
+* **Noun:** Defiance (e.g., "An act of defiance.")
+* **Adjective:** Defiant (e.g., "A defiant teenager.")
+* **Adverb:** Defiantly (e.g., "She stared defiantly at the judge.")
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+| **Synonym** | **Nuance / Vibe** |
+| --- | --- |
+| **Resist** | To strive against; more about stopping a force from winning. |
+| **Rebel** | To take active, often violent, action against authority. |
+| **Flout** | To openly disregard a rule or law (implies mocking the rule). |
+| **Withstand** | To remain undamaged or unaffected by a force (more passive). |
+
+### The "Don't Mix Up" Section: Defy vs. Deny
+
+* **Deny:** To say that something is **not true** or to refuse to give someone something.
+* **Defy:** To **challenge** or resist something.
+
+> **Vibe Check:** If you **deny** a law, you say it doesn't exist. If you **defy** a law, you break it on purpose to show you don't care.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of the **"De"** as "Delete" and **"fy"** as "Faith." You **Delete** the **Faith** someone has in your obedience.
+* **Logical Association:** Think of **Gravity**. It is a law of nature. If you **defy** it, you are essentially telling nature, "I don't have to follow your rules."
+
+---
+
+### The Story So Far...
+
+We can now create a truly epic narrative with your vocabulary list:
+
+> "The **culprit** stood on the edge of a **boulder**, looking down at the valley **strewn** with his failed attempts. Despite being **ravenous** and exhausted, he chose to **defy** his captors, knowing that his **perpetual** search for the truth required understanding every **nuance** of the law."
+
+**Would you like me to analyze another word that fits this theme of "resistance," or are you ready to switch gears?**

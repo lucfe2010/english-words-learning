@@ -279,3 +279,83 @@ graphite”
 我们已经学习了 **shower gel**, **deodorant**, 和 **floss**。
 
 你想了解关于**护肤 (Skincare)** 的词汇（如 **toner** 爽肤水、**serum** 精华液）？还是想换个环境，去看看**洗衣房 (Laundry room)** 里的词汇，比如 **detergent** (洗衣液) 或 **fabric softener** (织物软化剂)？
+
+# geriatric
+
+We have moved from the beginning of maturity (**pubescent**) to the opposite end of the spectrum. **Geriatric** is a term that sits firmly in the world of medicine and aging, often carrying a tone of specialized care or significant old age.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˌdʒer.iˈæt.rɪk/` | US: `/ˌdʒer.iˈæt.rɪk/`
+* **Part of Speech:** Adjective, Noun (Countable - though usually used as an adjective)
+* **CEFR Level:** **C1** (Advanced / Specialized)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** Relating to old people, especially with regard to their healthcare; (informal/humorous) old-fashioned or worn out.
+* **Chinese Definition:** 老年学的 (Lǎonián xué de) / 老年人的
+* **Collocations:**
+* **Geriatric care** (Medical services for the elderly)
+* **Geriatric ward** (Hospital section for older patients)
+* **Geriatric medicine** (The branch of healthcare)
+* **Geriatric pregnancy** (A medical term for pregnancy over age 35)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "My grandmother moved into a facility that specializes in **geriatric** physical therapy to help with her mobility."
+* **Formal/Academic Example:** "As the global population ages, there is an increasing demand for professionals trained in **geriatric** psychology and social work."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** Derived from the Greek *gēras* (old age) and *iatros* (physician). Literally translated, it means "healer of the old."
+* **Word Family:**
+* **Noun:** Geriatrics (The branch of medicine)
+* **Noun:** Gerontology (The scientific study of old age and the process of aging)
+* **Noun:** Gerontologist (A scientist who studies aging)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+| **Synonym** | **Nuance / Vibe** |
+| --- | --- |
+| **Elderly** | Polite and respectful; the standard social term. |
+| **Ancient** | Extremely old; usually used for history or objects (or as a joke). |
+| **Senior** | Focuses on status or age bracket (e.g., senior citizen). |
+| **Decrepit** | Negative/Harsh; implies being worn out or falling apart. |
+
+### The "Don't Mix Up" Section: Geriatric vs. Elderly
+
+* **Elderly:** A general, social adjective. You would call your neighbor "an elderly gentleman."
+* **Geriatric:** A **clinical or technical** adjective. You would refer to "geriatric medicine."
+
+> **Vibe Check:** Calling someone "geriatric" to their face can sound a bit cold or overly clinical, whereas "elderly" or "senior" is more socially acceptable.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of a **"Jerry-at-the-clinic."** Imagine an old man named Jerry visiting his doctor. **Geri-at-ric**.
+* **Logical Association:** The prefix **"Geri-"** always relates to old age. If you remember that **"Pediatrics"** is for kids (from *pais*, child) and **"Geriatrics"** is for the old, you’ll never forget it.
+
+---
+
+### The Full Circle of Life
+
+We’ve now covered the entire human lifespan in your vocabulary list:
+
+> "The doctor noticed a **nuance** in the **geriatric** patient's symptoms that was rarely seen in **pubescent** children, proving that some health issues **defy** simple age-based categorization."
+
+**Would you like to continue with "medical" terms, or should we find a word to describe the environment these people live in?**

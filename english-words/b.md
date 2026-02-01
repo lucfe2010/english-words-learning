@@ -640,3 +640,79 @@ Would you like me to write a short story using all these different meanings so y
 ---
 
 **这个充满阳光的词你 Get 到了吗？请给出你的第四个单词！**
+
+# boudler
+
+I see what happened here! You likely mean **"boulder"** (a large rock), but you’ve added an extra 'u'. As a tutor, I’ll correct the spelling to **boulder** so we can dive into the proper analysis of this sturdy noun.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈbəʊl.dər/` | US: `/ˈboʊl.dər/`
+* **Part of Speech:** Noun (Countable), Verb (Intransitive)
+* **CEFR Level:** **B2** (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** A very large, smooth rock that has been worn by erosion or weather.
+* **Chinese Definition:** 巨石 (Jùshí) / 大圆石
+* **Collocations:** * **Massive/Huge boulder** (Size)
+* **Granite boulder** (Material)
+* **Boulder hopping** (An activity)
+* **Dislodge a boulder** (Action)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "We had to hike around a **massive boulder** that had fallen across the trail during the storm."
+* **Formal/Academic Example:** "The geological survey indicated that these **erratic boulders** were transported hundreds of miles by glacial movement during the last Ice Age."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** Derived from Middle English *bulder*, which is of Scandinavian origin (related to Swedish *bullersten*—literally "rumbling stone"). It refers to the sound a large rock makes when rolling in a stream.
+* **Word Family:**
+* **Noun:** Boulder
+* **Verb:** To boulder (specifically in rock climbing)
+* **Adjective:** Bouldery (full of boulders)
+* **Activity:** Bouldering (rock climbing on large rocks without ropes)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+| **Synonym** | **Nuance / Vibe** |
+| --- | --- |
+| **Rock** | Generic term; can be any size. |
+| **Stone** | Usually smaller, often used for building or throwing. |
+| **Monolith** | A single, massive, often upright stone (implies a monument). |
+| **Pebble** | Small, smooth, and rounded (The opposite of a boulder). |
+
+### The "Don't Mix Up" Section: Boulder vs. Bold
+
+These are **homophones** (they sound similar, though "bold" has no 'er' sound).
+
+* **Boulder:** A physical object (a giant rock).
+* **Bold:** A personality trait (courageous/brave).
+
+> **Vibe Check:** You can be **bold** enough to climb a **boulder**, but a boulder is never bold—it just sits there!
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of a **B**ig, **O**ld, **U**nder-**L**evel **D**ense **R**ock.
+* **Logical Association:** The word sounds heavy. The "B" at the start feels solid and round, much like the shape of a rock that has been smoothed by a river for a thousand years.
+
+---
+
+**Would you like me to create a short practice quiz to help you use "boulder" and its related terms in a sentence?**

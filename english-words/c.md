@@ -921,3 +921,159 @@ Think of the root "to pour together." In science, a **confounding variable** is 
 ---
 
 **Would you like me to walk you through a classic example of a "confounding variable"—like the famous correlation between ice cream sales and shark attacks?**
+
+# culprit
+
+Excellent choice. **Culprit** is a versatile word that sits right at the intersection of a crime scene and a kitchen mishap. It is the perfect word for identifying the "who" or "what" behind a problem.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈkʌl.prɪt/` | US: `/ˈkʌl.prɪt/`
+* **Part of Speech:** Noun (Countable)
+* **CEFR Level:** **B2** (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** A person responsible for a crime or a misdeed; or, more informally, the cause of a problem or defect.
+* **Chinese Definition:** 罪犯 (Zuìfàn) / 问题的起因 (Wèntí de qǐyīn)
+* **Collocations:**
+* **The main culprit** (The primary cause)
+* **Apprehend the culprit** (Catch the criminal)
+* **Identify the culprit** (Find the cause)
+* **Unlikely culprit** (Someone or something you didn't suspect)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "My phone battery keeps dying, and it turns out the flashlight app was the **culprit**."
+* **Formal/Academic Example:** "Carbon emissions from heavy industry remain the primary **culprit** in the acceleration of global warming."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** This one has a quirky history. It likely comes from a fusion of the Anglo-French *culrable* (guilty) and *prest* (ready)—meaning the prosecutor is "ready to prove the person is guilty."
+* **Word Family:** * **Adjective:** Culpable (Deserving blame; e.g., "His actions were highly culpable.")
+* **Noun:** Culpability (The state of being responsible for a fault/wrong.)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+| **Synonym** | **Nuance / Vibe** |
+| --- | --- |
+| **Perpetrator** | Very formal/legal; usually for serious crimes (violence, theft). |
+| **Offender** | Someone who breaks a specific law or rule. |
+| **Source / Root** | Used when the "culprit" is an inanimate object or an abstract idea. |
+| **Scoundrel** | Old-fashioned/Playful; suggests a person with no honor. |
+
+### The "Don't Mix Up" Section: Culprit vs. Victim
+
+* **Culprit:** The person who **does** the bad thing.
+* **Victim:** The person the bad thing **happens to**.
+
+> **Vibe Check:** In a Sherlock Holmes story, the **culprit** is the one Sherlock catches; the **victim** is the one who lost their jewels.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of a **"Culp-rit"** as the person who put the **"Gulp"** in your throat. When you realize someone did something wrong, you might *gulp* in surprise.
+* **Logical Association:** The root **"culp"** always means fault or blame (just like in the Latin phrase *Mea Culpa*—"my fault").
+
+---
+
+### Putting it All Together
+
+> "After the storm, the yard was **strewn** with branches and small **boulders**. We initially blamed the wind, but the real **culprit** was a massive mudslide."
+
+**We've covered a physical object, a state of messiness, a feeling of hunger, a subtle difference, and now a person to blame. Which "vibe" should we explore next?**
+
+# commodity
+
+We are moving from the confident, human energy of a **stride** to the cold, calculated world of economics. **Commodity** is a foundational word for understanding global trade, but it also has a very interesting metaphorical side.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/kəˈmɒd.ə.ti/` | US: `/kəˈmɑː.də.t̬i/`
+* **Part of Speech:** Noun (Countable)
+* **CEFR Level:** **C1** (Advanced / Business)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** A raw material or primary agricultural product that can be bought and sold (like copper or coffee); or, a useful or valuable thing.
+* **Chinese Definition:** 商品 (Shāngpǐn) / 日用品 / 有价值的物品
+* **Collocations:**
+* **Basic commodity** (Essentials like water or grain)
+* **Traded commodity** (Items on the stock market)
+* **A hot commodity** (Something in high demand)
+* **Commodity prices** (Market rates)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "In today’s fast-paced world, free time has become a very rare and precious **commodity**."
+* **Formal/Academic Example:** "The country’s economy is heavily dependent on the export of agricultural **commodities** such as crude oil and timber."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** From the Latin *commoditas*, meaning "convenience" or "fitness." It shares a root with the word **accommodate**. Originally, a "commodity" was something that made your life easier or more comfortable.
+* **Word Family:**
+* **Verb:** Commodify (To turn something—like art or a feeling—into a product to be sold.)
+* **Noun:** Commodification (The process of treating something as a mere commodity.)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+| **Synonym** | **Nuance / Vibe** |
+| --- | --- |
+| **Product** | Something manufactured (like an iPhone). |
+| **Good** | A general economic term for any physical item for sale. |
+| **Asset** | Something of value that you *own* (like a house or stock). |
+| **Resource** | Something used to produce wealth (like land or talent). |
+
+### The "Don't Mix Up" Section: Commodity vs. Product
+
+* **Commodity:** Usually **raw and interchangeable**. One barrel of "Grade A" oil is exactly the same as another. There is no "brand" loyalty to a piece of gold.
+* **Product:** Usually **unique and branded**. You don't just want a "phone" (commodity); you want an "iPhone" (product) because of its specific features.
+
+> **Vibe Check:** If you don't care *who* made it as long as the quality is the same, it's a **commodity**. If the brand name matters, it's a **product**.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** **Common-Dity**. A commodity is a **common** item that everyone needs (like salt or oil).
+* **Logical Association:** Think of the word **common**. Commodities are "common" in the sense that they are the basic, standardized building blocks of the entire global economy.
+
+---
+
+### The Master Vocabulary Challenge
+
+Let’s see if we can weave our recent words into a complex scenario:
+
+> "As the **geriatric** billionaire **strode** into the boardroom, he realized that in his **perpetual** quest for power, he had treated even human loyalty as a mere **commodity**."
+
+**Would you like to look at more business-related terms, or should we find a word that describes a specific type of commodity?**
+

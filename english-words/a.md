@@ -703,3 +703,83 @@ abomination** 是一个语气强烈的名词，用于表达极端的厌恶或道
 **10 个词是一个完美的里程碑！这组词能让你在描述人物性格、心路历程或复杂事件时，表达得非常精准且有文学色彩。**
 
 **你是想继续挑战第 11 个词，还是需要我为你整理一份这些单词的“同义词替换清单”以便于写作使用？**
+
+# accustomed
+
+This word describes the bridge between the "new" and the "normal." **Accustomed** is about the mental or physical shift that happens when something unfamiliar becomes part of your routine.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/əˈkʌs.təmd/` | US: `/əˈkʌs.təmd/`
+* **Part of Speech:** Adjective
+* **CEFR Level:** **B2** (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** Customary or usual; (followed by "to") familiar with something so that it no longer seems strange or difficult.
+* **Chinese Definition:** 习惯的 (Xíguàn de) / 通常的
+* **Collocations:**
+* **Become accustomed to** (The process of adjusting)
+* **In one's accustomed manner** (Doing something the usual way)
+* **Accustomed to the heat/noise** (Sensory adjustment)
+* **Grow accustomed to** (Slowly getting used to)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "Living in the city was loud at first, but I quickly grew **accustomed to** the sound of sirens at night."
+* **Formal/Academic Example:** "The indigenous tribes were **accustomed to** the harsh climate, having developed sophisticated survival techniques over centuries."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** From the Old French *acostumer*, based on *costume* (custom/habit). It essentially means bringing something into your personal "custom" or "habit."
+* **Word Family:**
+* **Noun:** Custom (A traditional practice)
+* **Verb:** Accustom (To make someone familiar with something)
+* **Noun:** Customer (Someone who *customarily* frequents a shop)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+| **Synonym** | **Nuance / Vibe** |
+| --- | --- |
+| **Used to** | The most common, informal way to say this. |
+| **Habituated** | More technical/psychological; often used for physical senses. |
+| **Inured** | Specifically used for getting used to something *unpleasant* (like cold or pain). |
+| **Wont** | (Archaic/Literary) "As was his wont" (as he usually did). |
+
+### The "Don't Mix Up" Section: Accustomed vs. Addicted
+
+* **Accustomed:** A neutral or positive adjustment. You are **accustomed** to waking up early; it's just your routine.
+* **Addicted:** A negative, compulsive dependency. You don't just "do" it; you *must* do it, often to your detriment.
+
+> **Vibe Check:** You can be **accustomed** to coffee (you like the routine), but you are **addicted** to caffeine (your head hurts if you don't have it).
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** **A-Custom-Ed**. Think of a **Custom** tailor. They make a suit that fits *only* you perfectly. When you are **accustomed** to something, it "fits" your life perfectly.
+* **Logical Association:** Look at the word **"Custom"** inside it. It’s all about what is *customary* for you.
+
+---
+
+### The All-Star Sentence
+
+Let's use our previous words to see how they interact:
+
+> "The **geriatric** traveler was **accustomed** to walking over terrain **strewn** with **boulders**, having developed a steady **stride** over years of exploration."
+
+**Would you like me to explain the grammar rule for using "accustomed to" (since it often trips up learners with the -ing form), or would you like a new word?**

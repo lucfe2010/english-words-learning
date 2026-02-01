@@ -795,3 +795,80 @@ Think of a holiday **resort** as a place where you "re-sort" your life—you lea
 ---
 
 **Would you like me to help you use "as a last resort" in a sentence regarding a difficult decision you're currently weighing?**
+
+# ravenous
+
+Moving from the physical landscape of boulders and strewn debris to the realm of intense physical sensation, we have **ravenous**. This is a "high-energy" word that carries much more emotional weight than simply being hungry.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈræv.ən.əs/` | US: `/ˈræv.ən.əs/`
+* **Part of Speech:** Adjective
+* **CEFR Level:** **C1** (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** Extremely hungry; or (metaphorically) having an insatiable appetite for something like power, knowledge, or attention.
+* **Chinese Definition:** 饥饿异常的 (Jī'è yìcháng de) / 贪婪的 (Tānlán de)
+* **Collocations:**
+* **Ravenous appetite** (Most common usage)
+* **Ravenous for news/information** (Metaphorical)
+* **Feel ravenous** (State of being)
+* **A ravenous wolf/beast** (Literary trope)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "I skipped breakfast and lunch today, so by the time dinner was served, I was absolutely **ravenous**."
+* **Formal/Academic Example:** "The colonial powers exhibited a **ravenous** ambition for territorial expansion throughout the 19th century."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** Derived from the Old French *ravineux*, from *raviner* (to pillage/sweep away). It is closely linked to the word **ravage**. It implies a hunger so strong it could lead to destruction.
+* **Word Family:**
+* **Adverb:** Ravenously (e.g., "He ate ravenously.")
+* **Noun:** Ravenousness (The state of being ravenous)
+* **Related Verb:** Raven (An archaic verb meaning to prey upon or eat greedily)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+| **Synonym** | **Nuance / Intensity** |
+| --- | --- |
+| **Hungry** | Basic physical need; neutral. |
+| **Famished** | Very strong; implies you are "faint" from lack of food. |
+| **Starving** | Hyperbolic; used colloquially to mean very hungry, or literally to mean dying. |
+| **Voracious** | Similar to ravenous, but often used for *habits* (a voracious reader). |
+
+### The "Don't Mix Up" Section: Ravenous vs. Famished
+
+While both mean "very hungry," **famished** focuses on the *weakness* caused by hunger (feeling empty/drained). **Ravenous** focuses on the *aggression* or *intensity* of the hunger (feeling like you want to devour everything in sight).
+
+> **Pro Tip:** You feel **famished** after a long fast; you feel **ravenous** when you smell fresh pizza after a workout.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of a **Raven**. These birds are known for being scavengers that are always looking for their next meal. A **Raven** is **Raven-ous**.
+* **Logical Association:** The "rav" root is the same as in **ravage**. It connects the idea of hunger to a "force of nature" that consumes everything in its path.
+
+---
+
+### A "360-Degree" Scenario
+
+> "After hiking over a path **strewn** with jagged **boulders**, the explorers were **ravenous** and fell upon their meager rations with desperate speed."
+
+**Would you like to try writing a sentence using all three of our words, or should we move on to a new word?**

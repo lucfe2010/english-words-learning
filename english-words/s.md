@@ -1442,3 +1442,160 @@ Think of the physical action of a siphon: it requires a "prime" (a little suctio
 ---
 
 **Would you like me to explain the physics of how a siphon works, or perhaps provide more examples of how "siphon" is used in political or business news?**
+
+# strewn
+
+This is a fantastic follow-up word. While a **boulder** is a singular, heavy object, **strewn** describes how things (like boulders) are scattered across a space. It’s an evocative, highly visual word.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/struːn/` | US: `/struːn/`
+* **Part of Speech:** Adjective (Past Participle of "strew")
+* **CEFR Level:** **C1** (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** Untidily scattered or spread over a surface or area.
+* **Chinese Definition:** 散落的 (Sànluò de) / 遍布的
+* **Collocations:**
+* **Litter-strewn** (Commonly used for streets)
+* **Debris-strewn** (Used after a disaster/accident)
+* **Strewn across** (Prepositional phrase)
+* **Bountifully strewn** (Poetic/Positive)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "After the party, the living room was **strewn** with empty cups and crumpled napkins."
+* **Formal/Academic Example:** "The shoreline was **strewn** with wreckage from the ship, providing investigators with vital evidence regarding the point of impact."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** From Old English *strewian*, meaning "to spread or scatter." It shares a common ancestor with the Latin *sternere* (to flatten/spread).
+* **Word Family:**
+* **Verb:** Strew (Present tense: "I strew seeds.")
+* **Past Tense:** Strewed
+* **Past Participle:** Strewn (Most commonly used as an adjective)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+| **Synonym** | **Nuance / Intensity** |
+| --- | --- |
+| **Scattered** | Neutral; can be intentional or accidental. |
+| **Dispersed** | More technical/scientific; spread out evenly. |
+| **Littered** | Negative; implies the objects are trash or unwanted. |
+| **Sprinkled** | Light and delicate (e.g., sugar on a cake). |
+
+### The "Don't Mix Up" Section: Strewn vs. Spread
+
+* **Spread:** Often implies a deliberate, even coating (like butter on toast) or an expansion (the virus spread).
+* **Strewn:** Implies a **messy, random, or irregular** distribution. If you "spread" flowers, you might be planting them; if you "strew" flowers, you are throwing them loosely on the ground.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of the word **"Threwn"** (like "thrown"). If things were "thrown" everywhere, they are now **strewn**.
+* **Logical Association:** The "str-" sound is found in words like *stretch* and *stream*. It suggests something that extends outward across a wide area.
+
+---
+
+### Combining Your Words
+
+> "The mountain path was **strewn** with massive **boulders** after the rockslide."
+
+**Would you like me to find a few more C1-level adjectives that describe the arrangement of objects?**
+
+# stride
+
+This word perfectly captures a sense of confidence and purpose. Whether used literally to describe a long step or metaphorically to describe progress, **stride** is a high-energy "power word."
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/straɪd/` | US: `/straɪd/`
+* **Part of Speech:** Noun (Countable), Verb (Irregular: *stride, strode, stridden*)
+* **CEFR Level:** **B2** (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** To walk with long, decisive steps; (noun) a long step or a significant stage of progress.
+* **Chinese Definition:** 大步走 (Dàbù zǒu) / 进展 (Jìnzhǎn)
+* **Collocations:**
+* **Take something in stride** (To deal with a problem calmly)
+* **Make great strides** (To make significant progress)
+* **Long/Powerful stride** (Physical description)
+* **Break your stride** (To interrupt your rhythm)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "She walked down the hallway with a confident **stride**, looking like she owned the building."
+* **Formal/Academic Example:** "The medical community has made **significant strides** in **geriatric** care over the last decade, greatly improving the quality of life for the elderly."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** From the Old English *strīdan*, meaning to "straddle" or "step over." It originally implied a sense of "stretching" the legs.
+* **Word Family:**
+* **Verb:** Stride (Present)
+* **Past Tense:** Strode (e.g., "He strode into the room.")
+* **Past Participle:** Stridden
+* **Adjective:** Bestridden (Archaic/Literary)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+| **Synonym** | **Nuance / Vibe** |
+| --- | --- |
+| **Walk** | Neutral; the basic act of moving on foot. |
+| **Pace** | Walking back and forth, often due to anxiety or waiting. |
+| **Saunter** | Walking in a slow, relaxed, or aimless way. |
+| **March** | Walking with military precision or strong determination. |
+
+### The "Don't Mix Up" Section: Stride vs. Stroll
+
+* **Stroll:** Relaxed, slow, and leisurely. You **stroll** through a park on a Sunday.
+* **Stride:** Purposeful, fast, and energetic. You **stride** toward a meeting you’re ready to lead.
+
+> **Vibe Check:** A **stride** is a "hungry" walk—it’s the walk of someone who knows exactly where they are going.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** **S**tep + **T**hrough + **R**ide. Imagine you are "riding" your own momentum as you **S**tep **T**hrough the air.
+* **Logical Association:** It sounds like "stretch." To **stride**, you have to *stretch* your legs further than a normal walk.
+
+---
+
+### The Vocabulary Synthesis
+
+Let's bring our recent words together:
+
+> "The **geriatric** professor, despite his age, still had a vigorous **stride** that seemed to **defy** the physical limitations of his years."
+
+**Would you like me to explain the idiom "to take it in stride," or would you prefer a new word to analyze?**
