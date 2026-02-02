@@ -872,3 +872,90 @@ While both mean "very hungry," **famished** focuses on the *weakness* caused by 
 > "After hiking over a path **strewn** with jagged **boulders**, the explorers were **ravenous** and fell upon their meager rations with desperate speed."
 
 **Would you like to try writing a sentence using all three of our words, or should we move on to a new word?**
+
+# rally
+
+This is an "energy" word. **Rally** is unique because it describes both a physical gathering and a mental recovery. It’s a word used in sports, politics, finance, and personal resilience.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /ˈræl.i/
+* **IPA (US):** /ˈræl.i/
+* **Part of Speech:** Verb (Intransitive/Transitive), Noun (Countable)
+* **CEFR Level:** B2 (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. To come together for a common purpose or to support a cause. 2. To recover health, spirits, or value after a period of decline. 3. (Sports) A continuous exchange of hits in games like tennis.
+* **Chinese Definition:** 召集 (Zhàojí); 恢复 (Huīfù); 集会 (Jíhuì).
+* **Collocations:**
+* **Rally the troops** (To motivate a group to action)
+* **A political rally**
+* **The stock market rallied**
+* **Rally round/behind** (To give support to someone in a difficult time)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "When our neighbor’s house flooded, the whole street **rallied** around them to help clean up the mess."
+* **Formal/Academic Example:** "Despite a weak opening quarter, the currency **rallied** in late afternoon trading following the central bank's announcement."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** Derived from the Old French *rallier*.
+* **Re-** (again) + **allier** (to ally/combine).
+* Literally, it means "to re-ally" or to bring people back into a group after they have been scattered.
+
+
+* **Word Family:**
+* **Noun:** Rally (e.g., *The protest rally was peaceful.*)
+* **Verb (Past):** Rallied (e.g., *He rallied from his illness.*)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Gathering** | Assemble, Mobilize, Convene | Disperse, Scatter |
+| **Recovery** | Rebound, Recuperate, Revive | Decline, Worsen, Slump |
+| **Action** | Galvanize, Incite | Discourage, Dissuade |
+
+### The "Don't Mix Up" Section: Rally vs. Protest
+
+* **Rally** is a general term for a mass gathering meant to **build enthusiasm** or support for something. It is usually positive for the participants (e.g., a "pep rally").
+* **Protest** is specifically organized to **object to** something.
+* **The Vibe:** You *rally* "for" something; you *protest* "against" something. A rally feels like a collective "push" forward.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of a **"Rally Car."** A rally car has to drive through mud, dirt, and obstacles, but it keeps **re-allying** its power to finish the race.
+* **Logical Association:** Since it comes from "re-ally," think of it as **renewing an alliance**. When you rally, you are making the group (or your own energy) strong again.
+
+---
+
+### The Story So Far
+
+You now have a vocabulary that can describe a full cycle of conflict:
+
+1. **Havoc** is wreaked.
+2. People are **distraught**.
+3. Leaders **rally** the community.
+4. They **prosper** once again.
+
+Would you like to look at the word **galvanize**? it is a more "electric" synonym for **rallying** people into action.

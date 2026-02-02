@@ -1599,3 +1599,85 @@ Let's bring our recent words together:
 > "The **geriatric** professor, despite his age, still had a vigorous **stride** that seemed to **defy** the physical limitations of his years."
 
 **Would you like me to explain the idiom "to take it in stride," or would you prefer a new word to analyze?**
+
+# sully
+
+This is a "grimy" word. To **sully** something is to take something pure, clean, or prestigious and make it dirty—either literally or, more commonly, figuratively.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /ˈsʌl.i/
+* **IPA (US):** /ˈsʌl.i/
+* **Part of Speech:** Verb (Transitive)
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** To damage the purity or integrity of something; to make dirty, soiled, or tarnished.
+* **Chinese Definition:** 玷污 (Diànwū); 弄脏 (Nòng zāng).
+* **Collocations:** * **Sully a reputation** (The most common usage)
+* **Sully one's name**
+* **Remain unsullied** (often used to describe nature or character)
+* **Sully the memory of...**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "I didn't want to **sully** my new white sneakers by walking through the muddy park."
+* **Formal/Academic Example:** "The scandal threatened to **sully** the organization's century-long history of ethical conduct and community service."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** Likely from the Middle French *souiller* (to soil, to wallow in mire). It shares a distant cousinhood with the English word "soil."
+* **Word Family:**
+* **Adjective:** Unsullied (Pure, untouched, e.g., *unsullied wilderness*).
+* **Past Participle:** Sullied (e.g., *a sullied past*).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Reputation/Honor** | Tarnish, Besmirch, Defile | Honor, Exalt, Purify |
+| **Physical** | Soil, Stain, Dirty | Clean, Sanitize, Polish |
+| **Purity** | Corrupt, Contaminate | Restore, Refine |
+
+### The "Don't Mix Up" Section: Sully vs. Insult
+
+* **Insult** is a direct verbal attack on someone. It’s what you say *to* them.
+* **Sully** is the *effect* of an action or a rumor on a reputation. It’s what happens *to* their image.
+* **The Vibe:** You can ignore an *insult*, but it is very hard to clean a *sullied* reputation. **Sully** implies that a "stain" has been left behind that is difficult to wash away.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of the word **Soil**. To **S-ully** is to put **S-oil** on something that was clean.
+* **Logical Association:** Think of a white dress. If you drop a single drop of ink on it, you have **sullied** it. It’s not destroyed, but it is no longer "perfect." That is the essence of the word.
+
+---
+
+### The Final "Reputation" Lesson
+
+We have covered a fascinating arc of words today. Look at how they interact:
+
+* A person might **prosper** and win **laurels**.
+* If they become **complacent**, they might make a mistake.
+* That mistake could **sully** their reputation.
+* They are then left **distraught**, trying to fix the **unfathomable** damage.
+
+Would you like to try a **fill-in-the-blanks exercise** using all the words we've discussed to see if you've truly mastered them?

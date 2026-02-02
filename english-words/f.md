@@ -420,3 +420,82 @@ The word **"fathom"** comes from the Old English word for "outstretched arms." T
 ---
 
 **Would you like me to show you how "unfathomable" is used in literature to describe complex characters or cosmic themes?**
+
+# frugality
+
+Hello there! It is a pleasure to help you master the nuances of English. Today, we are diving deep into a word that is often misunderstood as "being cheap," but in reality, it carries a much more disciplined and respectable weight.
+
+Let's break down **frugality**.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /fruːˈɡæl.ə.ti/
+* **IPA (US):** /fruːˈɡæl.ə.t̬i/
+* **Part of Speech:** Noun (Mass)
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** The quality of being economical with money or food; thriftiness. It is the practice of consuming only what is necessary and avoiding waste.
+* **Chinese Definition:** 节俭 (Jiéjiǎn); 俭省 (Jiǎnshěng).
+* **Collocations:** * **To practice** frugality
+* **Extreme** frugality
+* **Enforced** frugality (usually due to circumstance)
+* **A habit of** frugality
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "During her university years, her **frugality** was legendary; she’d meal prep every Sunday to avoid spending a dime on takeout."
+* **Formal/Academic Example:** "Economists argue that a culture of **frugality** among the working class can lead to higher national savings rates, though it may temporarily suppress consumer spending."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** Derived from the Latin *frugalis* (virtuous, economical), which comes from *frux* (fruit, profit, value). Literally, it’s the "fruitfulness" of being careful with resources.
+* **Word Family:**
+* **Adjective:** Frugal (e.g., *a frugal meal*)
+* **Adverb:** Frugally (e.g., *living frugally*)
+* **Noun:** Frugality (the state of being frugal)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Direct/Neutral** | Thrift, Economy | Extravagance, Wastefulness |
+| **Positive Nuance** | Prudence, Stewardship | Generosity (in some contexts) |
+| **Negative Nuance** | Parsimony, Stinginess | Profligacy, Lavishness |
+
+### The "Don't Mix Up" Section: Frugality vs. Stinginess
+
+This is the most common pitfall!
+
+* **Frugality** is a **positive** trait. It’s about being *wise* with your own resources so you can achieve a goal (like saving for a house). A frugal person will still tip a waiter well because that is "fair value."
+* **Stinginess** is a **negative** trait. It’s about a lack of generosity toward *others*. A stingy person avoids spending money even when it is social or morally appropriate to do so.
+
+> **The Vibe:** Frugality is a choice of discipline; stinginess is a flaw of character.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of the word **Fruit**. A **frugal** person waits for the **fruit** to ripen and uses every bit of it, including the seeds, to make sure nothing goes to waste.
+* **Logical Association:** Since the root is *frux* (fruit), think of "frugality" as enjoying the *fruits* of your labor longer by not devouring them all at once.
+
+---
+
+Would you like me to create a short practice quiz to see if you can distinguish **frugality** from its synonyms in different sentences?

@@ -359,3 +359,83 @@ We’ve now covered the entire human lifespan in your vocabulary list:
 > "The doctor noticed a **nuance** in the **geriatric** patient's symptoms that was rarely seen in **pubescent** children, proving that some health issues **defy** simple age-based categorization."
 
 **Would you like to continue with "medical" terms, or should we find a word to describe the environment these people live in?**
+
+# gnaw
+
+This is a "persistent" word. It captures the physical action of a rodent and the mental action of a recurring worry. It’s one of those words that feels like what it describes—repetitive and grinding.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /nɔː/
+* **IPA (US):** /nɑː/
+* **Part of Speech:** Verb (Intransitive/Transitive)
+* **CEFR Level:** B2/C1 (Upper Intermediate/Advanced)
+* **Note:** The "g" is silent.
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. To bite or chew on something persistently, typically to wear it away. 2. (Metaphorical) To cause persistent distress or anxiety over a long period.
+* **Chinese Definition:** 啮 (Niè); 啃 (Kěn); 折磨 (Zhémó).
+* **Collocations:** * **Gnaw at** (a bone/one's conscience)
+* **A gnawing hunger**
+* **Gnaw away at** (profits/confidence)
+* **Gnaw through** (a cable/rope)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The puppy spent the entire afternoon **gnawing** on the leg of the wooden chair."
+* **Formal/Academic Example:** "Doubts about the validity of the data began to **gnaw at** the researcher, eventually leading to a full review of the study."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** From the Old English *gnagan*, of Germanic origin. It is an "onomatopoeic" word—the sound of the word mirrors the grinding sound of teeth.
+* **Word Family:**
+* **Adjective:** Gnawing (e.g., *a gnawing pain in my stomach*).
+* **Past Tense:** Gnawed (e.g., *the rope was gnawed through*).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Physical** | Chew, Nibble, Munch, Chomp | Swallow whole, Gulp |
+| **Metaphorical** | Plague, Haunt, Erode, Wear down | Comfort, Soothe, Reassure |
+| **Damage** | Corrode, Eat away | Build, Restore |
+
+### The "Don't Mix Up" Section: Gnaw vs. Nibble
+
+* **Nibble** is taking small, gentle bites, often out of curiosity or lack of hunger. It’s light and quick.
+* **Gnaw** is intense, persistent, and usually has a goal (like getting to the marrow of a bone or wearing something down).
+* **The Vibe:** Nibbling is "snacking"; gnawing is "work." In the mind, a "nibble" of doubt is a small thought, but a "**gnawing**" doubt is one that won't leave you alone until it eats your peace of mind.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** The **G** is silent, like a mouse **gnawing** in the wall at night. You don't hear the "G," but you feel the **N**agging effect of the action.
+* **Logical Association:** Think of a beaver. A beaver doesn't cut a tree with one strike; it **gnaws** at it. It is the power of **repetition** over time.
+
+---
+
+### The "Vocabulary Loop" Challenge
+
+Can you complete this sentence using three of the words we've learned today?
+
+*"Even though the company _________ (prospered/sullied) for years, the CEO felt a _________ (gnawing/complacent) fear that a single scandal could _________ (usher/sully) his family's name forever."*
+
+**Would you like the answer, or would you like to try another word like "eroded" or "nagging"?**

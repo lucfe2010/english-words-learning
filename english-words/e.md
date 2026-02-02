@@ -302,3 +302,88 @@ Since the root means "duty," think of an endeavor as a task you have assigned to
 ---
 
 **Would you like me to show you how to use "best endeavors" in a professional email to sound more committed and formal?**
+
+# excess
+
+This is a "boundary" word. **Excess** describes the moment you cross the line from "enough" to "too much." It is a foundational word in economics, health, and philosophy.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /ˈek.ses/ (Noun) /ɪkˈses/ (Adjective)
+* **IPA (US):** /ˈek.ses/ (Noun) /ekˈses/ (Adjective)
+* **Part of Speech:** Noun (Countable/Uncountable) and Adjective
+* **CEFR Level:** B2 (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** An amount of something that is more than necessary, permitted, or desirable. As an adjective, it describes something that is extra or surplus.
+* **Chinese Definition:** 过度 (Guòdù); 剩余 (Shèngyú).
+* **Collocations:** * **In excess of** (More than a specific number/limit)
+* **To do something to excess** (Overdo it)
+* **Excess baggage** (Literal luggage or emotional "weight")
+* **Excess calories/fat**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "I tried to clear out my closet, but I still have an **excess** of winter coats I never wear."
+* **Formal/Academic Example:** "The chemical reaction failed because of an **excess** of reagents, which altered the intended pH balance of the solution."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** From the Latin *excessus*, meaning "a departure" or "going out."
+* **Ex-** (out) + **cedere** (to go).
+* Literally, it is the act of "going beyond" the limit.
+
+
+* **Word Family:**
+* **Adjective:** Excessive (e.g., *excessive noise*).
+* **Adverb:** Excessively (e.g., *He drinks excessively.*).
+* **Verb:** Exceed (e.g., *Do not exceed the speed limit.*).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Quantity** | Surplus, Glut, Plethora | Dearth, Shortage, Scarcity |
+| **Behavior** | Indulgence, Intemperance | Moderation, Restraint |
+| **Physical** | Remainder, Leftover | Deficiency, Lack |
+
+### The "Don't Mix Up" Section: Excess vs. Access
+
+* **Excess** refers to **quantity** (too much of something).
+* **Access** refers to **permission** or the ability to enter/use something (e.g., "access to the building").
+* **The Vibe:** They sound similar, but **excess** is about *how much*, while **access** is about *if you can get in*.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of the **"Ex-"** in **Ex**it. When you have an **excess**, you have so much that it's flowing out of the **ex**it door.
+* **Logical Association:** If you **exceed** a limit, you are left with an **excess**. The verb and noun are logically tied—one is the action, the other is the result.
+
+---
+
+### The Vocabulary Connection
+
+**Excess** is the conceptual opposite of **frugality**.
+
+* A person practicing **frugality** avoids **excess**.
+* A person who lives in **excess** might find their reputation **sullied** if they become too **complacent**.
+
+Would you like to explore words for "not enough," like **scarcity** or **insufficient**?

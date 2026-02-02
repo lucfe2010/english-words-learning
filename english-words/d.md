@@ -991,3 +991,82 @@ We can now create a truly epic narrative with your vocabulary list:
 > "The **culprit** stood on the edge of a **boulder**, looking down at the valley **strewn** with his failed attempts. Despite being **ravenous** and exhausted, he chose to **defy** his captors, knowing that his **perpetual** search for the truth required understanding every **nuance** of the law."
 
 **Would you like me to analyze another word that fits this theme of "resistance," or are you ready to switch gears?**
+
+# distraught
+
+This is a high-emotion word. **Distraught** is several steps above "sad" or "worried"—it describes a state of being so upset that you can barely function or think clearly.
+
+Here is the 360-degree breakdown of **distraught**.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /dɪˈstrɔːt/
+* **IPA (US):** /dɪˈstrɑːt/
+* **Part of Speech:** Adjective
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** Extremely upset and agitated; so worried or over-wrought that one cannot think or behave normally.
+* **Chinese Definition:** 心烦意乱的 (Xīnfán yìluàn de); 发狂的 (Fākuáng de).
+* **Collocations:** * **Distraught parents** (often used in news reports)
+* **Visibly distraught**
+* **Absolutely distraught**
+* **To be distraught with** grief/worry
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "She was **distraught** when she realized she had left her passport in the taxi on the way to the airport."
+* **Formal/Academic Example:** "Witnesses described the victim’s family as **distraught**, requiring medical assistance to cope with the shock of the announcement."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** A curious linguistic evolution! It is an alteration of the Middle English *distrait* (absent-minded/distracted), influenced by the word *distract*. It comes from the Latin *distractus*, meaning "pulled in different directions."
+* **Word Family:**
+* **Adverb:** Distraughtly (Very rare).
+* **Related Verb:** Distract (To pull attention away).
+* **Related Adjective:** Distrait (Used in English to mean "absent-minded" or "dreamy," but much less common).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **High Intensity** | Hysterical, Inconsolable | Calm, Composed |
+| **Emotional State** | Agitated, Overwrought | Serene, Unruffled |
+| **Mental State** | Beside oneself, Frantic | Lucid, Rational |
+
+### The "Don't Mix Up" Section: Distraught vs. Depressed
+
+* **Depressed** usually refers to a long-term state of low mood, sadness, and lack of energy. It is "heavy" and "slow."
+* **Distraught** is an **acute, high-energy** state. It is "sharp" and "frantic." A distraught person is often pacing, crying, or trembling.
+* **The Vibe:** If you are depressed, you might not want to get out of bed. If you are **distraught**, you are likely out of bed but don't know what to do with yourself because your mind is racing with panic or grief.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Look at the word: **Distra**ught. It sounds like **"Destroyed."** When someone is distraught, their composure and peace of mind have been temporarily **destroyed** by bad news.
+* **Logical Association:** Remember the Latin root meaning "pulled in different directions." Think of a person so upset that their mind is being **pulled apart** by worry, making it impossible to focus.
+
+---
+
+**Mastery Check:**
+You now have a powerful set of words: *frugality, paranoia, ushered, cemented,* and *distraught*.
+
+Would you like me to write a **mini-thriller story** (just 4–5 sentences) that uses all five words so you can see how they function in a narrative?
