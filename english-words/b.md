@@ -869,3 +869,365 @@ We have now navigated a tricky linguistic neighborhood:
 3. **Barbelled:** Shaped like a barbell or having whiskers (Adjective).
 
 Would you like to explore other **adjectives ending in "-ed"** that describe specific shapes, such as **tapered** or **serrated**?
+
+# belabor
+
+Hello there! It is a pleasure to help you master **"belabor"** (often spelled **"belabour"** in British English). This is a sophisticated verb that adds significant texture to your vocabulary, especially when discussing communication or physical effort.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (US):** /bɪˈleɪ.bɚ/
+* **IPA (UK):** /bɪˈleɪ.bə/
+* **Part of Speech:** Verb (Transitive)
+* **CEFR Level:** **C1** (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** To talk about something for too long or in too much detail; or, to attack someone physically or verbally.
+* **Chinese Definition:** 就…做过分的说明 (过分强调); 痛打
+* **Collocations:**
+* **Belabor the point** (The most common usage)
+* **Belabor the obvious**
+* **Belabor the issue**
+
+
+
+---
+
+## 3. Contextual Usage
+
+### Natural Example
+
+"I don’t want to **belabor the point**, but if we don't leave now, we are definitely going to miss the flight."
+
+### Formal/Academic Example
+
+"While the preliminary findings are significant, the author tends to **belabor the methodology** section, repeating justifications that were already established in the introduction."
+
+---
+
+## 4. Linguistic Origins & Family
+
+### Etymology
+
+* **Prefix: be-** (intensive prefix meaning "thoroughly" or "all over")
+* **Root: labor** (Latin *laborare*, meaning "to work")
+* **Literal sense:** To "put a lot of work into" something—so much so that it becomes excessive or exhausting.
+
+### Word Family
+
+* **Noun:** Labor (work), Belaboring (the act of)
+* **Adjective:** Labored (done with great effort; unnatural)
+* **Verb:** Labor, Belabor
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Intensity** | **Overwork, dwell on, harp on** | **Briefly mention, disregard** |
+| **Physical** | **Pummel, thrash, beat** | **Protect, defend** |
+| **Academic** | **Expatiate, reiterate** | **Summarize, gloss over** |
+
+### The "Don't Mix Up" Section: Belabor vs. Elaborate
+
+These two are frequently confused by high-level learners.
+
+* **Elaborate:** Adding more detail to make something clearer. This is usually **positive**. (*"Could you elaborate on that idea?"*)
+* **Belabor:** Adding detail to the point of annoyance or boredom. This is **negative**. It implies you’ve gone past the point of being helpful and are now just "beating a dead horse."
+
+---
+
+## 6. Memory Anchor
+
+### Mnemonic
+
+Think of the phrase: **"Don't be a labor-bore."** If you **belabor** a point, you are working (**labor**) so hard on it that you become a total **bore**.
+
+### Logical Association
+
+The word literally means "to put work (*labor*) onto (*be-*)." Imagine someone scrubbing a floor that is already clean. They are "belaboring" the task—doing unnecessary work that yields no new results.
+
+---
+
+**Would you like me to create a short practice quiz to see if you can distinguish between "elaborate" and "belabor" in context?**
+
+# bargain
+
+Ah, **"bargain"**—a word that is as much about the thrill of the hunt as it is about economics. While it seems simple on the surface, its usage shifts significantly between its role as a noun and a verb.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (US):** /ˈbɑːr.ɡɪn/
+* **IPA (UK):** /ˈbɑː.ɡɪn/
+* **Part of Speech:** Noun (Countable), Verb (Intransitive)
+* **CEFR Level:** **B1** (Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** * **Noun:** Something bought for a lower price than its true value.
+* **Verb:** To negotiate the terms and conditions of a transaction or agreement.
+
+
+* **Chinese Definition:** * **Noun:** 便宜货 (Piányí huò)
+* **Verb:** 讨价还价 (Tǎojiàhuánjià)
+
+
+* **Collocations:**
+* **Drive a hard bargain** (To be a very tough negotiator)
+* **A real bargain** (An exceptionally good price)
+* **Bargain hunter** (Someone who looks for cheap items)
+* **More than I bargained for** (More trouble/effort than expected)
+
+
+
+---
+
+## 3. Contextual Usage
+
+### Natural Example
+
+"I found this leather jacket at the thrift store for only $20—it was a **total bargain**!"
+
+### Formal/Academic Example
+
+"Collective **bargaining** remains a cornerstone of labor relations, ensuring that employees can negotiate fair wages and working conditions with their employers."
+
+---
+
+## 4. Linguistic Origins & Family
+
+### Etymology
+
+* **Origin:** Derived from the Old French *bargaignier* (to hesitate, haggle, or trade).
+* **Historical context:** Originally carried a sense of "stalling" or "hesitating" while trying to settle on a price.
+
+### Word Family
+
+* **Noun:** Bargain, Bargainer (the person), Bargaining (the process)
+* **Verb:** Bargain
+* **Adjective:** Bargain-basement (very cheap/low quality)
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **The Deal (Noun)** | **Steal, value, discount** | **Rip-off, overcharge** |
+| **The Act (Verb)** | **Haggle, negotiate, barter** | **Agree, comply, yield** |
+
+### The "Don't Mix Up" Section: Bargain vs. Barter
+
+* **Bargain:** Usually refers to negotiating the **price** (money) or the item itself being **cheap**.
+* **Barter:** Specifically refers to trading **goods or services for other goods**, with no money involved.
+
+> **The "Vibe":** You **bargain** at a car dealership over the interest rate; you **barter** your chickens for your neighbor's goat.
+
+---
+
+## 6. Memory Anchor
+
+### Mnemonic
+
+Think of a **Bar** and a **Gain**. If you go into a **Bar** and **Gain** a free drink, you’ve got yourself a **bargain**!
+
+### Logical Association
+
+The word connects "work" (the negotiation) with "value." You have to work (the verb **bargain**) in order to find something that is high value for low cost (the noun **bargain**).
+
+---
+
+**Would you like me to generate a few "bargain hunting" scenarios to help you practice using these collocations in a conversation?**
+
+# bonanza
+
+What a **bonanza** of a word! It’s a term that feels rich and celebratory, often used to describe a sudden rush of wealth, success, or a large amount of something desirable.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (US):** /bəˈnæn.zə/
+* **IPA (UK):** /bəˈnæn.zə/
+* **Part of Speech:** Noun (Countable)
+* **CEFR Level:** **C1** (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** A situation which creates very large profits or a large amount of something good; also, a large deposit of precious ore (gold/silver).
+* **Chinese Definition:** 兴隆；发财 (幸运)；额外的好处；大金矿
+* **Collocations:**
+* **A profit bonanza**
+* **A year-end bonanza**
+* **A retail bonanza** (Often used during holiday sales)
+* **A bonanza for [someone]** (e.g., "A bonanza for local businesses")
+
+
+
+---
+
+## 3. Contextual Usage
+
+### Natural Example
+
+"The local toy store had a real **bonanza** during the holiday season; they sold out of almost every item in stock."
+
+### Formal/Academic Example
+
+"The deregulation of the energy market led to a temporary **bonanza** for investors, though it caused significant price volatility for the average consumer."
+
+---
+
+## 4. Linguistic Origins & Family
+
+### Etymology
+
+* **Origin:** From the Spanish *bonanza*, meaning "fair weather" or "prosperity at sea."
+* **Historical context:** It became popular during the American Gold Rush to describe a "rich pocket" or vein of gold. If you found a "bonanza," you were set for life.
+
+### Word Family
+
+* **Noun:** Bonanza
+* **Adjective:** Bonanza-style (Rare; used to describe gold-rush-like growth)
+* **Note:** This word is a "stand-alone" noun and doesn't have a typical verb or adverb form in English.
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Financial** | **Windfall, gold mine, jackpot** | **Deficit, loss** |
+| **Quantity** | **Abundance, cornucopia, glut** | **Scarcity, dearth** |
+| **Success** | **Boom, blessing** | **Bust, disaster** |
+
+### The "Don't Mix Up" Section: Bonanza vs. Windfall
+
+* **Windfall:** Usually refers to an **unexpected** gain, like an inheritance or finding money on the street. (Focus: Luck/Surprise).
+* **Bonanza:** Usually refers to a **large and sustained** source of wealth or a situation where everyone is profiting. (Focus: Scale/Abundance).
+
+> **The "Vibe":** A **windfall** is a single lucky event; a **bonanza** is a big, exciting "gold mine" of opportunity.
+
+---
+
+## 6. Memory Anchor
+
+### Mnemonic
+
+Think of **"Bonus" + "Stanza"**. A **bonanza** is like a **bonus** chapter (stanza) of your life where everything goes right and you get lots of rewards.
+
+### Logical Association
+
+Connect it to the Spanish word **"Bueno"** (Good). A bonanza is simply a "good" situation that has grown to a massive, "lucky" scale. It's "goodness" in bulk.
+
+---
+
+**Since we've covered a few words now, would you like me to create a "Review Bonanza" quiz featuring all the words we've discussed so far?**
+
+# blip
+
+A **"blip"** is the perfect word for our digital age. It’s short, sharp, and usually refers to something that is temporary or minor—though in certain contexts, it can signal a major change on the horizon.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (US):** /blɪp/
+* **IPA (UK):** /blɪp/
+* **Part of Speech:** Noun (Countable), Verb (Intransitive)
+* **CEFR Level:** **C1** (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. A short, high-pitched sound (like from a radar or electronic device).
+2. A small spot of light on a radar screen.
+3. **(Metaphorical):** A temporary change or interruption in a process, usually one that is not important.
+* **Chinese Definition:** 1.（雷达屏幕上的）光点；2. 尖锐而短暂的声音；3. 暂时性的波动/小插曲
+* **Collocations:**
+* **A temporary blip**
+* **A blip on the radar** (Something small or barely noticed)
+* **Statistical blip**
+* **Blip in the data**
+
+
+
+---
+
+## 3. Contextual Usage
+
+### Natural Example
+
+"The stock market's drop today was just a **temporary blip**; experts expect prices to recover by the end of the week."
+
+### Formal/Academic Example
+
+"While the 2024 fiscal quarter showed a slight decrease in carbon emissions, environmentalists argue it was a **mere blip** rather than a meaningful shift in industrial policy."
+
+---
+
+## 4. Linguistic Origins & Family
+
+### Etymology
+
+* **Origin:** Onomatopoeic (1940s). It was coined during WWII to describe the sound and the visual signal on a radar screen.
+* **Evolution:** It moved from a technical military term to a general word for any "small, temporary deviation" from a trend.
+
+### Word Family
+
+* **Noun:** Blip
+* **Verb:** Blip (e.g., "The heart monitor blipped rhythmically.")
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Magnitude** | **Glitch, hiccup, speck** | **Trend, milestone, landmark** |
+| **Duration** | **Anomaly, flicker** | **Constancy, continuity** |
+| **Sound** | **Beep, chirp** | **Silence, roar** |
+
+### The "Don't Mix Up" Section: Blip vs. Glitch
+
+* **Glitch:** Usually implies a **fault or error** in a system. Something is broken and needs fixing. (*"There's a glitch in the software."*)
+* **Blip:** Usually implies a **deviation in data or time**. It isn't necessarily a "mistake"; it's just an unusual moment that passes quickly.
+
+> **The "Vibe":** A **glitch** is annoying because it stops progress. A **blip** is just a weird little moment that doesn't change the big picture.
+
+---
+
+## 6. Memory Anchor
+
+### Mnemonic
+
+Think of the word **"Beep."** A **blip** is a **"Beep"** and a **"Lip"** (a tiny edge). It’s a tiny sound and a tiny edge on a graph.
+
+### Logical Association
+
+Imagine a long, straight line on a heart monitor. Suddenly, there is one small spike, and then it returns to a straight line. That spike is the **blip**. It didn't break the machine; it just interrupted the pattern for one second.
+
+---
+
+**That brings our total to 13 words! You’ve mastered everything from "belabor" to "blip." Would you like me to organize these into a "Vocabulary Cheat Sheet" categorized by their "vibe" (e.g., High Energy, Business-focused, or Descriptive)?**

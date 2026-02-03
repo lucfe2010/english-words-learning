@@ -1070,3 +1070,184 @@ Here is the 360-degree breakdown of **distraught**.
 You now have a powerful set of words: *frugality, paranoia, ushered, cemented,* and *distraught*.
 
 Would you like me to write a **mini-thriller story** (just 4–5 sentences) that uses all five words so you can see how they function in a narrative?
+
+# What a **versatile** pick! **"Dub"** is a linguistic Swiss Army knife. It functions in the worlds of knighthood, Hollywood, and hip-hop, making it a favorite for both history buffs and tech-savvy creators.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (US):** /dʌb/
+* **IPA (UK):** /dʌb/
+* **Part of Speech:** Verb (Transitive), Noun (Countable)
+* **CEFR Level:** **B2** (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** * **Verb 1:** To give a person or thing a name or nickname.
+* **Verb 2:** To change the sounds or language in a film or broadcast.
+* **Verb 3:** To confer knighthood by touching the shoulder with a sword.
+
+
+* **Chinese Definition:** * 给…起绰号 (把…称为); 配音; 封（某人）为爵士
+* **Collocations:**
+* **Dubbed into [Language]** (e.g., "Dubbed into English")
+* **Was dubbed the [Nickname]** (e.g., "He was dubbed the King of Pop")
+* **Dubbed version** (vs. Subtitled version)
+
+
+
+---
+
+## 3. Contextual Usage
+
+### Natural Example
+
+"I prefer watching anime in its original Japanese with subtitles, but the **dubbed** version of this show is actually quite good."
+
+### Formal/Academic Example
+
+"Because of her relentless pursuit of social reform, the press **dubbed** her the 'Architect of Equality,' a title she held until her death."
+
+---
+
+## 4. Linguistic Origins & Family
+
+### Etymology
+
+* **Old French Root:** From *adouber* (to equip with armor / to knight).
+* **Evolution:** Originally, it was the formal act of striking someone to make them a knight. This evolved into "naming" them something new. In the 1920s, it was adopted by the film industry to describe "doubling" or adding sound.
+
+### Word Family
+
+* **Noun:** Dubbing (the process), Dub (the name or the recording)
+* **Verb:** Dub
+* **Adjective:** Dubbed
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Naming** | **Nickname, label, christen** | **Anonymize, ignore** |
+| **Media** | **Voice-over, synchronize** | **Subtitle** |
+| **Honor** | **Knight, entitle** | **Degrade, strip** |
+
+### The "Don't Mix Up" Section: Dub vs. Sub
+
+* **Dub:** Replacing the original audio with a new language. You **hear** the translation.
+* **Sub (Subtitle):** Keeping the original audio and adding text at the bottom. You **read** the translation.
+
+> **The "Vibe":** "Dubbing" feels seamless (or sometimes funny/badly synced), while "Subbing" preserves the original performance.
+
+---
+
+## 6. Memory Anchor
+
+### Mnemonic
+
+**D.U.B.** = **D**ialogue **U**nder **B**ackground. (Think of placing new dialogue over the background of a movie).
+
+### Logical Association
+
+Think of the **"Double."** When you **dub** a movie, you are creating a "double" of the audio. When you **dub** someone a nickname, you are giving them a "double" name.
+
+---
+
+**Would you like me to explain the difference between a "dub" (the movie version) and a "dub" (the slang for a 'win')?**
+
+# deviation
+
+What an Excellent way to follow up on the word **"blip"**! A **deviation** is the broader, more formal term for any movement away from the expected path. In statistics, it’s a measurement; in behavior, it’s a choice.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (US):** /ˌdiː.viˈeɪ.ʃən/
+* **IPA (UK):** /ˌdiː.viˈeɪ.ʃən/
+* **Part of Speech:** Noun (Countable/Uncountable)
+* **CEFR Level:** **C1** (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. The action of departing from an established course or accepted standard. 2. (Statistics) The difference between a particular value and the average value.
+* **Chinese Definition:** 背离 (Bèilí); 偏离; 离差 (Statistics)
+* **Collocations:**
+* **Standard deviation** (The classic statistical term)
+* **A slight deviation**
+* **Deviation from the norm**
+* **A significant deviation**
+
+
+
+---
+
+## 3. Contextual Usage
+
+### Natural Example
+
+"Any **deviation** from the original flight plan must be approved by air traffic control immediately."
+
+### Formal/Academic Example
+
+"The study noted a significant **standard deviation** in the test scores, suggesting that the teaching method affected students in vastly different ways."
+
+---
+
+## 4. Linguistic Origins & Family
+
+### Etymology
+
+* **Prefix: de-** (Away from)
+* **Root: via** (Latin: Road/Way)
+* **Literal sense:** "Going off the road."
+
+### Word Family
+
+* **Verb:** Deviate (e.g., "Do not deviate from the script.")
+* **Adjective:** Deviant (Often carries a negative social connotation), Deviating
+* **Noun:** Deviation, Deviant (A person whose behavior differs from the norm)
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Technical** | **Divergence, variation, disparity** | **Conformity, uniformity** |
+| **Physical** | **Detour, digression, shift** | **Alignment, directness** |
+| **Behavioral** | **Aberration, eccentricity** | **Normality, orthodoxy** |
+
+### The "Don't Mix Up" Section: Deviation vs. Digression
+
+* **Digression:** Specifically refers to **speaking or writing**. It’s when you go "off-topic" in a conversation. (*"After a long digression about his cat, the teacher returned to the lesson."*)
+* **Deviation:** A general term for going off-course in **any** sense (math, behavior, physics, or travel).
+
+> **The "Vibe":** A **digression** is a temporary "side-quest" in a story; a **deviation** is a measurable change from a set rule or path.
+
+---
+
+## 6. Memory Anchor
+
+### Mnemonic
+
+Think of **"De-Via"** = **"Off the Via"** (Off the Way).
+If you are on a "Via" (like a highway) and you take a **De**tour, you have made a **deviation**.
+
+### Logical Association
+
+Think of a **GPS**. When the blue line on your map changes because you missed a turn, that is a **deviation** from the route. It is a mathematical "distance" from where you were supposed to be.
+
+---
+
+**You now have a 16-word vocabulary arsenal! Would you like to try a "matching exercise" where you pair these words with their opposites (e.g., "Deviation" vs. "Conformity")?**
