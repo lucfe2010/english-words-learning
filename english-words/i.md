@@ -1,4 +1,4 @@
----
+
 title: Words Starting with I
 ---
 
@@ -422,3 +422,88 @@ Intervention** 是一个名词，含义广泛，常见于多种语境中。以�
 
 **这个“火辣辣”的词掌握了吗？继续给出你的下一个单词吧！**
 
+ # intrinsic
+
+ This is a "power word" in both philosophy and science. It’s the word you use when you want to describe the very soul or essence of something—the parts that cannot be taken away without changing what the thing *is*.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** * **UK:** /ɪnˈtrɪn.zɪk/
+* **US:** /ɪnˈtrɪn.zɪk/ or /ɪnˈtrɪn.sɪk/
+
+
+* **Part of Speech:** Adjective
+* **CEFR Level:** **C1** (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** Belonging to the essential nature or constitution of a thing; being part of something naturally rather than coming from the outside.
+* **Chinese Definition:** 内在的 (Nèizài de); 本质的 (Běnzhì de); 固有的 (Gùyǒu de).
+* **Collocations:**
+* **Intrinsic value** (Value that something has "in itself," like gold or love).
+* **Intrinsic motivation** (Doing something because you enjoy it, not for a reward).
+* **Intrinsic part** (An inseparable element).
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "I don't care about the money; for me, the **intrinsic** satisfaction of helping people is why I became a teacher."
+* **Formal/Academic Example:** "Flexibility is an **intrinsic** property of this new polymer, allowing it to withstand extreme pressure without breaking."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:**
+* **Prefix:** *intrin-* (from Latin *intra*, meaning "within").
+* **Root:** *secus* (meaning "alongside" or "following").
+* **Literal Meaning:** "Inwardly following" or "contained within."
+
+
+* **Word Family:**
+* **Adverb:** Intrinsically (e.g., "The two concepts are **intrinsically** linked").
+* **Opposite Root:** Extrinsic (External/coming from outside).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Nuance | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Natural/Born-with** | Innate, Inherent, Inborn | Acquired, Learned |
+| **Essential/Core** | Fundamental, Essential | Extrinsic, Superficial |
+| **Structural** | Built-in, Constituent | Peripheral, External |
+
+### The "Don't Mix Up" Section: Intrinsic vs. Extrinsic
+
+This is the most important distinction in psychology and economics:
+
+* **Intrinsic Motivation:** You play the piano because you love the sound (Internal).
+* **Extrinsic Motivation:** You play the piano because your parents give you $10 for practicing (External).
+
+**The Vibe:** If something is **intrinsic**, you can't strip it away without destroying the identity of the object. If you take the "four-leggedness" away from a chair, it's still a chair; but if you take "humanness" away from a person, you lose the **intrinsic** quality of that being.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** > Think of **"In-trin-sic"** as **"In-the-center."**
+> It is the quality found **In**side the **center** of the object.
+
+
+* **Logical Association:** The prefix **Intra-** (as in *intramural* sports or *intravenous* needles) always means "within" or "inside." Therefore, an **intrinsic** quality is one that stays **inside** the thing itself.
+
+---
+
+**Would you like me to help you use "intrinsic" to explain a complex concept, such as "the intrinsic value of art" versus its market price?**

@@ -959,3 +959,89 @@ You now have a vocabulary that can describe a full cycle of conflict:
 4. They **prosper** once again.
 
 Would you like to look at the word **galvanize**? it is a more "electric" synonym for **rallying** people into action.
+
+# recluse
+
+The word **recluse** describes a person who has chosen to step away from the noise of the world. It carries a sense of mystery and intentionality—someone who doesn't just happen to be alone, but actively maintains their solitude.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** * **UK:** /rɪˈkluːs/
+* **US:** /ˈrek.luːs/ (Note: US English often emphasizes the first syllable).
+
+
+* **Part of Speech:** Noun (Countable), Adjective (less common than *reclusive*).
+* **CEFR Level:** **C1** (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** A person who lives a solitary life and tends to avoid other people.
+* **Chinese Definition:** 隐士 (Yǐnshì); 遁世者 (Dùnshì zhě).
+* **Collocations:**
+* **Become a recluse.**
+* **Social recluse.**
+* **Virtual recluse** (Someone who rarely leaves their house but stays online).
+* **Hermit-like recluse.**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "After the scandal, the famous actress became a total **recluse**, rarely seen outside the gates of her estate."
+* **Formal/Academic Example:** "Historical accounts describe the philosopher as a **recluse** who preferred the company of his manuscripts to the political discourse of the city."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:**
+* **Prefix:** *re-* (back/away).
+* **Root:** *claudere* (Latin, "to shut" or "to close").
+* **Literal Meaning:** "To shut oneself away."
+
+
+* **Word Family:**
+* **Adjective:** Reclusive (The more common way to describe the behavior).
+* **Noun:** Reclusion (The state of living in seclusion).
+* **Related Root:** **Exclude**, **Include**, **Conclude** (all from *claudere*—to shut).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Neutral/Descriptive** | Solitary, loner | Socialite, extrovert |
+| **Religious/Historical** | Hermit, anchorite | Community leader |
+| **Modern/Clinical** | Shut-in, homebody | Man-about-town |
+
+### The "Don't Mix Up" Section: Recluse vs. Hermit
+
+* **Hermit:** Often has a **religious or spiritual** connotation. A hermit lives alone to find God or enlightenment (e.g., in a cave or a desert).
+* **Recluse:** A more **general** term. A recluse might hide away because of heartbreak, fame, illness, or simply because they dislike people.
+
+**The Vibe:** Being called a "recluse" implies a bit of wealth or mystery (think of a "wealthy recluse"). Being called a "shut-in" sounds more like a person who is stuck at home due to inability or fear.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** > **Recluse** sounds like **"Rec-lose."**
+> A recluse is someone who **re**moves themselves because they want to **lose** the crowd.
+
+
+* **Logical Association:** Think of the **Brown Recluse spider**. It gets its name because it hides in dark, undisturbed corners and avoids contact with humans whenever possible.
+
+---
+
+**Would you like me to help you analyze a famous literary recluse, like Boo Radley from *To Kill a Mockingbird* or Jay Gatsby?**

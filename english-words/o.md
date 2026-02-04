@@ -104,3 +104,85 @@ outgoing
 
     表示费用: 开支、费用
         例如：Utilities and other outgoings (水电费及其他开
+
+# occupant
+
+The word **occupant** is a precise, formal way to describe someone who is "in" a space. It is a staple in legal documents, architecture, and emergency safety instructions.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** * **UK:** /ˈɒk.jə.pənt/
+* **US:** /ˈɑː.kjə.pənt/
+
+
+* **Part of Speech:** Noun (Countable)
+* **CEFR Level:** **B2** (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. A person who lives in or uses a particular house, room, or land. 2. A person who is inside a vehicle (car, plane, etc.) at a specific time.
+* **Chinese Definition:** 居住者 (Jūzhù zhě); 占有者 (Zhànyǒu zhě); (汽车、飞机等的) 乘员 (Chéngyuán).
+* **Collocations:**
+* **Previous occupant** (The person who lived there before you).
+* **Vehicle occupants** (Safety term for driver and passengers).
+* **Single occupant** (One person only).
+* **The rightful occupant.**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The police asked if the **occupants** of the car were injured after the minor fender-bender."
+* **Formal/Academic Example:** "Building safety regulations require that the number of **occupants** never exceeds the maximum capacity of the auditorium."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:**
+* **Root:** From the Latin *occupare*, meaning "to seize" or "to take possession of" (*ob-* "over" + *capere* "to take").
+* **Logic:** An occupant is someone who has "taken" a space for their use.
+
+
+* **Word Family:**
+* **Verb:** Occupy (To live in/fill a space).
+* **Noun:** Occupation (A job; or the act of entering and taking control of a place).
+* **Adjective:** Occupied (Being used; busy).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Context | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Housing** | Tenant, resident, dweller | Landlord, owner (usually) |
+| **Vehicles** | Passenger, driver, rider | Pedestrian, bystander |
+| **Legal** | Possessor, inhabitant | Intruder, trespasser |
+
+### The "Don't Mix Up" Section: Occupant vs. Resident
+
+* **Resident:** Implies a **long-term** home. You are a "resident" of a city or an apartment building.
+* **Occupant:** Is **neutral and temporary**. You are the "occupant" of a bathroom stall, a seat on a bus, or a hotel room. It focuses on the fact that you are *there* right now, regardless of whether you own it or love it.
+
+**The Vibe:** "Occupant" feels cold and clinical. You see it on official forms (e.g., mail addressed to "The Occupant") when the sender doesn't know your name.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** > **Occu-pant** > Think of someone **occupying** a chair so long that they leave a **pant** print on the seat.
+* **Logical Association:** If a bathroom door says **"Occupied,"** it means there is an **occupant** inside. The word describes the state of "filling" a vacancy.
+
+---
+
+**Would you like me to show you how to use "occupant" in a formal letter, such as a notice to a neighbor or a landlord?**

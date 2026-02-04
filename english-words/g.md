@@ -439,3 +439,173 @@ Can you complete this sentence using three of the words we've learned today?
 *"Even though the company _________ (prospered/sullied) for years, the CEO felt a _________ (gnawing/complacent) fear that a single scandal could _________ (usher/sully) his family's name forever."*
 
 **Would you like the answer, or would you like to try another word like "eroded" or "nagging"?**
+
+# gig
+
+This is a quintessential "evolution" word. It began in the jazz clubs of the 1920s and has since grown to define the modern global economy. It is short, punchy, and incredibly versatile.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** * **UK:** /ɡɪɡ/
+* **US:** /ɡɪɡ/
+
+
+* **Part of Speech:** Noun (Countable), Verb (Intransitive)
+* **CEFR Level:** **B2** (Upper Intermediate - commonly used in news and business English)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. A single performance by a musician or comedian. 2. A temporary job or a piece of work done on a freelance basis. 3. (Slang) Any job or task.
+* **Chinese Definition:** (临时)演出 (Yǎnchū); 临时工作 (Línshí gōngzuò); 代办事务 (Dàibàn shìwù).
+* **Collocations:**
+* **Gig economy** (The labor market characterized by short-term contracts/freelance work).
+* **Side gig** (A secondary job or "side hustle").
+* **Get a gig.**
+* **Gig worker.**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "I’ve got a **side gig** designing logos on the weekends to help pay off my student loans."
+* **Formal/Academic Example:** "The rise of digital platforms has fundamentally shifted the labor market toward a **gig** model, offering flexibility but often lacking traditional employment benefits."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** * **Origin:** Uncertain, but likely emerged in the 1920s among African American jazz musicians. It may be a shortened form of "whirligig" (something that spins) or simply nonsense slang for a "party."
+* **History:** For decades, it was strictly for performers. Around 2008-2009, with the birth of apps like Uber and TaskRabbit, it entered the mainstream business lexicon.
+
+
+* **Word Family:**
+* **Verb:** To gig (e.g., "He’s **gigging** at the local club tonight").
+* **Noun:** Gigger (rarely used; "gig worker" is preferred).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Work** | Freelance task, assignment, hustle | Permanent position, "9-to-5" |
+| **Performance** | Show, set, engagement | Rehearsal, hiatus |
+
+### The "Don't Mix Up" Section: Gig vs. Career
+
+* **Career:** Implies a long-term, structured path with a single employer or industry (the "marathon").
+* **Gig:** Implies a discrete, "one-and-done" task or a short-term contract (the "sprint").
+
+**The Vibe:** Calling something a "gig" makes it sound less formal and more flexible. If you say, "I have a new gig," it sounds cool and modern; if you say, "I have a new job," it sounds serious and permanent.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** > **G**ig = **G**et **I**n, **G**et out.
+> It's a job where you **Get In** to do the work and **Get out** once you're paid.
+
+
+* **Logical Association:** Think of a musician's "gig bag." It's a small, portable bag for their instrument. A "gig" is just like that—it’s portable, temporary, and you carry it with you from place to place.
+
+---
+
+**Would you like me to explain how the "Gig Economy" works in a professional context, perhaps for a business report or a social studies essay?**
+
+# gerontologist
+
+This is a highly specialized professional term. As the global population ages, the role of a **gerontologist** has become increasingly vital in healthcare, urban planning, and social policy.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:**
+* **UK:** /ˌdʒer.ənˈtɒl.ə.dʒɪst/
+* **US:** /ˌdʒer.ənˈtɑː.lə.dʒɪst/
+
+
+* **Part of Speech:** Noun (Countable)
+* **CEFR Level:** **C2** (Proficiency/Academic)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** A specialist who studies the social, psychological, cognitive, and biological aspects of aging and old age.
+* **Chinese Definition:** 老年学家 (Lǎonián xué jiā).
+* **Collocations:**
+* **Research gerontologist.**
+* **Consultant gerontologist.**
+* **Social gerontologist.**
+* **Leading gerontologist.**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "My aunt is a **gerontologist**; she helps city councils design parks that are safer and more accessible for the elderly."
+* **Formal/Academic Example:** "The **gerontologist** argued that increasing social engagement is just as important as medical intervention for maintaining quality of life in octogenarians."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:**
+* **Root 1:** *geron-* (from Greek *gerōn*, meaning "old man").
+* **Root 2:** *-logy* (from Greek *logia*, meaning "the study of").
+* **Suffix:** *-ist* (denoting a person who practices or specializes in something).
+
+
+* **Word Family:**
+* **Noun:** Gerontology (The field of study).
+* **Adjective:** Gerontological.
+* **Noun (Medical):** Geriatrics (The branch of medicine specifically for the elderly).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Specialist** | Aging expert, eldercare specialist | Pediatrician (Child specialist) |
+| **Field** | Social scientist, researcher | — |
+
+### The "Don't Mix Up" Section: Gerontologist vs. Geriatrician
+
+This is the most common confusion:
+
+* **Geriatrician:** A **medical doctor** (MD) who treats the physical diseases and disabilities of older people. They prescribe medicine and perform surgery.
+* **Gerontologist:** A **scientist or professional** who looks at the "big picture" of aging—including culture, psychology, and policy. They are not always medical doctors.
+
+**The Vibe:** A *geriatrician* focuses on fixing the body; a *gerontologist* focuses on understanding the journey of getting old.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** > **Geron-** sounds like **"Grand"**.
+> Think of a specialist who studies our **Grand**parents.
+
+
+* **Logical Association:** Think of the word **"Geriatric."** Both words share the *geri/geron* root. If you know that *geriatric* relates to the elderly, simply add the *-logist* (study/expert) to remember that a gerontologist is the expert on the topic.
+
+---
+
+**Would you like me to help you use "gerontologist" in a professional bio or a research paper abstract?**

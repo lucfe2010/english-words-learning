@@ -1251,3 +1251,259 @@ Think of a **GPS**. When the blue line on your map changes because you missed a 
 ---
 
 **You now have a 16-word vocabulary arsenal! Would you like to try a "matching exercise" where you pair these words with their opposites (e.g., "Deviation" vs. "Conformity")?**
+
+# denominator
+
+Hello there! I'm delighted to help you master the word **denominator**. While it sounds like something strictly for a math classroom, it actually carries some weight in social and logical discussions as well.
+
+Let’s break it down from every angle.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** * **UK:** /dɪˈnɒm.ɪ.neɪ.tər/
+* **US:** /dɪˈnɑː.mə.neɪ.t̬ɚ/
+
+
+* **Part of Speech:** Noun (Countable)
+* **CEFR Level:** **B2/C1** (Upper Intermediate to Advanced - primarily due to its use in abstract contexts).
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1.  **Mathematics:** The number below the line in a fraction, showing how many parts the whole is divided into.
+2.  **General:** A shared trait, standard, or characteristic among a group of people or things.
+* **Chinese Definition:** 分母 (Fēnmǔ); 共同特征 (Gòngtóng tèzhēng).
+* **Collocations:**
+* **Common denominator** (The most frequent pairing).
+* **Lowest common denominator.**
+* **Find a denominator.**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "When we were planning the trip, the **common denominator** for everyone was that the destination had to be near a beach."
+* **Formal/Academic Example:** "To compare the growth rates of the two diverse chemical samples, researchers first had to establish a **common denominator** for the baseline measurements."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** * **Prefix:** *de-* (completely/down)
+* **Root:** *nomin-* (from the Latin *nomen*, meaning "name")
+* **Suffix:** *-ator* (an agent or doer)
+* **Literal Meaning:** "The thing that gives a name" (to the parts of the fraction).
+
+
+* **Word Family:**
+* **Noun:** Denomination (a branch of a religion or a unit of value/currency).
+* **Verb:** Denominate (to give a name to).
+* **Adjective:** Denominational.
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Mathematical** | Divisor (related) | Numerator |
+| **General/Abstract** | Shared trait, commonality, standard | Difference, outlier, anomaly |
+
+### The "Don't Mix Up" Section: Denominator vs. Numerator
+
+It is incredibly common to swap these two.
+
+* **Numerator:** The "numberer." It tells you *how many* parts you have. It sits on **top**.
+* **Denominator:** The "namer." It tells you *what kind* of parts they are (quarters, tenths, etc.). It sits on the **bottom**.
+
+**The Vibe:** In social contexts, "common denominator" often refers to the **lowest** or most basic level of agreement or taste, sometimes implying that the quality is being simplified to please everyone.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** > **D** is for **Denominator** and **D** is for **Down**.
+> The denominator is always the number at the **bottom** of the fraction.
+
+
+* **Logical Association:** Think of the word **Nominate**. When you nominate someone, you *name* them. The **denominator** *names* the fraction. For example, in , the number **4** "names" the fraction as "fourths."
+
+---
+
+**Would you like me to create a few practice sentences where you can try using "denominator" in its abstract/general sense?**
+
+# delibrately 
+
+This word is a cornerstone of effective communication, especially when discussing ethics, law, or personal motivation. It shifts the focus from the action itself to the **intention** behind it.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** * **UK:** /dɪˈlɪb.ər.ət.li/
+* **US:** /dɪˈlɪb.ɚ.ət.li/
+
+
+* **Part of Speech:** Adverb
+* **CEFR Level:** **B2** (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** Done in a way that is planned, intentional, and not by accident. It can also mean moving or acting in a slow, careful way.
+* **Chinese Definition:** 故意地 (Gùyì de); 深思熟虑地 (Shēnsī shúlǜ de).
+* **Collocations:**
+* **Deliberately mislead.**
+* **Choose deliberately.**
+* **Move deliberately** (Slow and careful).
+* **Deliberately provocative.**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "I think he **deliberately** ignored my text message because he didn't want to help me move this weekend."
+* **Formal/Academic Example:** "The architect **deliberately** used large windows to maximize the amount of natural light entering the atrium."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** * **Root:** From the Latin *deliberatus*, which comes from *librare* meaning "to balance" or "to weigh."
+* **Logic:** To act deliberately is to "weigh" your options in your mind before choosing one.
+
+
+* **Word Family:**
+* **Verb:** Deliberate (To think or discuss very carefully before making a decision).
+* **Adjective:** Deliberate (Intentional; or slow and unhurried).
+* **Noun:** Deliberation (Long and careful consideration).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Context | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Intentionality** | Intentionally, On purpose, Wilfully | Accidentally, Unintentionally |
+| **Pace/Speed** | Carefully, Methodically, Unhurriedly | Hastily, Rashly, Impulsively |
+
+### The "Don't Mix Up" Section: Deliberately vs. Purposefully
+
+* **Deliberately:** Focuses on the **decision-making process**. You weighed the options and chose this one. (e.g., He *deliberately* broke the rules).
+* **Purposefully:** Focuses on the **goal or determination**. It suggests acting with a clear aim or "purpose." (e.g., She walked *purposefully* toward the stage).
+
+**The Vibe:** "Deliberately" often carries a slightly cooler, more calculated tone. In legal settings, it is used to prove that a crime wasn't an accident.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** > Think of **"The Libery"** (as in Libra, the scales).
+> When you act **de-liber-ately**, you are weighing the scales of your choice before you act.
+
+
+* **Logical Association:** Think of a **jury's deliberations**. They don't just guess; they weigh the evidence slowly and carefully to reach a "deliberate" verdict.
+
+---
+
+**Would you like me to help you practice using "deliberately" in a sentence to describe a difficult choice you’ve made?**
+
+# diminished
+
+The word **diminished** is a versatile and elegant term used to describe something that has been made smaller, weaker, or less important. It is equally at home in a doctor’s report, a music theory textbook, or a legal courtroom.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** * **UK:** /dɪˈmɪn.ɪʃt/
+* **US:** /dɪˈmɪn.ɪʃt/
+
+
+* **Part of Speech:** Adjective (Past participle of the verb *diminish*)
+* **CEFR Level:** **B2/C1** (Upper Intermediate to Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. Made to seem smaller or less impressive. 2. (Music) A chord or interval that is smaller by a semitone than a minor or perfect interval. 3. (Law/Medicine) Reduced in capacity or function.
+* **Chinese Definition:** 减少的 (Jiǎnshǎo de); 减弱的 (Jiǎnruò de); 被贬低的 (Bèi biǎndī de).
+* **Collocations:**
+* **Diminished responsibility** (A legal defense).
+* **Diminished capacity.**
+* **Diminished returns** (The law of diminishing returns).
+* **Diminished value.**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "After the new competitor entered the market, the company's influence in the industry was significantly **diminished**."
+* **Formal/Academic Example:** "The patient exhibited **diminished** cognitive function following the trauma, necessitating a long-term rehabilitation plan."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** * **Root:** From the Latin *diminuere*, meaning "to break into small pieces" (*di-* "apart" + *minuere* "to make small").
+* **History:** It shares the same "mini" root as *minimum*, *minus*, and *miniature*.
+
+
+* **Word Family:**
+* **Verb:** Diminish (To make smaller).
+* **Noun:** Diminution (The act of reducing).
+* **Adjective:** Diminishing (e.g., "diminishing resources").
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Context | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Physical Size** | Reduced, shrunken, lessened | Enlarged, expanded |
+| **Status/Power** | Weakened, tarnished, degraded | Enhanced, bolstered |
+| **Sound/Music** | Quieted, muffled | Amplified, augmented |
+
+### The "Don't Mix Up" Section: Diminished vs. Depleted
+
+* **Diminished:** Something is still there, but it is **weaker or smaller** than it was before (e.g., *diminished* confidence).
+* **Depleted:** Something is **almost completely gone** or exhausted (e.g., *depleted* energy or resources).
+
+**The Vibe:** "Diminished" feels like a loss of status or quality. If someone’s reputation is *diminished*, they are still known, but they are no longer respected as they once were.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** > **Dim**-inished = The lights go **Dim**.
+> When you "dim" the lights, the brightness is **diminished**.
+
+
+* **Logical Association:** Think of a **Mini-cooper** or a **mini-skirt**. The "mini" in the middle of di-**mini**-shed tells you exactly what is happening: things are getting smaller.
+
+---
+
+**Would you like me to explain the "law of diminishing returns" in an economic context, or perhaps show you how a "diminished chord" sounds in music?**
