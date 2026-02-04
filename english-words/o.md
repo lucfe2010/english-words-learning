@@ -186,3 +186,94 @@ The word **occupant** is a precise, formal way to describe someone who is "in" a
 ---
 
 **Would you like me to show you how to use "occupant" in a formal letter, such as a notice to a neighbor or a landlord?**
+
+
+# outrageous
+
+That is an **outrageous** request—and by that, I mean it's "outrageously" fun to break down! This word is a powerhouse because it covers the spectrum from "terrible and shocking" to "wildly impressive and over-the-top."
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA (US):** /aʊtˈreɪ.dʒəs/
+* **IPA (UK):** /aʊtˈreɪ.dʒəs/
+* **Part of Speech:** Adjective
+* **CEFR Level:** **B2/C1** (Upper Intermediate to Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. Shockingly bad, unfair, or cruel. 2. Very bold, unusual, or startling (often in a way that is cool or funny).
+* **Chinese Definition:** 1. 极不公平的；令人容忍的 2. 这里的；反常的；惊人的
+* **Collocations:**
+* **Outrageous behavior** (Shocking/bad)
+* **Outrageous prices** (Extremely high)
+* **Outrageous clothes** (Wild/eccentric)
+* **Simply outrageous!** (An exclamation of disbelief)
+
+
+
+---
+
+## 3. Contextual Usage
+
+### Natural Example
+
+"The price for a single coffee at the airport was **outrageous**—ten dollars for a small cup!"
+
+### Formal/Academic Example
+
+"The defense attorney argued that the police's conduct during the investigation was **outrageous** and constituted a violation of his client’s civil rights."
+
+---
+
+## 4. Linguistic Origins & Family
+
+### Etymology
+
+* **Root:** From the Old French *outrage*, which comes from *outre* (meaning "beyond").
+* **Literal sense:** Something that goes "beyond" the limits of what is acceptable or normal. It has nothing to do with "out" + "rage" (anger), though it sounds like it!
+
+### Word Family
+
+* **Noun:** Outrage (The feeling of anger/shock)
+* **Verb:** Outrage (To shock or offend someone deeply)
+* **Adverb:** Outrageously (To an extreme degree)
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Category | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Negative/Moral** | **Atrocious, scandalous, heinous** | **Just, fair, acceptable** |
+| **Excessive** | **Exorbitant, preposterous** | **Reasonable, moderate** |
+| **Eccentric** | **Extravagant, flamboyant** | **Subtle, understated** |
+
+### The "Don't Mix Up" Section: Outrageous vs. Ridiculous
+
+* **Ridiculous:** Something that deserves mockery or is silly. It feels "lightweight." (*"That hat is ridiculous."*)
+* **Outrageous:** Something that crosses a line. It feels "heavyweight" and powerful. It implies a violation of standards or common sense.
+
+> **The "Vibe":** If a friend tells a small lie, it's **ridiculous**. If a bank steals your life savings, it's **outrageous**.
+
+---
+
+## 6. Memory Anchor
+
+### Mnemonic
+
+Focus on the French root **"Outre"** (Beyond).
+**Outrageous** = **"Out of range."** It is out of the range of what is normal, fair, or expected.
+
+### Logical Association
+
+Think of an "outrageous" outfit. It goes **beyond** the boundaries of daily fashion. Think of an "outrageous" lie. It goes **beyond** the boundaries of the truth. It is always about "crossing the line."
+
+---
+
+**Would you like me to write a short dialogue where someone uses "outrageous" in a positive way versus a negative way?**

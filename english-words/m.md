@@ -331,3 +331,91 @@ Think of the word **"Menace"** as a mix of **"Men" + "Ace."** Imagine a villain 
 这意味着：**治安法官**下令将嫌疑人继续**羁押**（通常是因为案情需要进一步调查或不准保释）。
 
 **你是在看英剧/美剧（如《法律与秩序》）时听到了这个词，还是在查阅某个地区的法律系统？我可以为你解释该地区具体的法庭等级制度。**
+
+# magnitude
+
+magnify
+
+The word **magnitude** is a "heavyweight" term. It is used to describe the sheer scale, size, or importance of something, often when that thing is so big it is difficult to measure with simple words.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** * **UK:** /ˈmæɡ.nɪ.tʃuːd/
+* **US:** /ˈmæɡ.nə.tuːd/
+
+
+* **Part of Speech:** Noun (Uncountable/Countable)
+* **CEFR Level:** **C1** (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. The great size or importance of something. 2. **Science:** A numerical measure of the brightness of a star or the energy released by an earthquake.
+* **Chinese Definition:** 巨大 (Jùdà); 重要性 (Zhòngyào xìng); [地质/天文] 震级/星等 (Zhènjí/Xīngděng).
+* **Collocations:**
+* **Order of magnitude** (A degree of size or importance; often referring to a power of 10).
+* **The magnitude of the task/problem.**
+* **A star of the first magnitude.**
+* **Sense of magnitude.**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "I don't think she quite realized the **magnitude** of the decision she was making when she quit her job without a backup plan."
+* **Formal/Academic Example:** "The 2011 Tohoku earthquake reached a **magnitude** of 9.0, causing a tsunami that was felt across the entire Pacific basin."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** * **Root:** From the Latin *magnitudo*, meaning "greatness" (*magnus* "great" + *-tudo* suffix forming abstract nouns).
+* **Logic:** It is the abstract quality of being "great" or "big."
+
+
+* **Word Family:**
+* **Adjective:** Magnificent (Great/Grand).
+* **Verb:** Magnify (To make something look bigger).
+* **Adjective:** Magnanimous (Great-souled/Generous).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Context | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Importance** | Significance, weight, consequence | Insignificance, triviality |
+| **Size** | Enormity, vastness, scale | Smallness, tininess |
+| **Measurement** | Intensity, degree, volume | — |
+
+### The "Don't Mix Up" Section: Magnitude vs. Amplitude
+
+These are often confused in physics and geography:
+
+* **Magnitude:** Refers to the **total energy** or the overall "size" of an event (like an earthquake). It is a fixed number.
+* **Amplitude:** Refers to the **height** of a specific wave or vibration.
+
+**The Vibe:** Using "magnitude" suggests that something is so large that it is almost overwhelming. We don't use it for small things; you wouldn't talk about the "magnitude of a cup of water," but you would talk about the "magnitude of the ocean."
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** > Think of a **Magnifying** glass.
+> A magnifying glass helps you see the **magnitude** (size) of small things by making them look "magnus" (great).
+
+
+* **Logical Association:** Think of the **Richter Scale**. It measures the **magnitude** of earthquakes. This helps you associate the word with power, energy, and measurable scale.
+
+---
+
+**Would you like me to explain the phrase "order of magnitude" and how it’s used in scientific or business growth projections?**

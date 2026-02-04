@@ -1045,3 +1045,89 @@ The word **recluse** describes a person who has chosen to step away from the noi
 ---
 
 **Would you like me to help you analyze a famous literary recluse, like Boo Radley from *To Kill a Mockingbird* or Jay Gatsby?**
+
+# retention
+
+The word **retention** is a versatile term that describes the act of keeping or holding onto something. Whether you are talking about facts in your brain, employees in a company, or water in a desert, **retention** is about preventing something from leaving or being lost.
+
+---
+
+## 1. Phonetics & Classification
+
+* **IPA:** * **UK:** /rɪˈten.ʃən/
+* **US:** /rɪˈten.ʃən/
+
+
+* **Part of Speech:** Noun (Uncountable/Countable)
+* **CEFR Level:** **C1** (Advanced/Professional)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** 1. The continued possession, use, or control of something. 2. The ability to remember facts and figures. 3. The action of absorbing and continuing to hold a substance (like moisture).
+* **Chinese Definition:** 保留 (Bǎoliú); 记忆力 (Jìyìlì); 滞留 (Zhìliú).
+* **Collocations:**
+* **Customer retention** (Keeping clients coming back).
+* **Employee retention** (Preventing staff from quitting).
+* **Knowledge retention** (Remembering what you learned).
+* **Water retention** (Medical/Environmental holding of fluids).
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "Visual aids like charts and diagrams significantly improve **knowledge retention** during a long lecture."
+* **Formal/Academic Example:** "The corporation implemented a new bonus structure specifically aimed at increasing the **retention** of top-tier engineering talent."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** * **Prefix:** *re-* (back).
+* **Root:** *tenere* (Latin, "to hold").
+* **Suffix:** *-tion* (forming a noun).
+* **Literal Meaning:** "The act of holding back."
+
+
+* **Word Family:**
+* **Verb:** Retain (To keep or continue to have).
+* **Adjective:** Retentive (Having the ability to remember or hold; e.g., "a retentive memory").
+* **Noun:** Retainer (A fee paid to "hold" a lawyer's services; or a dental tool that "holds" teeth in place).
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+### Synonyms & Antonyms
+
+| Context | Synonyms | Antonyms |
+| --- | --- | --- |
+| **Business** | Maintenance, preservation | Turnover, loss, attrition |
+| **Learning** | Memory, recall | Forgetfulness, oblivion |
+| **Physical** | Absorption, containment | Leakage, release, excretion |
+
+### The "Don't Mix Up" Section: Retention vs. Maintenance
+
+* **Retention:** Focuses on **not losing** the thing. (e.g., We need *retention* strategies so our customers don't go to a competitor.)
+* **Maintenance:** Focuses on **keeping something in good condition**. (e.g., We need *maintenance* for the car so the engine doesn't break.)
+
+**The Vibe:** Retention is a "success metric." In business and school, high retention is almost always the goal. It implies that the environment is "sticky" enough to keep people or information from sliding away.
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** > **Retention** = **RE**-keep in **TEN**-tion.
+> Think of a **Retainer** at the dentist. Its only job is **retention**—to **hold** your teeth exactly where they are so they don't move back.
+
+
+* **Logical Association:** Think of the word **Tenacious** (holding on tightly). Both come from the Latin *tenere*. If you are tenacious, you are good at **retention** because you don't let go.
+
+---
+
+**Would you like me to help you draft a "Retention Strategy" section for a business proposal or a study plan?**
