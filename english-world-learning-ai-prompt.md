@@ -33,7 +33,6 @@ Please provide a comprehensive breakdown of the word following this structure:
    - **Mnemonic:** (A clever mental shortcut or imagery to lock in the meaning)
    - **Logical Association:** (Why does this word make sense based on its root?)
 
-# Formatting
-- Use bolding for emphasis.
-- Use tables for Synonyms/Antonyms if it aids clarity.
-- Keep the tone encouraging and professional.
+# other
+
+- don't add any other texts: like courage me, the words learned, etc

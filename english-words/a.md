@@ -783,3 +783,223 @@ Let's use our previous words to see how they interact:
 > "The **geriatric** traveler was **accustomed** to walking over terrain **strewn** with **boulders**, having developed a steady **stride** over years of exploration."
 
 **Would you like me to explain the grammar rule for using "accustomed to" (since it often trips up learners with the -ing form), or would you like a new word?**
+
+# aristoratic
+
+## 1. Phonetics & Classification
+
+* **IPA:** `/ˌærɪstəˈkrætɪk/` (UK & US)
+* **Part of Speech:** Adjective
+* **CEFR Level:** C1
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** Belonging to or typical of the highest social class (the aristocracy), often characterized by wealth, noble titles, and refined manners.
+* **Chinese Definition:** 贵族的；有贵族气派的；典型的贵族统治的。
+* **Collocations:**
+* **Aristocratic family** (A lineage of nobility)
+* **Aristocratic lineage/background** (Having noble ancestors)
+* **Aristocratic manner/bearing** (Behaving like a noble)
+* **Aristocratic privilege** (Special rights held by the upper class)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "Even though he wasn't wealthy, he had an **aristocratic** air about him that made people think he was royalty."
+* **Formal/Academic Example:** "The French Revolution marked the beginning of the end for the **aristocratic** monopoly on political power in Europe."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:**
+* **Prefix:** *aristos-* (Greek: "best")
+* **Suffix:** *-kratos* (Greek: "rule" or "power")
+* **Literal Meaning:** "Rule by the best."
+
+
+* **Word Family:**
+* **Noun:** Aristocrat (the person)
+* **Noun:** Aristocracy (the social class or system)
+* **Adverb:** Aristocratically
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Noble* (High social rank, but can also mean having high moral character)
+* *Patrician* (Often used in a historical or refined Roman context)
+* *Blue-blooded* (Idiomatic; referring to ancient noble lines)
+* *Elite* (Focuses more on power and skill than inherited titles)
+
+
+* **The "Don't Mix Up" Section: Aristocratic vs. Elitist**
+* **Aristocratic** usually refers to **birthright** and inherited status. You are born into an aristocratic family.
+* **Elitist** refers to an **attitude**. Someone can be elitist without being an aristocrat—they simply believe that a small group of people (like themselves) should lead because they are "superior" in some way.
+
+
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of **"Aristo-Cats."** In the Disney movie, the cats live in a mansion, have refined tastes, and belong to the highest social class. They are **aristocratic**.
+* **Logical Association:** Since *aristos* means "best," the word reflects the historical belief that the ruling class was composed of the "best" individuals in society, whether through education, bravery, or bloodline.
+
+---
+
+Would you like me to compare "aristocratic" with other forms of social hierarchy terms, like "bourgeois" or "meritocratic"?
+
+# aspire
+
+## 1. Phonetics & Classification
+
+* **IPA:** `/əˈspaɪə(r)/` (UK) | `/əˈspaɪər/` (US)
+* **Part of Speech:** Verb (Intransitive)
+* **CEFR Level:** B2
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** To have a strong desire or ambition to achieve something high or great, especially a professional goal or a social status.
+* **Chinese Definition:** 渴望；追求；志于。
+* **Collocations:**
+* **Aspire to** (do something / be something)
+* **Aspire to greatness**
+* **Widely aspired to**
+* **Young/aspiring [profession]** (e.g., an aspiring actor)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "Most young athletes **aspire to** play in the Olympics one day."
+* **Formal/Academic Example:** "The program is designed for individuals who **aspire to** leadership positions within the public health sector."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:**
+* **Prefix:** *ad-* (Latin: "to" or "towards")
+* **Root:** *spirare* (Latin: "to breathe")
+* **Literal Meaning:** "To breathe towards" (as if reaching out for something with one's breath/spirit).
+
+
+* **Word Family:**
+* **Noun:** Aspiration (a hope or ambition)
+* **Adjective:** Aspiring (showing desire to be something)
+* **Adjective:** Aspirational (related to high social status or ambition)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Aim* (Focuses on the target or direction)
+* *Strive* (Emphasizes the hard work and struggle involved)
+* *Yearn* (Focuses on the emotional longing or sadness of wanting)
+
+
+* **The "Don't Mix Up" Section: Aspire vs. Inspire**
+* **Aspire** is the *internal* drive (I breathe *toward* my goal). It is about your own ambition.
+* **Inspire** is an *external* influence (I breathe *into* someone else). It is about giving someone else the spirit or idea to do something.
+* *Example:* Her success **inspired** me to **aspire** to a better career.
+
+
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of a **Spire** (the tall, pointed top of a church or skyscraper). To **aspire** is to look up at the highest **spire** and want to reach it.
+* **Logical Association:** Because the root *spir* means "breath," to aspire is to "put your breath/soul" toward a goal. It’s the same root found in *spirit* and *respiration*.
+
+---
+
+Would you like me to show you how to use the noun form "aspiration" in a formal cover letter?
+
+# autonomy
+
+## 1. Phonetics & Classification
+
+* **IPA:** `/ɔːˈtɒnəmi/` (UK) | `/ɔːˈtɑːnəmi/` (US)
+* **Part of Speech:** Noun (Uncountable)
+* **CEFR Level:** C1
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** The right or condition of self-government; the ability to make your own decisions without being controlled by anyone else.
+* **Chinese Definition:** 自治权；自主权；人身自由。
+* **Collocations:**
+* **Greater autonomy** (More freedom to decide)
+* **Grant autonomy** (To give a group/person independence)
+* **Personal autonomy** (Individual self-determination)
+* **Professional autonomy** (Freedom to make decisions in one’s job)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "In my new job, I have a lot of **autonomy** over my schedule, which helps me balance work and family life."
+* **Formal/Academic Example:** "The region is seeking political **autonomy** from the central government to better manage its local natural resources."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:**
+* **Prefix:** *auto-* (Greek: "self")
+* **Root:** *nomos* (Greek: "law" or "custom")
+* **Literal Meaning:** "Self-law" (Being a law unto oneself).
+
+
+* **Word Family:**
+* **Adjective:** Autonomous (e.g., autonomous vehicles)
+* **Adverb:** Autonomously
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Independence* (General freedom from outside control)
+* *Sovereignty* (Highest power/authority, usually for nations)
+* *Self-determination* (The process by which a country determines its own statehood)
+
+
+* **The "Don't Mix Up" Section: Autonomy vs. Independence**
+* **Independence** often implies a total split (like a child moving out and paying their own bills).
+* **Autonomy** often exists *within* a system. An "autonomous region" is still part of a larger country, but it has the power to make its own local laws. In a job, you aren't independent (you still work for the boss), but you have **autonomy** (the boss lets you choose *how* to do the work).
+
+
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of an **"Auto-Economy."** Just like an **auto**matic car shifts gears by itself, a person with **autonomy** runs their own life ("economy") by themselves.
+* **Logical Association:** Since *auto* means "self" (like *autobiography* or *automatic*), the word logically describes the state of "self-governing" or "self-ruling."
+
+---
+
+Would you like me to explain the technical difference between "autonomy" and "automation" in the context of AI and robotics?

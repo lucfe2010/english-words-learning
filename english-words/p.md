@@ -1642,3 +1642,154 @@ This word is a "transformer." It takes the terrifying imagery of a monster and t
 ---
 
 **Would you like me to help you use "monstrously" in a descriptive paragraph to add more "punch" to your writing?**
+
+# paradox
+
+## 1. Phonetics & Classification
+
+* **IPA:** `/ˈpærədɒks/` (UK) | `/ˈpærədɑːks/` (US)
+* **Part of Speech:** Noun (Countable)
+* **CEFR Level:** C1
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** A statement, person, or situation that seems to have two opposite features or qualities and therefore seems impossible, even though it is actually true.
+* **Chinese Definition:** 自相矛盾的人或事；悖论；佯谬。
+* **Collocations:**
+* **Apparent paradox** (something that looks impossible but isn't)
+* **Central paradox** (the main contradiction in a situation)
+* **The paradox of** (e.g., the paradox of choice)
+* **Pose a paradox** (to present a contradictory problem)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "It’s a bit of a **paradox** that as social media makes the world more connected, many people feel lonelier than ever."
+* **Formal/Academic Example:** "Economists often study the 'Paradox of Thrift,' which suggests that while individual saving is beneficial, a collective increase in saving can lead to a decrease in aggregate demand."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** * **Prefix:** *para-* (Greek: "against" or "beyond")
+* **Root:** *doxa* (Greek: "opinion" or "belief")
+* **Literal Meaning:** "Beyond belief" or "contrary to expectation."
+
+
+* **Word Family:**
+* **Adjective:** Paradoxical
+* **Adverb:** Paradoxically
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Contradiction* (Directly opposing statements)
+* *Anomaly* (Something that deviates from the norm)
+* *Enigma* (Something mysterious/puzzling)
+
+
+* **Antonyms:**
+* *Consistency*
+* *Logic*
+* *Certainty*
+
+
+* **The "Don't Mix Up" Section: Paradox vs. Oxymoron**
+* An **oxymoron** is a figure of speech—just two words that clash (e.g., "deafening silence" or "bittersweet").
+* A **paradox** is a larger concept or a whole situation. If an oxymoron is a "clash of words," a paradox is a "clash of truths."
+
+
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of **"Para-Docs."** If two **Docs** (doctors) give you opposite advice but both are actually right, you are facing a **paradox**.
+* **Logical Association:** Since *para* means "beyond" and *dox* means "opinion," a paradox is simply a truth that sits **beyond** what your common sense **opinion** tells you is possible.
+
+---
+
+Would you like me to create a short practice quiz to test your understanding of "paradox" in different contexts?
+
+# pavement
+
+## 1. Phonetics & Classification
+
+* **IPA:** `/ˈpeɪvmənt/` (UK & US)
+* **Part of Speech:** Noun (Uncountable/Countable)
+* **CEFR Level:** B1/B2 (Varies by dialect)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:**
+1. **(UK):** The raised path at the side of a road for people to walk on (American English: **sidewalk**).
+2. **(US):** The hard surface of a road or street (e.g., asphalt or concrete).
+
+
+* **Chinese Definition:** 人行道 (UK); 路面 / 硬化路面 (US).
+* **Collocations:**
+* **Pavement cafe** (A cafe with tables outside)
+* **Cracked pavement** (Damaged walking surface)
+* **Hit the pavement** (To start walking or to begin working hard)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "I had to step off the **pavement** to let the lady with the stroller pass by."
+* **Formal/Academic Example:** "Urban planners are researching permeable **pavement** materials to reduce surface runoff and improve city drainage systems."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** * **Root:** *pavimentum* (Latin: "beaten floor" or "rammed earth").
+* **Verb:** *pavire* (Latin: "to beat or ram down").
+
+
+* **Word Family:**
+* **Verb:** Pave (to cover a surface with stone/concrete)
+* **Noun:** Paving (the material used)
+* **Noun:** Paver (the person or machine that paves)
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Sidewalk* (US specific for the walking path)
+* *Roadway* (US specific for the driving surface)
+* *Footpath* (General term for a walking path)
+
+
+* **The "Don't Mix Up" Section: Pavement vs. Road**
+* In the **UK**, the *road* is for cars and the **pavement** is for people.
+* In the **US**, the **pavement** *is* the road (the material it's made of). If you tell an American to "stand on the pavement," they might think you want them to stand in the middle of traffic!
+
+
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** Think of **"Pave the way."** When you pave something, you make it flat and easy to travel on. The **pavement** is the result of that flattening.
+* **Logical Association:** The word comes from "beating down" the earth. It makes sense because ancient roads were made by packing stones and dirt down until they were rock hard.
+
+---
+
+Would you like me to analyze another word with regional differences, such as "subway" or "lift"?

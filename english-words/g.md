@@ -609,3 +609,73 @@ This is the most common confusion:
 ---
 
 **Would you like me to help you use "gerontologist" in a professional bio or a research paper abstract?**
+
+# gawk
+
+## 1. Phonetics & Classification
+
+* **IPA:** `/ɡɔːk/` (UK) | `/ɡɔːk/` (US)
+* **Part of Speech:** Verb (Intransitive)
+* **CEFR Level:** C1/C2
+
+---
+
+## 2. Core Meanings
+
+* **English Definition:** To stare at someone or something in a rude, stupid, or unthinking way, often with one's mouth open in surprise or wonder.
+* **Chinese Definition:** 呆头呆脑地盯着看；无礼地瞪视。
+* **Collocations:**
+* **Gawk at** (the standard prepositional phrase)
+* **Stop and gawk** (to pause specifically to stare)
+* **Gawk in disbelief** (to stare because something is hard to believe)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "Don't just stand there and **gawk** at the celebrity; it's rude to stare like that!"
+* **Formal/Academic Example:** "The bypassers began to **gawk** at the site of the accident, inadvertently slowing down the flow of emergency vehicles."
+
+---
+
+## 4. Linguistic Origins & Family
+
+* **Etymology:** * Likely derived from the Middle English word *gawen* (to stare) or the Old Norse *gá* (to heed).
+* It is also related to the dialect word *gawky* (clumsy or awkward).
+
+
+* **Word Family:**
+* **Adjective:** Gawky (clumsy, awkward, or tall and thin)
+* **Adverb:** Gawkily
+
+
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Gape* (Staring with the mouth wide open; implies total shock)
+* *Gaze* (Staring steadily, usually out of admiration or deep thought—much more polite than gawk)
+* *Glare* (Staring angrily)
+* *Peer* (Looking closely or with difficulty)
+
+
+* **The "Don't Mix Up" Section: Gawk vs. Gaze**
+* **Gaze** is "elegant" and "dreamy." You gaze at the stars or at a loved one. It is a soft, thoughtful action.
+* **Gawk** is "ugly" and "clumsy." It suggests the person staring looks a bit foolish or is being disrespectful. You gawk at a car wreck or a strange outfit.
+
+
+
+---
+
+## 6. Memory Anchor
+
+* **Mnemonic:** The word **"Gawk"** sounds a bit like the sound a **Goose** makes ("Gawk!"). Imagine a person with a long neck like a goose, sticking it out and staring awkwardly at something.
+* **Logical Association:** Because the word is phonetically "harsh" (ending in that sharp 'k'), it fits the vibe of a behavior that is socially "harsh" or unrefined.
+
+---
+
+Would you like me to find more "staring" verbs to help you build a more precise vocabulary for describing how people look at things?
