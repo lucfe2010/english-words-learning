@@ -1003,3 +1003,151 @@ Would you like me to show you how to use the noun form "aspiration" in a formal 
 ---
 
 Would you like me to explain the technical difference between "autonomy" and "automation" in the context of AI and robotics?
+
+# acknowledge
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/əkˈnɒl.ɪdʒ/` | US: `/əkˈnɑː.lɪdʒ/`
+* **CEFR Level:** B2 (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions (Verb):**
+1. To accept, admit, or recognize the existence or truth of something.
+2. To confirm the receipt of something (like a letter or package).
+3. To show that you have noticed someone by a physical gesture (like a nod or smile).
+
+
+* **Chinese Definitions (动词):**
+1. 承认（事实、存在等）。
+2. 确认收到（信件、通知等）。
+3. （通过打招呼、点头等）理会，报以微笑。
+
+
+* **Collocations:**
+* **Acknowledge receipt of**
+* **Widely acknowledged**
+* **Fail to acknowledge**
+* **Acknowledge a mistake**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "He walked right past me in the hallway and didn't even **acknowledge** me."
+* **Formal/Academic Example:** "It is important to **acknowledge** the limitations of the current study before drawing definitive conclusions."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** A combination of the Middle English *on* (on/to) + *knowlechen* (to perceive/recognize).
+* **Root:** *knowledge*.
+
+
+* **Word Family:**
+* **Noun:** Acknowledgment (the act of admitting or the confirmation of receipt).
+* **Adjective:** Acknowledged (recognized/accepted).
+
+
+* **Mnemonic:** Look at the heart of the word: **know**. When you **acknowledge** something, you let others know that you **know** it.
+* **Logical Association:** To "knowledge" something originally meant to own it or recognize it. Adding the prefix *ac-* (towards) creates the action of turning your knowledge toward a specific fact or person.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms (Admit):** Admit, concede, recognize, grant.
+* **Synonyms (Response):** Answer, reply, greet.
+* **Antonyms:** Deny, ignore, reject, overlook.
+
+
+* **The "Don't Mix Up" Section: Acknowledge vs. Admit**
+* **Admit** often implies you are doing so reluctantly, usually regarding a mistake or a crime (e.g., "He admitted he was wrong").
+* **Acknowledge** is more neutral and broad. It can be a simple statement of fact or a polite gesture.
+* **The "Vibe":** Acknowledging is often a sign of professionalism or awareness. If you **acknowledge** a gift, you are being polite; if you **admit** you took the gift, you might be confessing to a theft.
+
+
+
+---
+
+Would you like me to help you write a formal **acknowledgment letter** for a job application or a business document?
+
+# amid
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/əˈmɪd/` | US: `/əˈmɪd/`
+* **CEFR Level:** B2 (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions (Preposition):**
+1. In the middle of or surrounded by.
+2. In an atmosphere or context of (used to describe being in the middle of an ongoing event, especially a chaotic or noisy one).
+
+
+* **Chinese Definitions (介词):**
+1. 在…中间；在…正中。
+2. 在…环境中；在…过程中（常指混乱或喧闹的情景）。
+
+
+* **Collocations:**
+* **Amid speculation**
+* **Amid rumors**
+* **Amid the ruins**
+* **Amid the chaos**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The actor left the stage **amid** thunderous applause from the audience."
+* **Formal/Academic Example:** "The government announced new austerity measures **amid** growing concerns about the national debt."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Middle English phrase *on middan* (in the middle).
+* **Prefix:** *a-* (on/in).
+* **Root:** *mid* (middle).
+
+
+* **Word Family:**
+* **Preposition:** Amidst (a more literary or old-fashioned version of *amid*).
+* **Adjective:** Mid (middle).
+
+
+* **Mnemonic:** Think of the word **Middle**. Just drop the "dle" and add an "a" at the start: **A-mid**. It literally puts you in the **mid**-st of things.
+* **Logical Association:** It functions as a spatial or situational marker. Just as "midway" is the halfway point, being "amid" something means that thing is happening all around you.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Among, in the middle of, surrounded by, during.
+* **Antonyms:** Outside, away from, separate from.
+
+
+* **The "Don't Mix Up" Section: Amid vs. Among**
+* **Among** is usually used with **countable nouns** or distinct groups (e.g., "Among the trees," "Among my friends").
+* **Amid** is typically used with **uncountable nouns** or abstract concepts, especially those involving noise, movement, or emotion (e.g., "Amid the confusion," "Amid the clutter").
+* **The "Vibe":** "Among" feels like being part of a group; "Amid" feels like being enveloped by a situation or a mess. You are "among" your peers, but you are "**amid**" a crisis.
+
+
+
+---
+
+Would you like me to show you how to rewrite a few sentences to choose correctly between **amid** and **among**?

@@ -277,3 +277,76 @@ Think of an "outrageous" outfit. It goes **beyond** the boundaries of daily fash
 ---
 
 **Would you like me to write a short dialogue where someone uses "outrageous" in a positive way versus a negative way?**
+
+
+# overhaulded
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˌəʊ.vəˈhɔːld/` | US: `/ˌoʊ.vɚˈhɔːld/`
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions (Verb - Past Tense/Participle):**
+1. To have examined a machine or system thoroughly and made any necessary repairs or changes.
+2. To have completely reformed or renovated a system, law, or organization to improve it.
+3. (UK English) To have caught up with and passed someone or something (e.g., in a race).
+
+
+* **Chinese Definitions (动词 - 过去式/过去分词):**
+1. （彻底）检修，大修（机器或系统）。
+2. 全面改革；彻底革新（制度、法律或组织）。
+3. （英式英语）赶上并超过（竞争对手）。
+
+
+* **Collocations:**
+* **Completely overhauled**
+* **Overhauled the engine**
+* **Overhauled the tax system**
+* **Extensively overhauled**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "I finally took my old bike to the shop, and they **overhauled** the entire gear system; it rides like new now."
+* **Formal/Academic Example:** "The education department **overhauled** the curriculum to better prepare students for the demands of the digital economy."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** A nautical term. From **over** + **haul** (to pull). It originally referred to pulling the blocks of a tackle apart to examine the ropes.
+* **Word Family:**
+* **Verb:** Overhaul (to repair/reform).
+* **Noun:** Overhaul (a thorough examination and repair).
+
+
+* **Mnemonic:** Imagine a car engine that is so messy you have to pull everything **over** to one side to **haul** out the broken parts. You are doing a total "Over-Haul."
+* **Logical Association:** If you "haul" (pull) something "over" (thoroughly/completely), you are exposing every part of it to see what needs fixing. It’s not a quick fix; it’s a deep dive.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms (Repair):** Renovated, refurbished, reconditioned, serviced.
+* **Synonyms (System):** Revamped, restructured, remodeled, transformed.
+* **Antonyms:** Neglected, maintained (implies only minor care), broke, ignored.
+
+
+* **The "Don't Mix Up" Section: Overhauled vs. Improved**
+* **Improved** is a general term meaning something got better. You can improve your handwriting by practicing for five minutes.
+* **Overhauled** implies a **total teardown**. You don't just "improve" an engine; you "overhaul" it by taking it apart and replacing the old valves.
+* **The "Vibe":** "Overhauled" sounds much more dramatic and thorough. If a company "overhauls" its policy, it means the old policy was likely thrown away and a brand-new one was built from scratch.
+
+
+
+---
+
+Would you like me to help you write a paragraph describing how you **overhauled** a personal habit or a work process to show off your C1-level vocabulary?

@@ -1518,3 +1518,367 @@ This is a great word for expanding your range when discussing possibilities. It 
 ---
 
 **Would you like me to help you rewrite a sentence using "conceivable" to make your argument sound more persuasive or thorough?**
+
+# conceived
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/kənˈsiːvd/` | US: `/kənˈsiːvd/`
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions (Verb - Past Tense/Participle):**
+1. **Idea:** Formed an idea, plan, or concept in the mind.
+2. **Biological:** Became pregnant with a child.
+3. **Understanding:** (Usually in the negative "cannot conceive") To imagine or understand a possibility.
+
+
+* **Chinese Definitions (动词 - 过去式/过去分词):**
+1. 构思；设想；心中形成（计划等）。
+2. 怀孕；受孕。
+3. 想象；理解（通常用于否定句）。
+
+
+* **Collocations:**
+* **Originally conceived**
+* **Newly conceived**
+* **Conceived in liberty** (famous historical usage)
+* **A brilliantly conceived plan**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The project was **conceived** by a small team of engineers working in a garage."
+* **Formal/Academic Example:** "It is difficult to **conceive** of a situation where this policy would actually benefit the working class."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the Latin *concipere* (*con-* 'together' + *capere* 'take'). It literally means "to take in and hold."
+* **Word Family:**
+* **Noun:** Concept (the idea itself).
+* **Noun:** Conception (the act of conceiving an idea or a baby).
+* **Adjective:** Conceivable (imaginable).
+
+
+* **Mnemonic:** Think of a **Container**. When you **conceive**, your mind acts as a container that "takes in" a seed of an idea and holds it until it grows into a full plan.
+* **Logical Association:** Whether it is a baby or a business plan, "conceiving" is the **starting point**—the exact moment something begins to exist within another thing (a womb or a mind).
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Devised, formulated, imagined, perceived, initiated.
+* **Antonyms:** Destroyed, ended, misunderstood, ignored.
+
+
+* **The "Don't Mix Up" Section: Conceived vs. Perceived**
+* **Perceived** is about how you *see* or *interpret* something that already exists (e.g., "I perceived his tone as rude").
+* **Conceived** is about *creating* something that didn't exist before in your mind (e.g., "I conceived a new way to solve the problem").
+* **The "Vibe":** "Conceived" is active and creative. It suggests the "birth" of an idea.
+
+
+
+---
+
+Would you like me to show you how to use the word "**conceivable**" in a sentence to express probability or possibility?
+
+
+# clamor
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈklæm.əd/` | US: `/ˈklæm.ɚd/`
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Verb (Past Tense):** To have made a loud and confused noise, especially that of people shouting vehemently.
+2. **Verb (Past Tense):** To have shouted or demanded something loudly and insistently.
+
+
+* **Chinese Definitions:**
+1. **动词 (过去式):** 大声地叫喊，（众人）吵嚷。
+2. **动词 (过去式):** 大声要求，强烈呼吁。
+
+
+* **Collocations:**
+* Clamored **for change**
+* Clamored **to be heard**
+* The **crowd clamored**
+* **Clamored against** (a decision)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The kids **clamored** for their parents' attention the moment they walked through the door."
+* **Formal/Academic Example:** "In the wake of the financial crisis, the public **clamored** for stricter banking regulations and greater transparency."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Latin *clamare*, meaning "to cry out."
+* **Root:** *clam-* (shout/call).
+* **Suffix:** *-ored* (past tense marker).
+
+
+* **Word Family:**
+* **Noun:** Clamor (a loud noise/outcry).
+* **Adjective:** Clamorous (noisy/vociferous).
+* **Verb:** Clamor (to shout/demand).
+
+
+* **Mnemonic:** Think of a **clam** that suddenly grows a mouth and starts **roaring**. A "Clam-Roar" is a **clamored** demand.
+* **Logical Association:** The root *clam* is also found in "exclaim" and "proclaim." It consistently relates to using one's voice with high energy or volume.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Vociferated (formal/intense), bellowed (loud/deep), demanded (forceful), shouted.
+* **Antonyms:** Whispered, murmured, acquiesced (to give in quietly), silenced.
+
+
+* **The "Don't Mix Up" Section:** **Clamored vs. Demanded**
+* **Demand** is about the *authority* or *insistence* of the request; it can be done quietly or in writing.
+* **Clamor** is about the *noise* and *chaos* of the request. It implies a "vibe" of many voices or one very loud, desperate voice creating a scene. You "demand" a refund via email; you "clamor" for a refund at the front desk when nobody is listening.
+
+
+
+---
+
+Would you like me to generate an image illustrating a crowd of people clamoring for change to help solidify the visual memory?
+
+# cherub
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈtʃer.əb/` | US: `/ˈtʃer.əb/`
+* **CEFR Level:** C2 (Mastery / Literary)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Noun:** A type of angel, often depicted in art as a chubby, healthy-looking child with wings.
+2. **Noun:** An innocent-looking, beautiful, or chubby child.
+3. **Noun (Theology):** A high-ranking angelic being (plural: *cherubim*).
+
+
+* **Chinese Definitions:**
+1. **名词:** 小天使（艺术作品中胖乎乎、带翅膀的婴孩形象）。
+2. **名词:** 天真可爱的小孩；胖乎乎的小天使。
+3. **名词 (神学):** 基路伯（圣经中的一种高阶天使，复数为 *cherubim*）。
+
+
+* **Collocations:**
+* **Chubby cherub**
+* **Cherub-faced**
+* **Painted cherubs**
+* **A little cherub**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "With his golden curls and round cheeks, the toddler looked like a little **cherub** sleeping in his crib."
+* **Formal/Academic Example:** "The cathedral's ceiling is adorned with baroque frescoes featuring **cherubim** and seraphim surrounding the central deity."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Hebrew *kerūbh*. It entered English via the Greek *cheroubim* and Latin *cherub*.
+* **Word Family:**
+* **Adjective:** Cherubic (having the childlike innocence or plumpness of a cherub).
+* **Plural:** Cherubs (common) or Cherubim (biblical/technical).
+
+
+* **Mnemonic:** Think of a **Chair-up**. A tiny angel so short he needs a **chair** to reach **up** to the table.
+* **Logical Association:** In art history, particularly during the Renaissance and Baroque periods, "cherubs" became synonymous with "Putti" (the chubby infants found in paintings), linking the theological concept of an angel to the visual of a healthy, plump child.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Angel, Cupid (specifically the god of love), seraph (a higher-order angel), innocent.
+* **Antonyms:** Imp, rascal, demon, fiend.
+
+
+* **The "Don't Mix Up" Section: Cherub vs. Seraph**
+* In theology, **Seraphim** (Seraphs) are the highest rank of angels, often associated with light and fire.
+* **Cherubim** (Cherubs) are the second rank.
+* **The "Vibe":** In common English, if you call someone "cherubic," you are calling them **cute and plump**. If you call someone "seraphic," you are calling them **ethereal, beautiful, and saintly**.
+* **Visual Difference:** A "cherub" is a chubby baby; a "seraph" is a majestic, multi-winged divine being.
+
+
+
+---
+
+Would you like me to generate an image of a **cherubic face** to help you distinguish this specific facial type from other descriptive terms?
+
+# confederate
+
+## 1. Phonetics & Classification
+
+* **IPA:** * **Noun/Adjective:** UK: `/kənˈfed.ər.ət/` | US: `/kənˈfed.ər.ət/`
+* **Verb:** UK: `/kənˈfed.ə.reɪt/` | US: `/kənˈfed.ə.reɪt/`
+
+
+* **CEFR Level:** C1 (Advanced) / Historical Specialized
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Noun:** A person, group, or state joined with others in an alliance or conspiracy.
+2. **Adjective:** Joined by an agreement or treaty (e.g., a confederate council).
+3. **Proper Noun/Adjective (US History):** Relating to the Confederate States of America (the Southern states that seceded during the Civil War).
+4. **Noun (Psychology):** An actor who participates in a psychological experiment pretending to be a subject but is actually working for the researcher.
+
+
+* **Chinese Definitions:**
+1. **名词:** 同盟者；同伙；共犯。
+2. **形容词:** 同盟的；联合的。
+3. **专有名词/形容词:** （美国内战期间）南部邦联的。
+4. **名词 (心理学):** 实验同谋；假被试。
+
+
+* **Collocations:**
+* **Confederate states**
+* **Confederate flag**
+* **A secret confederate**
+* **Confederate forces**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "In the famous Asch conformity experiments, the **confederates** were instructed to give the wrong answer to see if the real participant would follow suit."
+* **Historical Example:** "The **Confederate** army surrendered at Appomattox Court House in 1865, effectively ending the American Civil War."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the Latin *confoederatus*, from *con-* (together) + *foedus* (league/treaty/trust).
+* **Word Family:**
+* **Noun:** Confederacy (a league or alliance).
+* **Noun:** Confederation (an organization of groups or states).
+* **Verb:** Confederate (to bring into an alliance).
+
+
+* **Mnemonic:** Think of **"Con" (together) + "Federal."** It describes people who want to be in a "federal" group together, but usually with more independence for each individual member.
+* **Logical Association:** Because the root *foedus* means "trust" or "league," a confederate is someone you have a "pact" with. In a crime, your confederate is the one you trust to help you.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Ally, accomplice (criminal context), collaborator, partner.
+* **Antonyms:** Enemy, opponent, rival, antagonist.
+
+
+* **The "Don't Mix Up" Section: Confederate vs. Ally**
+* **Ally** is a positive, broad term for friends or nations working together (e.g., "The Allies in WWII").
+* **Confederate** can feel more secretive or specific. In modern English (outside of US history), it often implies a "partner in crime" or someone part of a "hidden" plot.
+* **The "Vibe":** If you have an ally, you're standing together in the light. If you have a confederate, you might be whispering in the shadows or joined by a very specific, loose legal treaty.
+
+
+
+---
+
+Would you like me to explain the **psychological role of a "confederate"** in more detail using a famous experiment like the Milgram study?
+# cemetery
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈsem.ə.tri/` | US: `/ˈsem.ə.ter.i/`
+* **CEFR Level:** B1 (Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions (Noun):**
+1. An area of ground in which dead people are buried.
+2. Specifically, a burial ground that is not joined to a church (unlike a "churchyard").
+
+
+* **Chinese Definitions (名词):**
+1. 公墓；墓地；坟场。
+
+
+* **Collocations:**
+* **Military cemetery** (e.g., Arlington National Cemetery)
+* **Pet cemetery**
+* **Cemetery gates**
+* **An abandoned cemetery**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "Every year on Memorial Day, families visit the national **cemetery** to place flowers on the graves of veterans."
+* **Formal/Academic Example:** "Urban planners are facing challenges as historical **cemeteries** reach full capacity, leading to a rise in alternative burial methods."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Late Latin *coemeterium*, which comes from the Greek *koimētērion*, meaning **"sleeping place."**
+* **Root:** *koiman* (to put to sleep).
+
+
+* **Word Family:**
+* **Related word:** Comatose (deep sleep/unconsciousness).
+
+
+* **Mnemonic:** Think of the first two syllables: **"Ceme"** sounds a bit like **"Semi"**. The dead are in a **"Semi-eternal sleep"** in the **Cemetery**.
+* **Logical Association:** It’s a peaceful way of thinking about it—the Greeks viewed a cemetery not as a place of death, but as a "dormitory" where people go to rest.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Graveyard, burial ground, necropolis (city of the dead), churchyard.
+* **Antonyms:** Birthplace, nursery (in a metaphorical sense of life vs. death).
+
+
+* **The "Don't Mix Up" Section: Cemetery vs. Graveyard**
+* A **Graveyard** is traditionally a burial ground located **next to a church** (the "yard" of the church).
+* A **Cemetery** is usually a **large, standalone park** or public area not necessarily attached to a religious building.
+* **The "Vibe":** "Graveyard" feels a bit more gothic or old-fashioned; "Cemetery" is the standard, modern, and respectful term used for most burial parks today.
+
+
+
+---
+
+Would you like me to generate a **visual guide to the different parts of a cemetery**, such as the "headstone," "crypt," and "mausoleum," to help with specific vocabulary?

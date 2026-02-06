@@ -582,3 +582,222 @@ The word **fumbling** captures that awkward, clumsy moment when your hands or yo
 ---
 
 **Would you like me to help you use "fumbling" to describe a character's nervousness in a story or to explain a business "fumble" in a case study?**
+
+# fort
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/fɔːt/` | US: `/fɔːrt/`
+* **CEFR Level:** B1 (Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Noun:** A fortified building or strategic military post.
+2. **Noun:** A permanent army post (common in US English).
+
+
+* **Chinese Definitions:**
+1. **名词:** 堡垒，要塞。
+2. **名词:** 军营，驻军地。
+
+
+* **Collocations:**
+* **Hold the fort** (to take care of a place while others are away)
+* **Build a fort**
+* **Military fort**
+* **Storm the fort**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "When we were kids, we used to throw all the sofa cushions on the floor to **build a fort** in the living room."
+* **Formal/Academic Example:** "The colonial powers established a series of **forts** along the coastline to protect their maritime trade routes."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Latin word *fortis*, meaning "strong."
+* **Root:** *fort-* (strong).
+
+
+* **Word Family:**
+* **Noun:** Fortress (a large fort/fortified city), Fortification (the act of strengthening).
+* **Verb:** Fortify (to strengthen).
+* **Adjective:** Fortified (strengthened/protected).
+
+
+* **Mnemonic:** Think of a **Fort** as a place built for someone with **Fort**itude (strength of mind). Both require being "strong."
+* **Logical Association:** The root *fort* is the DNA of "strength." Whether it’s a physical building (*fort*), a person's strength (*fortitude*), or making something stronger (*fortify*), the core idea remains "strength."
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Fortress (larger/more permanent), stronghold (defensive center), garrison (military post).
+* **Antonyms:** Vulnerability, weakness, open field.
+
+
+* **The "Don't Mix Up" Section:** **Fort vs. Fortress**
+* A **Fort** is often a single building or a specific military camp (like *Fort Knox*).
+* A **Fortress** is much larger, often encompassing an entire town or a massive complex with high walls and multiple buildings.
+* **The "Vibe":** A fort is functional and military; a fortress is grand, imposing, and virtually impenetrable.
+
+
+
+---
+
+Would you like me to generate an image of a historic stone fort overlooking a coastline to help you visualize the architectural strength?
+
+# fledgling
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈfledʒ.lɪŋ/` | US: `/ˈfledʒ.lɪŋ/`
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Noun:** A young bird that has just fledged (grown feathers) and is learning to fly.
+2. **Noun:** A person or organization that is immature, inexperienced, or underdeveloped.
+3. **Adjective:** New and untried; emerging or beginning.
+
+
+* **Chinese Definitions:**
+1. **名词:** 羽毛初长的雏鸟。
+2. **名词:** 缺乏经验的人；新手。
+3. **形容词:** 刚起步的；初出茅庐的。
+
+
+* **Collocations:**
+* **Fledgling democracy**
+* **Fledgling company/startup**
+* **Fledgling career**
+* **Fledgling talent**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "Even though it was a **fledgling** company with only three employees, they managed to land a massive contract."
+* **Formal/Academic Example:** "The international community offered financial aid to support the **fledgling** democracy as it transitioned away from authoritarian rule."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Middle English *fledge* (ready to fly), which comes from the Old English *flogen* (past participle of *fleogan*—to fly).
+* **Suffix:** *-ling* (a diminutive suffix used to indicate "young," "small," or "belonging to," as in *duckling*).
+
+
+* **Word Family:**
+* **Verb:** Fledge (to develop feathers for flight).
+* **Adjective:** Full-fledged (fully developed/completely trained).
+
+
+* **Mnemonic:** Think of a **fledged** bird **leaning** over the edge of the nest. It is a "**fledge-leaning**" bird—just about to take its first flight but still very new to it.
+* **Logical Association:** The suffix *-ling* automatically points to something small or young. Since the root is tied to "flight," the word logically transitions from a bird leaving the nest to a human or business entering a new "arena."
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms (Beginner/New):** Novice, neophyte, burgeoning (growing quickly), emergent.
+* **Antonyms:** Veteran, expert, established, mature.
+
+
+* **The "Don't Mix Up" Section:** **Fledgling vs. Novice**
+* A **Novice** is a person who is new to a skill or activity (focuses on the *individual's skill level*).
+* **Fledgling** is often used to describe an *entity* or a *stage of development* (focuses on the *newness/fragility of the situation*).
+* **The "Vibe":** "Fledgling" carries a sense of potential and vulnerability. You wouldn't call a new software "novice," but you would call it a "fledgling project."
+
+
+
+---
+
+Would you like me to generate an image of a fledgling bird on a branch to help you associate the word with its biological origin?
+
+# fabric
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈfæb.rɪk/` | US: `/ˈfæb.rɪk/`
+* **CEFR Level:** B2 (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Noun (Material):** Cloth or woven material produced by weaving or knitting fibers together.
+2. **Noun (Metaphorical):** The basic structure of a society, organization, or system.
+3. **Noun (Architecture):** The physical structure of a building (walls, roof, floor).
+
+
+* **Chinese Definitions:**
+1. **名词:** 织物；布料。
+2. **名词:** （社会、组织等的）结构，构造。
+3. **名词:** （建筑物的）结构，基本构架。
+
+
+* **Collocations:**
+* **Cotton/Silk fabric**
+* **The fabric of society** (social structure)
+* **Social fabric**
+* **Fabric softener** (laundry product)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "This sofa is covered in a durable, stain-resistant **fabric** that’s perfect for families with pets."
+* **Formal/Academic Example:** "The influx of diverse cultures has enriched the **social fabric** of the city, creating a more vibrant community."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the Latin *fabrica*, meaning "workshop," "craft," or "structure," derived from *faber* (a worker in hard materials, a smith).
+* **Word Family:**
+* **Verb:** Fabricate (to invent something false, or to manufacture).
+* **Noun:** Fabrication (a lie, or the process of making something).
+
+
+* **Mnemonic:** Think of a **Fabric**ated story. Just as threads are woven together to make a shirt, lies are "woven" together to make a story.
+* **Logical Association:** Originally, the word referred to how things were *built* (like a building). Over time, it shifted to describe how cloth is *constructed* and eventually how societies are *structured*.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms (Material):** Textile, cloth, material, fiber.
+* **Synonyms (Structure):** Framework, infrastructure, essence, makeup.
+* **Antonyms:** Void, vacuum, destruction (when referring to structure).
+
+
+* **The "Don't Mix Up" Section: Fabric vs. Textile**
+* **Textile** is a more technical/industrial term. It refers to any filament, fiber, or yarn that can be made into fabric.
+* **Fabric** is the finished product—what you touch and use to make clothes or curtains.
+* **The "Vibe":** "Textile" sounds like a factory; "Fabric" sounds like a boutique or a tailor shop.
+
+
+
+---
+
+Would you like me to generate a **comparison table of different fabric types** (like natural vs. synthetic) and their common uses?

@@ -1793,3 +1793,71 @@ Would you like me to create a short practice quiz to test your understanding of 
 ---
 
 Would you like me to analyze another word with regional differences, such as "subway" or "lift"?
+
+# patio
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈpæt.i.əʊ/` | US: `/ˈpæt.i.oʊ/`
+* **CEFR Level:** B1 (Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions (Noun):**
+1. A paved outdoor area adjoining a house, used for dining or recreation.
+2. An inner courtyard typical of Spanish or Spanish-American architecture, open to the sky.
+
+
+* **Chinese Definitions (名词):**
+1. 露台；平台；（屋后）铺地庭院。
+2. （西班牙式建筑的）天井，中庭。
+
+
+* **Collocations:**
+* **Patio furniture** (outdoor chairs and tables)
+* **Paved patio**
+* **Patio doors** (sliding glass doors leading outside)
+* **Dining on the patio**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "We spent the whole Saturday afternoon drinking lemonade and grilling burgers out on the **patio**."
+* **Formal/Academic Example:** "The residential design incorporates a stone **patio** to create a seamless transition between the interior living space and the garden."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Borrowed from Spanish *patio* (courtyard/orchard). Its ultimate origin is uncertain but likely relates to the Old Provençal *pata* (pavement/foot).
+* **Word Family:**
+* **Noun:** Patio (the only common form).
+
+
+* **Mnemonic:** Think of **"Path" + "io."** A patio is a **path** made of stone or brick that leads to a place where you say **"Oh!"** because the view is so nice.
+* **Logical Association:** Because it comes from Spanish architecture, it implies a flat, hard surface (paved) rather than just a grassy yard.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Terrace, courtyard, veranda (usually covered), deck (usually wooden).
+* **Antonyms:** Interior, indoors.
+
+
+* **The "Don't Mix Up" Section: Patio vs. Deck**
+* A **Patio** is built directly on the **ground** and is made of hard materials like stone, brick, or concrete.
+* A **Deck** is usually a **raised** wooden platform, often attached to the back of a house.
+* **The "Vibe":** Patios feel "grounded" and earthy; decks feel elevated and are typically made of timber or composite wood.
+
+
+
+---
+
+Would you like me to generate a vocabulary list for **common patio items**, such as "pergola," "awning," or "chaise longue"?

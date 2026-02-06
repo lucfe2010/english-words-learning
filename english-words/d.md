@@ -1507,3 +1507,298 @@ The word **diminished** is a versatile and elegant term used to describe somethi
 ---
 
 **Would you like me to explain the "law of diminishing returns" in an economic context, or perhaps show you how a "diminished chord" sounds in music?**
+
+# demolish
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/dɪˈmɒl.ɪʃ/` | US: `/dɪˈmɑː.lɪʃ/`
+* **CEFR Level:** B2 (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Verb:** To pull or knock down a building or structure.
+2. **Verb:** To comprehensively defeat an opponent or argument.
+3. **Verb (Informal):** To eat a large amount of food very quickly.
+
+
+* **Chinese Definitions:**
+1. **动词:** 拆除，推翻（建筑物）。
+2. **动词:** 推翻（理论）；彻底击败（对手）。
+3. **动词 (口语):** 狼吞虎咽地吃完。
+
+
+* **Collocations:**
+* **Demolish a building**
+* **Demolish an argument**
+* **Demolish the opposition**
+* **Completely demolished**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The old cinema was **demolished** last week to make way for a new shopping center."
+* **Formal/Academic Example:** "The professor proceeded to **demolish** the student's hypothesis by pointing out several fundamental flaws in the data collection."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the Latin *demoliri*.
+* **Prefix:** *de-* (down/away).
+* **Root:** *moliri* (to build/construct), from *moles* (mass/structure).
+
+
+* **Word Family:**
+* **Noun:** Demolition (the act of destroying a structure).
+* **Noun:** Demolisher (one who destroys).
+
+
+* **Mnemonic:** Think of a **Mole** digging **down** (*de-*) under a house until the whole structure collapses. **De-mole-ish**.
+* **Logical Association:** If *construct* is to put a mass together, *de-molish* is to take the "mass" (*moles*) "down" (*de*). It is the literal opposite of building something up.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms (Physical):** Raze (level to the ground), tear down, wreck.
+* **Synonyms (Abstract):** Refute (prove wrong), annihilate, shatter.
+* **Antonyms:** Construct, build, preserve, create.
+
+
+* **The "Don't Mix Up" Section:** **Demolish vs. Destroy**
+* **Destroy** is a general term for making something useless or non-existent (you can destroy a phone, a mood, or a forest).
+* **Demolish** is specific and systemic. It usually implies a large, solid structure or a complex system/argument being pulled down intentionally.
+* **The "Vibe":** *Demolish* feels more "heavy-duty" and complete. If you "destroy" a sandwich, it's gone; if you "**demolish**" a sandwich, you ate it with impressive speed and power.
+
+
+
+---
+
+Would you like me to generate a video showing the controlled demolition of a building to illustrate the scale of the word?
+
+# dubious
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈdʒuː.bi.əs/` | US: `/ˈduː.bi.əs/`
+* **CEFR Level:** B2 (Upper Intermediate) / C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Adjective:** Thought not to be completely true or of a good quality; doubtful.
+2. **Adjective:** Feeling doubt or not feeling certain about something.
+3. **Adjective:** (Of a person) Hesitating or doubting.
+
+
+* **Chinese Definitions:**
+1. **形容词:** 可疑的；不可靠的；模棱两可的。
+2. **形容词:** 怀疑的；无把握的。
+
+
+* **Collocations:**
+* **Dubious claim**
+* **Highly dubious**
+* **Dubious honor/distinction** (an "honor" that is actually embarrassing or negative)
+* **Feel dubious about**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "I'm a bit **dubious** about his promise to pay me back by Friday, given his history."
+* **Formal/Academic Example:** "The data presented in the study is **dubious**, as the sample size was too small to yield statistically significant results."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the Latin *dubiosus*, from *dubium* (doubt), rooted in *duo* (two).
+* **Root:** *dub-* (two).
+
+
+* **Word Family:**
+* **Noun:** Doubt (uncertainty).
+* **Adverb:** Dubiously (in a doubtful manner).
+* **Noun:** Dubiousness (the state of being doubtful).
+
+
+* **Mnemonic:** The root **"du"** means **"two."** When you are **dubious**, your mind is in **two** places—you can't decide if you believe it or not.
+* **Logical Association:** Just like "dual" or "duet," the "dub" in dubious points to being "of two minds." If something is certain, there is only one path; if it is dubious, there are two (true or false).
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms (Regarding quality):** Questionable, suspicious, fishy (informal), shady.
+* **Synonyms (Regarding feeling):** Skeptical, uncertain, hesitant.
+* **Antonyms:** Certain, reliable, trustworthy, definite.
+
+
+* **The "Don't Mix Up" Section:** **Dubious vs. Skeptical**
+* **Skeptical** describes the *person* who is doubting (e.g., "I am skeptical of the news"). It is a mindset of questioning.
+* **Dubious** can describe both the *person* ("I feel dubious") and the *thing* being doubted ("That is a dubious story").
+* **The "Vibe":** "Dubious" often carries a stronger hint that something might be dishonest or of low quality. If a deal is "dubious," it smells like a scam.
+
+
+
+---
+
+Would you like me to generate an image of someone looking at a "dubious" contract with a magnifying glass to help you remember the feeling of suspicion?
+
+# divulging
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/daɪˈvʌl.dʒɪŋ/` | US: `/dɪˈvʌl.dʒɪŋ/`
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions (Verb - Present Participle):**
+1. The act of making known something secret or private.
+2. Revealing information that was previously hidden or confidential.
+
+
+* **Chinese Definitions (动词 - 现在分词/动名词):**
+1. 泄露，透露（秘密、私事等）。
+
+
+* **Collocations:**
+* **Divulging secrets**
+* **Divulging information**
+* **Without divulging** (e.g., "He spoke without divulging names.")
+* **Divulging the identity**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "She got into trouble at work for **divulging** confidential details about the company's new product to a friend."
+* **Formal/Academic Example:** "The journalist was praised for his integrity, as he refused to comply with the court order regarding **divulging** his anonymous sources."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the Latin *divulgare*.
+* **Prefix:** *di-* (apart/widely).
+* **Root:** *vulgare* (make public), from *vulgus* (the common people).
+
+
+* **Word Family:**
+* **Verb:** Divulge (to reveal).
+* **Noun:** Divulgement / Divulgation (the act of revealing).
+
+
+* **Mnemonic:** Think of the word **vulgar**. Originally, this meant "relating to common people." When you **divulge** something, you take it from a private "elite" circle and give it to the "vulgar" (common) public.
+* **Logical Association:** The *di-* (spread) + *vulg* (common) literally means "to spread among the common people." It turns a secret into public knowledge.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Revealing, disclosing, leaking (implies accidental or illicit), betraying (implies a breach of trust).
+* **Antonyms:** Concealing, hiding, withholding, suppressing.
+
+
+* **The "Don't Mix Up" Section: Divulging vs. Telling**
+* **Telling** is neutral and can apply to anything (a story, the time, a joke).
+* **Divulging** specifically implies that the information was *meant to be kept quiet*.
+* **The "Vibe":** "Divulging" feels heavy and significant. You don't "divulge" what you had for breakfast; you "**divulge**" the location of buried treasure or a corporate secret.
+
+
+
+---
+
+Would you like me to generate a sample **Non-Disclosure Agreement (NDA)** paragraph to show you how "divulging information" is handled in legal contracts?
+
+# dwarf
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/dwɔːf/` | US: `/dwɔːrf/`
+* **CEFR Level:** B2 (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Noun:** (In folklore) A member of a race of small, human-like creatures who are often skilled in mining and metalworking.
+2. **Verb:** To cause something to seem small or insignificant in comparison.
+3. **Adjective:** Much smaller than the usual size for its species (e.g., a dwarf planet).
+
+
+* **Chinese Definitions:**
+1. **名词:** 矮人；小矮人（神话传说中）。
+2. **动词:** 使相形见绌；使显得矮小。
+3. **形容词:** 矮小的；发育不全的。
+
+
+* **Collocations:**
+* **Dwarf planet** (e.g., Pluto)
+* **Be dwarfed by**
+* **Dwarf trees/shrubs**
+* **Seven Dwarfs**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The new skyscraper is so massive that it **dwarfs** every other building in the city skyline."
+* **Formal/Academic Example:** "The scale of the 2008 financial crisis **dwarfed** all previous market downturns in the post-war era."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Old English *dweorg*, of Germanic origin. Historically, it referred to a supernatural being.
+* **Word Family:**
+* **Adjective:** Dwarfish (resembling a dwarf).
+* **Noun (Plural):** Dwarfs (standard) or Dwarves (common in fantasy literature like Tolkien).
+
+
+* **Mnemonic:** Imagine a **Dwarf** standing next to a **Warf** (wharf/dock). The massive ships at the wharf make the tiny dwarf look even smaller.
+* **Logical Association:** The noun (a small person) naturally evolved into a verb. If you stand next to a giant, you are "acting as a dwarf" in comparison, hence the verb "to dwarf."
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms (Verb):** Overshadow, outshine, dominate, minimize.
+* **Synonyms (Noun/Adj):** Miniature, midget (note: often offensive when used for people), petite.
+* **Antonyms:** Magnify, enhance, giant, massive.
+
+
+* **The "Don't Mix Up" Section: Dwarf vs. Overshadow**
+* **Overshadow** often refers to *importance* or *fame* (e.g., "The younger brother's talent overshadowed the older one's").
+* **Dwarf** is primarily about *physical size* or *numerical scale*.
+* **The "Vibe":** "Dwarf" is a very visual word. When you use it as a verb, you are telling the reader to "look" at the giant difference in size between two things.
+
+
+
+---
+
+Would you like me to generate a comparison chart of the **dwarf planets** in our solar system to help you see the word used in a scientific context?

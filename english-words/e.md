@@ -387,3 +387,145 @@ This is a "boundary" word. **Excess** describes the moment you cross the line fr
 * A person who lives in **excess** might find their reputation **sullied** if they become too **complacent**.
 
 Would you like to explore words for "not enough," like **scarcity** or **insufficient**?
+
+# encampment
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ɪnˈkæmp.mənt/` | US: `/ɪnˈkæmp.mənt/`
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions (Noun):**
+1. A place where people have come together and set up tents or temporary shelters.
+2. The act of setting up a camp.
+
+
+* **Chinese Definitions (名词):**
+1. 露营地；营地；临时驻地。
+2. 设营；扎营。
+
+
+* **Collocations:**
+* **Military encampment**
+* **Temporary encampment**
+* **Make/Set up an encampment**
+* **Protest encampment**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The hikers stumbled upon a small **encampment** of nomads near the base of the mountain."
+* **Formal/Academic Example:** "Historical records indicate that the Roman **encampment** was strategically positioned on the high ground to overlook the valley."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the verb *encamp*, which combines the prefix **en-** (meaning "in" or "to put into") with **camp** (from the Latin *campus*, meaning "field").
+* **Word Family:**
+* **Verb:** Encamp (to settle in a camp).
+* **Noun:** Camp.
+
+
+* **Mnemonic:** Look at the word: **En-camp-ment**. You are **En**tering a **camp** to stay for a **ment** (moment).
+* **Logical Association:** It sounds more permanent and structured than a "campsite." While a campsite is just a spot for a tent, an **encampment** implies a group of people living together in a specific area for a period.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Bivouac (specifically a temporary military camp without tents), cantonment, base, settlement.
+* **Antonyms:** Permanent residence, city, fixed dwelling.
+
+
+* **The "Don't Mix Up" Section: Encampment vs. Campsite**
+* A **Campsite** is often a recreational place for tourists or hobbyists (think sleeping bags and marshmallows).
+* An **Encampment** usually has a more "serious" or "functional" vibe. It is often used in the context of **soldiers, refugees, or protesters**. It implies a community or a mission, rather than a vacation.
+* **The "Vibe":** "Encampment" feels historical or political. You read about "Civil War encampments" or "student protest encampments."
+
+
+
+---
+
+Would you like me to generate an image of a **medieval forest encampment** at night to help you visualize the difference between a simple camp and an encampment?
+
+# erect
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ɪˈrekt/` | US: `/ɪˈrekt/`
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Adjective:** Standing vertically; not slumped or bent.
+2. **Verb (Construction):** To build or put up a structure (a building, wall, or statue).
+3. **Verb (Organization):** To create or establish something (a system, a barrier, or a theory).
+4. **Biological:** (Of a body part) becoming stiff and upright.
+
+
+* **Chinese Definitions:**
+1. **形容词:** 垂直的；竖直的；直立的。
+2. **动词:** 建立；竖立；建造。
+3. **动词:** 创立；设立。
+
+
+* **Collocations:**
+* **Stand erect** (posture)
+* **Erect a monument**
+* **Erect a barrier**
+* **Erect a tent**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The soldiers were told to stand **erect** during the inspection to show their discipline."
+* **Formal/Academic Example:** "The city council decided to **erect** a bronze statue in honor of the late mayor in the central plaza."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the Latin *erectus*, the past participle of *erigere*, from *e-* (out) + *regere* (to guide or keep straight).
+* **Word Family:**
+* **Noun:** Erection (the act of building or a biological state).
+* **Adjective:** Erectile.
+
+
+* **Mnemonic:** Think of a **Rectangle**. A rectangle has sides that stand **erect** (straight up) from the base.
+* **Logical Association:** The root *rect* (straight) is found in words like "correct," "direct," and "rectify." To **erect** something is to make it "straight up."
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms (Verb):** Construct, build, set up, assemble.
+* **Synonyms (Adjective):** Upright, vertical, perpendicular.
+* **Antonyms:** Demolish, raze (destroy), slumped, horizontal, bent.
+
+
+* **The "Don't Mix Up" Section: Erect vs. Build**
+* **Build** is a general word for making anything from a house to a career.
+* **Erect** specifically emphasizes the **verticality** or the act of "putting something up." You build a house, but you **erect** a flagpole or a skyscraper.
+* **The "Vibe":** "Erect" is more formal and technical. It describes the physical movement of lifting something from horizontal to vertical.
+
+
+
+---
+
+Would you like me to generate a list of **common architectural terms** related to "erecting" structures, such as "scaffolding," "foundation," and "girder"?

@@ -419,3 +419,140 @@ These are often confused in physics and geography:
 ---
 
 **Would you like me to explain the phrase "order of magnitude" and how it’s used in scientific or business growth projections?**
+
+# mulling
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈmʌl.ɪŋ/` | US: `/ˈmʌl.ɪŋ/`
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions (Verb - Present Participle):**
+1. Thinking carefully about something for a long period of time.
+2. Considering a variety of possibilities or options before making a decision.
+3. (Cooking/Wine) Heating a beverage (like cider or wine) with spices and sugar.
+
+
+* **Chinese Definitions (动词 - 现在分词/动名词):**
+1. 沉思，仔细思考，琢磨。
+2. （通常指在决定前）反复思考。
+3. 温热（酒或饮料）并加香料。
+
+
+* **Collocations:**
+* **Mulling over** (the most common phrase)
+* **Mulling it over**
+* **Mulling a decision**
+* **Mulling a proposal**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "I've been **mulling** over his job offer all weekend, but I still haven't decided if I should take it."
+* **Formal/Academic Example:** "The committee is currently **mulling** several legislative amendments aimed at reducing carbon emissions."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Uncertain, but likely derived from the Middle English *mullen* (to grind to powder/pulverize).
+* **Word Family:**
+* **Verb:** Mull (to think or to spice wine).
+* **Adjective:** Mulled (as in "mulled wine").
+
+
+* **Mnemonic:** Imagine your brain is a **mill** (like a windmill or flour mill). When you are **mulling**, you are "grinding" a thought over and over until it is small enough to digest or understand.
+* **Logical Association:** Just as spices are stirred into "mulled wine" to let the flavors blend slowly over heat, "mulling a thought" involves letting an idea "simmer" in your mind until you get the full picture.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Pondering, contemplating, ruminating (implies repetitive, deep thought), deliberating.
+* **Antonyms:** Deciding quickly, disregarding, dismissing, forgetting.
+
+
+* **The "Don't Mix Up" Section: Mulling vs. Ruminating**
+* **Mulling** is usually constructive. You are "mulling over" a choice to find the best path forward.
+* **Ruminating** often has a negative "vibe." In psychology, ruminating means obsessively dwelling on a problem or a past mistake without finding a solution—like a "broken record."
+* **The "Vibe":** Mulling feels slow and steady, like a slow-cooker for your thoughts. It implies you are being thorough, not necessarily anxious.
+
+
+
+---
+
+Would you like me to generate a **comparative list** of common idioms that mean "to think," such as "sleep on it" or "chew the cud," to expand your vocabulary?
+
+# mogul
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈməʊ.ɡəl/` | US: `/ˈmoʊ.ɡəl/`
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Noun:** An important or powerful person, especially in the media or entertainment industry.
+2. **Noun:** A bump on a ski slope formed by skiers turning or by piled-up snow.
+3. **Noun (Historical):** A member of the Muslim dynasty that ruled much of India from the 16th to the 19th century (usually spelled *Moghul* or *Mughal*).
+
+
+* **Chinese Definitions:**
+1. **名词:** 大亨；权贵；巨头（尤指娱乐或传媒业）。
+2. **名词:** （滑雪道上的）雪包，高耸的小雪堆.
+3. **名词 (历史):** 莫卧儿人（16-19世纪统治印度的穆斯林王朝）。
+
+
+* **Collocations:**
+* **Media mogul** (e.g., Rupert Murdoch)
+* **Business mogul**
+* **Real estate mogul**
+* **Mogul skiing**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "He started with a small local newspaper and eventually became a global **media mogul**."
+* **Formal/Academic Example:** "The concentration of power among a few **tech moguls** has raised significant concerns regarding market competition and data privacy."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Persian and Arabic word *mughul*, a corruption of *Mongol*. It originally referred to the **Mughal Empire** in India, known for its immense wealth and power.
+* **Mnemonic:** Think of a **Movie-Gull**. A giant "Gull" (bird) flying over Hollywood, controlling everything below. **Mo-gul**.
+* **Logical Association:** Because the Mughal emperors were legendary for their absolute power and staggering riches, the word was adopted into English to describe any modern "emperor" of an industry.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms (Person):** Tycoon, magnate, baron, captain of industry.
+* **Antonyms (Person):** Underling, subordinate, nobody, peon.
+
+
+* **The "Don't Mix Up" Section: Mogul vs. Tycoon**
+* **Tycoon** (from Japanese *taikun*) is often used for heavy industry or old-school business (shipping, oil, steel).
+* **Mogul** is the preferred term for "softer" industries like **media, movies, fashion, or music**.
+* **The "Vibe":** A "tycoon" sounds like they own factories; a "mogul" sounds like they own the airwaves and the celebrities.
+
+
+
+---
+
+Would you like me to generate a comparison of the world's most famous **media moguls** to see how the term is applied in modern business journalism?

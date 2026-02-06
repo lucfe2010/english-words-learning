@@ -2127,3 +2127,72 @@ This is the most critical logic distinction:
 ---
 
 **Would you like me to show you how to use "simultaneously" to describe complex actions in a resume or a cover letter?**
+
+# signage
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈsaɪ.nɪdʒ/` | US: `/ˈsaɪ.nɪdʒ/`
+* **CEFR Level:** B2 (Upper Intermediate) / C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions (Noun):**
+1. Signs collectively, especially commercial or public display signs.
+2. The design or use of signs and symbols to communicate a message or provide direction.
+
+
+* **Chinese Definitions (名词):**
+1. 标识；标牌（总称）。
+2. 信号；标志系统。
+
+
+* **Collocations:**
+* **Directional signage** (signs that tell you where to go)
+* **Digital signage** (electronic screens used for ads/info)
+* **Wayfinding signage**
+* **Inadequate signage** (not enough signs)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The mall has great shops, but the **signage** is terrible—I could never find the exit."
+* **Formal/Academic Example:** "Effective **wayfinding signage** is critical in hospital architecture to reduce stress for visitors and patients."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the word **sign** + the suffix **-age** (meaning a collection or a process, like *baggage* or *drainage*).
+* **Word Family:**
+* **Noun:** Sign.
+* **Verb:** Signal / Signify.
+
+
+* **Mnemonic:** Think of **"Sign" + "Package."** It isn't just one sign; it is the whole "package" of signs in a building or city.
+* **Logical Association:** When you see a group of arrows, maps, and labels in an airport, you aren't looking at "a sign"; you are looking at the **signage** system.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Signs, indicators, placards, symbols, branding.
+* **Antonyms:** (No direct antonym, but "chaos" or "lack of direction" represents its absence).
+
+
+* **The "Don't Mix Up" Section: Signage vs. Sign**
+* A **Sign** is a single physical object (e.g., a "Stop" sign).
+* **Signage** is the *collective system*. If you say "The signage in this park is beautiful," you are talking about the fonts, the colors, and the placement of all the different boards together.
+* **The "Vibe":** "Signage" is a professional/industrial term used by designers, architects, and business owners.
+
+
+
+---
+
+Would you like me to generate a list of **common types of signage** (like "regulatory," "informational," and "persuasive") used in urban planning?

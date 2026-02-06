@@ -1231,3 +1231,143 @@ Imagine a long, straight line on a heart monitor. Suddenly, there is one small s
 ---
 
 **That brings our total to 13 words! You’ve mastered everything from "belabor" to "blip." Would you like me to organize these into a "Vocabulary Cheat Sheet" categorized by their "vibe" (e.g., High Energy, Business-focused, or Descriptive)?**
+
+# ballroom
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈbɔːl.ruːm/` | US: `/ˈbɑːl.ruːm/`
+* **CEFR Level:** B1 (Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Noun:** A large room used for formal dancing.
+2. **Noun (Modifier):** Relating to a style of social dancing (ballroom dancing) such as the waltz or tango.
+
+
+* **Chinese Definitions:**
+1. **名词:** 宴会厅；舞厅（指正式场合）。
+2. **名词 (定语):** 社交舞的；舞厅的。
+
+
+* **Collocations:**
+* **Grand ballroom**
+* **Ballroom dancing**
+* **Hotel ballroom**
+* **Ballroom floor**
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The wedding reception was held in the hotel's **grand ballroom**, which was decorated with crystal chandeliers."
+* **Formal/Academic Example:** "The architectural design of the palace included a **ballroom** specifically engineered to amplify the sound of a live orchestra."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** A compound word consisting of *ball* and *room*.
+* **Root:** *Ball* comes from the Old French *baler* (to dance), which originates from the Late Latin *ballare*.
+
+
+* **Word Family:**
+* **Noun:** Ball (a formal social gathering for dancing).
+* **Adjective:** Ballroom (used as a modifier).
+
+
+* **Mnemonic:** Picture a **Ball** (the object) rolling across the **room**. Now imagine people dancing as gracefully as that ball rolls.
+* **Logical Association:** In English, a "ball" isn't just a toy; it is a formal party. Therefore, the "ball-room" is the specific space designated for that event.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Dance hall, banquet hall, assembly room.
+* **Antonyms:** Gym, office, bedroom (private/informal spaces).
+
+
+* **The "Don't Mix Up" Section:** **Ballroom vs. Club (Discotheque)**
+* A **Ballroom** is associated with tradition, elegance, formal attire, and partner dances like the Waltz. It has a "high-society" vibe.
+* A **Club** is associated with modern music, casual or trendy clothing, and freestyle dancing.
+* **The "Vibe":** You go to a **ballroom** to perform a practiced "Step-Two-Three"; you go to a **club** to move to the beat.
+
+
+
+---
+
+Would you like me to generate an image of a **classic 18th-century ballroom** with high ceilings and chandeliers to show you the scale of such a room?
+
+# backlash
+
+## 1. Phonetics & Classification
+
+* **IPA:** UK: `/ˈbæk.læʃ/` | US: `/ˈbæk.læʃ/`
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions (Noun):**
+1. A strong and adverse reaction by a large number of people, especially to a social or political development.
+2. (Technical) The sudden forceful recoil or backward motion of a machine or mechanism.
+
+
+* **Chinese Definitions (名词):**
+1. 强烈反对；强烈抵制（尤指对社会或政治变革的反应）。
+2. （机械的）反冲；回程撞击。
+
+
+* **Collocations:**
+* **Public backlash**
+* **Face a backlash**
+* **Trigger a backlash**
+* **Backlash against** (e.g., backlash against globalization)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The company faced a massive **backlash** on social media after they doubled their subscription prices overnight."
+* **Formal/Academic Example:** "Sociologists observed a conservative **backlash** against the rapid cultural shifts of the late 1960s."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** A compound of **back** + **lash**. It originally described the jarring movement of connected wheels in a machine when they didn't fit together perfectly.
+* **Word Family:**
+* **Verb:** To backlash (rarely used as a verb; usually "to face a backlash").
+
+
+* **Mnemonic:** Imagine a whip. When you swing it forward, the tip can suddenly **lash back** and hit you. A **backlash** is when your own action "lashes" back at you because of the public's anger.
+* **Logical Association:** "Back" (the direction) + "Lash" (a strike/hit). If you push a policy too hard in one direction, the public "lashes" back in the opposite direction.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms & Antonyms:**
+* **Synonyms:** Outcry, repercussion, retaliation, resistance, counterblast.
+* **Antonyms:** Approval, support, endorsement, acceptance.
+
+
+* **The "Don't Mix Up" Section: Backlash vs. Criticism**
+* **Criticism** can be quiet, constructive, or come from just one person. It’s an evaluation.
+* **Backlash** is a collective "vibe." It implies a *large-scale*, often emotional or angry, group reaction that tries to stop or reverse a change.
+* **The "Vibe":** Criticism is a comment; a backlash is a storm. You can ignore one critic, but it is very difficult to ignore a **backlash**.
+
+
+
+---
+
+Would you like me to help you analyze a recent news event to see if the public reaction qualifies as a **backlash** or just standard criticism?

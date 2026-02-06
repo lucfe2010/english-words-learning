@@ -9,30 +9,29 @@ Please provide a comprehensive breakdown of the word following this structure:
 
 1. **Phonetics & Classification**
    - **IPA:** (UK and US versions)
-   - **Part of Speech:** (Include all common forms)
    - **CEFR Level:** (A1-C2)
 
 2. **Core Meanings**
-   - **English Definition:** (Simple, clear, and learner-friendly)
-   - **Chinese Definition:** (Simplified Chinese)
+   - **English Definitions(Part of Speech of each definition):** (Simple, clear, and learner-friendly)
+   - **Chinese Definitions(Part of Speech of each definition):** (Simplified Chinese)
    - **Collocations:** (List 3-5 common word pairings/phrases)
 
 3. **Contextual Usage**
    - **Natural Example:** (A sentence reflecting modern, everyday usage)
    - **Formal/Academic Example:** (A sentence suitable for IELTS/TOEFL or professional settings)
 
-4. **Linguistic Origins & Family**
+4. **Linguistic Origins & Family & Memory Anchor**
    - **Etymology:** (Break down the root, prefix, and suffix)
    - **Word Family:** (List related nouns, verbs, adjectives, and adverbs)
+   - **Mnemonic:** (A clever mental shortcut or imagery to lock in the meaning)
+   - **Logical Association:** (Why does this word make sense based on its root?)
 
 5. **Nuance & Distinction**
    - **Synonyms & Antonyms:** (Group synonyms by intensity or nuance)
    - **The "Don't Mix Up" Section:** Compare "{WORD}" with its most commonly confused counterpart. Explain the subtle "vibe" or context difference.
 
-6. **Memory Anchor**
-   - **Mnemonic:** (A clever mental shortcut or imagery to lock in the meaning)
-   - **Logical Association:** (Why does this word make sense based on its root?)
+
 
 # other
 
-- don't add any other texts: like courage me, the words learned, etc
+- don't add any other texts: like courage me, the words learned, what do want to ask next, etc
