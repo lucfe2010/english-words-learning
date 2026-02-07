@@ -440,3 +440,77 @@ This is a word that carries the weight of history, victory, and even culinary ar
 ### A "Nobel" Connection
 
 Since you now know that a **Laureate** is someone who has "won the laurels," would you like to explore other words related to **awards and prestige**, such as **accolade** or **venerated**?
+
+# lionized 
+
+## Phonetics & Classification
+
+* **IPA:** UK: /ˈlaɪ.ə.naɪzd/ | US: /ˈlaɪ.ə.naɪzd/
+* **CEFR Level:** C1/C2 (Literary/Journalistic)
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* *Verb (Past Tense/Participle):* Treated as a celebrity or a person of great importance.
+
+
+* **Chinese Definitions:**
+* *动词过去分词 (v.):* 把……奉为名人；捧为偶像；崇拜。
+
+
+* **Collocations:**
+* **Lionized by** the press
+* **Lionized as** a hero
+* To be **widely lionized**
+* A **lionized author**/celebrity
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "After scoring the winning goal in the final seconds, the young striker was **lionized** by fans across the country."
+* **Formal/Academic Example:** "The revolutionary leader was **lionized** in his own time, though modern historians offer a more nuanced critique of his policies."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:**
+* **Root:** *Lion* (the animal, traditionally the "King of the Jungle").
+* **Suffix:** *-ize* (to make into or treat as).
+
+
+* **Word Family:**
+* **Verb:** Lionize (present tense)
+* **Noun:** Lionization
+
+
+* **Mnemonic:** Picture a literal **Lion**. If you **lionize** someone, you are turning them into a "Lion"—the king of the room whom everyone watches, admires, and fears to offend.
+* **Logical Association:** Historically, the lions kept in the Tower of London were a famous attraction that people flocked to see. To "lionize" someone was to treat them like a famous "lion" that everyone wanted to catch a glimpse of.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:**
+* *Positive:* Idolized, celebrated, glorified, acclaimed.
+* *Neutral:* Publicized, featured.
+
+
+* **Antonyms:**
+* Demonized, vilified, belittled, marginalized.
+
+
+* **The "Don't Mix Up" Section: Lionized vs. Idolized**
+* **Idolized** suggests a deep, often blind **devotion or love**, similar to how a fan feels about a pop star. It is emotional and personal.
+* **Lionized** is more about **social status and public treatment**. When you are lionized, you are given the "VIP treatment" at parties, invited to speak at events, and followed by the media. It describes the *way society treats you* as a "big deal."
+
+
+
+---
+
+Would you like me to find a news article excerpt where a public figure is being "lionized," or would you like me to generate an image showing the difference between being "lionized" (public praise) and "demonized" (public hate)?

@@ -165,3 +165,74 @@ You now have a "Master Vocabulary" set: **boulder**, **strewn**, **ravenous**, a
 ---
 
 Would you like me to show you how to use **nonetheless** in a professional email to politely disagree with a colleague?
+
+# notoriously
+
+## Phonetics & Classification
+
+* **IPA:** UK: /nəʊˈtɔː.ri.əs.li/ | US: /noʊˈtɔːr.i.əs.li/
+* **CEFR Level:** C1
+
+---
+
+## Core Meanings
+
+* **English Definitions:** * *Adverb:* In a way that is famous or well-known, typically for some bad quality or deed.
+* **Chinese Definitions:**
+* *副词 (adv.):* 臭名昭著地；声名狼藉地；众所周知地（通常指负面特征）。
+
+
+* **Collocations:**
+* **Notoriously difficult**
+* **Notoriously unreliable**
+* **Notoriously private**
+* **Notoriously fickle** (e.g., the fashion industry)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "The local DMV is **notoriously** slow, so make sure you bring a book to read while you wait."
+* **Formal/Academic Example:** "The legal system in that jurisdiction is **notoriously** complex, often resulting in years of litigation for even the simplest cases."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** * **Root:** Latin *notus* (known).
+* **Suffix:** *-ous* (full of) + *-ly* (adverb marker).
+
+
+* **Word Family:**
+* **Noun:** Notoriety (ill fame)
+* **Adjective:** Notorious
+
+
+* **Mnemonic:** Think of **"Note."** Everyone has taken **"Note"** of this person or thing, but for the wrong reasons. It’s like a "bad note" in a song that everyone remembers because it sounded terrible.
+* **Logical Association:** Because it comes from the root for "known," it implies wide recognition. However, in English evolution, it shifted from meaning "well-known" to "well-known for being bad."
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:**
+* *Negative:* Infamously, scandalously, disreputably.
+* *Intense/Neutral:* Famously, legendary (rarely).
+
+
+* **Antonyms:**
+* Anonymously, obscurely, insignificantly.
+
+
+* **The "Don't Mix Up" Section: Notoriously vs. Famously**
+* **Famously** is usually **positive** or neutral. If a chef is "famously talented," people love him.
+* **Notoriously** is **negative**. If a chef is "notoriously temperamental," it means he is known for screaming at his staff.
+* *Pro Tip:* Use "notoriously" when you want to complain about a consistent, well-known problem (e.g., "The Wi-Fi here is notoriously spotty").
+
+
+
+---
+
+Would you like me to show you how to use "notoriously" to describe common travel frustrations, or would you like to see how it's used in historical biographies to describe villains?

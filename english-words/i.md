@@ -507,3 +507,81 @@ This is the most important distinction in psychology and economics:
 ---
 
 **Would you like me to help you use "intrinsic" to explain a complex concept, such as "the intrinsic value of art" versus its market price?**
+
+# imitation
+
+## Phonetics & Classification
+
+* **IPA:** UK: /ˌɪm.ɪˈteɪ.ʃn/ | US: /ˌɪm.əˈteɪ.ʃn/
+* **CEFR Level:** B2
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* *Noun:* The act of copying the words, facial expressions, or behavior of someone else.
+* *Noun:* A thing intended to simulate or copy something else (often of lower quality).
+* *Adjective (Attributive):* Made to look like something else; artificial or fake.
+
+
+* **Chinese Definitions:**
+* *名词 (n.):* 模仿；仿制品；效法。
+* *形容词 (adj.):* 仿制的；人造的；假装的。
+
+
+* **Collocations:**
+* A **perfect imitation**
+* **Imitation leather** / pearls
+* **Life-like imitation**
+* **Learning by imitation**
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "The comedian did a hilarious **imitation** of the president's unique way of speaking."
+* **Formal/Academic Example:** "Sociologists suggest that children develop primary social skills through the **imitation** of their parents' behavioral patterns."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:**
+* **Root:** Latin *imitari* (to copy or portray).
+
+
+* **Word Family:**
+* **Verb:** Imitate
+* **Adjective:** Imitative / Imitable
+* **Noun:** Imitator
+
+
+* **Mnemonic:** Think of an **"Image."** An **imitation** is just trying to create a matching **image** of the original.
+* **Logical Association:** It shares a root with "image" and "imagine." All three involve the mental or physical representation of something that is not the "original" reality in that moment.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:**
+* *Neutral:* Copy, reproduction, simulation.
+* *Critical:* Mockery, parody, fake, counterfeit.
+* *Positive:* Emulation (copying to match or excel).
+
+
+* **Antonyms:**
+* Original, genuine, authentic, prototype.
+
+
+* **The "Don't Mix Up" Section: Imitation vs. Emulation**
+* **Imitation** is simply copying what someone does (the "how"). It can be for fun, learning, or even deceit (like fake leather).
+* **Emulation** is a higher form of copying. It implies you admire someone and are trying to match their **success or virtues**. You *imitate* a voice; you *emulate* a hero.
+
+
+
+---
+
+Would you like me to create a comparison table of different "fake" materials (imitation vs. synthetic vs. counterfeit), or perhaps generate an image showing the difference between an "original" and an "imitation"?

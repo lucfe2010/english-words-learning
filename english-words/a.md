@@ -1151,3 +1151,78 @@ Would you like me to help you write a formal **acknowledgment letter** for a job
 ---
 
 Would you like me to show you how to rewrite a few sentences to choose correctly between **amid** and **among**?
+
+# accrue
+
+## Phonetics & Classification
+
+* **IPA:** UK: /əˈkruːz/ | US: /əˈkruːz/
+* **CEFR Level:** C1 (Business/Legal context)
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* *Verb (Intransitive):* (Of a benefit or sum of money) to be received by someone in regular or increasing amounts over time.
+* *Verb (Transitive):* To accumulate or receive (payments or benefits) over time.
+
+
+* **Chinese Definitions:**
+* *动词 (v.):* （利息、账款等）逐渐增加；（利益等）累计；产生。
+
+
+* **Collocations:**
+* **Interest accrues** daily/monthly
+* **Benefits accrue** to the community
+* **Accrued expenses** (accounting term)
+* **Accrue leave** / vacation time
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "If you don't pay off your credit card balance, interest **accrues** every single day, making the debt much harder to clear."
+* **Formal/Academic Example:** "Economic advantages often **accrue** to those with higher levels of education, leading to a widening wealth gap."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:**
+* **Prefix:** *ad-* (to/towards).
+* **Root:** *crescere* (to grow).
+
+
+* **Word Family:**
+* **Noun:** Accrual (the act of accumulating)
+* **Adjective:** Accrued (accumulated over time)
+
+
+* **Mnemonic:** **Accrue** sounds like **"A Crew."** Imagine a pirate crew slowly gathering gold coin by coin. The gold **accrues** as the crew grows their treasure pile.
+* **Logical Association:** It shares the same root as **"crescent"** (the growing moon) and **"increase."** It is a process of natural, steady growth or addition.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:**
+* *Financial:* Accumulate, amass, collect.
+* *Abstract:* Result, arise, ensue.
+
+
+* **Antonyms:**
+* Dissipate, dwindle, spend, lose.
+
+
+* **The "Don't Mix Up" Section: Accrue vs. Accumulate**
+* **Accumulate** is a general word for gathering things (dust accumulates, wealth accumulates). It can be accidental or messy.
+* **Accrue** is more **formal and structured**. It is typically used for things that grow according to a set rule or time period, like interest, legal rights, or vacation days in a job contract. You wouldn't say "dust accrues on the shelf"; you'd say "interest accrues on the loan."
+
+
+
+---
+
+Would you like me to explain the difference between "Accrual Accounting" and "Cash Accounting," or should I generate a table showing how vacation days accrue over a typical work year?

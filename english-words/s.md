@@ -2196,3 +2196,78 @@ This is the most critical logic distinction:
 ---
 
 Would you like me to generate a list of **common types of signage** (like "regulatory," "informational," and "persuasive") used in urban planning?
+
+# insolventy
+
+## Phonetics & Classification
+
+* **IPA:** UK: /ɪnˈsɒl.vən.si/ | US: /ɪnˈsɑːl.vən.si/
+* **CEFR Level:** C1 (Financial/Legal)
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* *Noun:* The state of being unable to pay one's debts; a financial condition where liabilities exceed assets.
+
+
+* **Chinese Definitions:**
+* *名词 (n.):* 无力偿还；破产状态。
+
+
+* **Collocations:**
+* **Corporate insolvency**
+* File for **insolvency**
+* **Insolvency proceedings**
+* **On the brink of** insolvency
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "The small bakery was forced into **insolvency** after the new supermarket chain opened across the street."
+* **Formal/Academic Example:** "The regulator's report highlighted systemic **insolvency** within the banking sector, necessitating an immediate government bailout."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:**
+* **Prefix:** *in-* (not).
+* **Root:** *solvere* (to loosen/untie/pay).
+
+
+* **Word Family:**
+* **Adjective:** Insolvent
+* **Verb:** Solve (to "untie" a problem)
+* **Noun:** Solvent (having enough money; or a liquid that dissolves things)
+
+
+* **Mnemonic:** Think of a **"Solvent"** as a liquid that makes things flow. If you have **In-** (not) **Solvency**, your cash flow has "frozen." You can't "pay" or "dissolve" your debts.
+* **Logical Association:** To "solve" a debt is to pay it off. If you are in a state of "in-solvency," you lack the "solution" (money) to resolve your financial obligations.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:**
+* *Legal:* Bankruptcy (though not identical), receivership.
+* *General:* Ruin, financial failure, penury.
+
+
+* **Antonyms:**
+* Solvency, wealth, profitability, stability.
+
+
+* **The "Don't Mix Up" Section: Insolvency vs. Bankruptcy**
+* **Insolvency** is a **financial state**. It describes the reality that you don't have enough money to pay what you owe. You can be insolvent without anyone knowing.
+* **Bankruptcy** is a **legal status**. It is a formal court declaration. You use "bankruptcy" to deal with your "insolvency." Think of insolvency as the *sickness* and bankruptcy as the *hospital visit*.
+
+
+
+---
+
+Would you like me to create a flowchart showing the steps of an insolvency proceeding, or would you prefer a list of the most common causes of corporate insolvency?

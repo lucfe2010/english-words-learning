@@ -2,17 +2,27 @@ import argparse
 import re
 import sys
 import asyncio
+import os
+import pathlib
 import edge_tts
 
-async def speak_text(text: str, voice: str = "en-US-JennyNeural"):
+def sanitize_filename(name: str) -> str:
+    """Sanitizes a string to be used as a valid filename."""
+    # Replace invalid characters with an underscore
+    s = re.sub(r'[<>:"/\\|?*]', '_', name)
+    # Remove leading/trailing spaces and dots
+    s = s.strip()
+    s = s.strip('.')
+    # Truncate to a reasonable length if necessary
+    return s[:200]
+
+async def speak_text(text: str, output_path: pathlib.Path, voice: str = "en-US-JennyNeural"):
     """
     Uses edge-tts to speak the given text.
     """
     communicate = edge_tts.Communicate(text, voice)
-    await communicate.save("temp_chapter.mp3")
-    # You might want to play this automatically, but for CLI, saving to file is safer.
-    # On Linux, you can use: os.system("mpg123 temp_chapter.mp3") if mpg123 is installed
-    print("Chapter saved to temp_chapter.mp3. Play it using an audio player.")
+    await communicate.save(str(output_path))
+    print(f"Chapter saved to {output_path}. Play it using an audio player.")
 
 def parse_markdown_chapters(markdown_content: str) -> dict:
     """
@@ -44,6 +54,10 @@ def main():
         "-c", "--chapter",
         help="The name of the chapter to read. If not provided, you will be prompted."
     )
+    parser.add_argument(
+        "-a", "--all", action="store_true",
+        help="Process all chapters and save them as MP3s in a dedicated folder."
+    )
     args = parser.parse_args()
 
     try:
@@ -62,27 +76,57 @@ def main():
         print("No chapters found in the markdown file. Chapters must start with '# Chapter Name'.")
         sys.exit(1)
 
-    selected_chapter_title = args.chapter
-    if not selected_chapter_title:
+    # Determine output directory
+    markdown_file_path = pathlib.Path(args.markdown_file)
+    output_dir_name = sanitize_filename(markdown_file_path.stem)
+    output_dir = markdown_file_path.parent / output_dir_name
+    output_dir.mkdir(parents=True, exist_ok=True)
+    print(f"Output directory for MP3s: {output_dir}")
+
+    async def process_chapter(title: str, content: str):
+        sanitized_title = sanitize_filename(title)
+        output_mp3_path = output_dir / f"{sanitized_title}.mp3"
+
+        print(f"\nProcessing chapter: '{title.title()}'")
+        if output_mp3_path.exists():
+            print(f"  --> MP3 already exists for '{title.title()}'. Skipping generation.")
+            return
+
+        print("-" * (len(title) + 18))
+        print(content)
+        print("-" * (len(title) + 18))
+        await speak_text(content, output_mp3_path)
+
+    if args.all:
+        print("\nProcessing all chapters...")
+        for title, content in chapters.items():
+            asyncio.run(process_chapter(title, content))
+        print("\nAll chapters processed.")
+    elif args.chapter:
+        selected_chapter_title = args.chapter
+        chapter_content = chapters.get(selected_chapter_title.lower())
+        if chapter_content:
+            asyncio.run(process_chapter(selected_chapter_title, chapter_content))
+        else:
+            print(f"Error: Chapter '{selected_chapter_title}' not found.")
+            print("Available chapters are:")
+            for title in chapters.keys():
+                print(f"- {title.title()}")
+            sys.exit(1)
+    else:
         print("Available chapters:")
         for title in chapters.keys():
-            print(f"- {title.title()}") # Display titles nicely capitalized
-        selected_chapter_title = input("Enter the chapter name you want to read: ").strip()
-
-    chapter_content = chapters.get(selected_chapter_title.lower())
-
-    if chapter_content:
-        print(f"Reading chapter: '{selected_chapter_title.title()}'")
-        print("-" * (len(selected_chapter_title) + 18)) # Separator for readability
-        print(chapter_content)
-        print("-" * (len(selected_chapter_title) + 18)) # Separator for readability
-        asyncio.run(speak_text(chapter_content))
-    else:
-        print(f"Error: Chapter '{selected_chapter_title}' not found.")
-        print("Available chapters are:")
-        for title in chapters.keys():
             print(f"- {title.title()}")
-        sys.exit(1)
+        selected_chapter_title = input("Enter the chapter name you want to read: ").strip()
+        chapter_content = chapters.get(selected_chapter_title.lower())
+        if chapter_content:
+            asyncio.run(process_chapter(selected_chapter_title, chapter_content))
+        else:
+            print(f"Error: Chapter '{selected_chapter_title}' not found.")
+            print("Available chapters are:")
+            for title in chapters.keys():
+                print(f"- {title.title()}")
+            sys.exit(1)
 
 if __name__ == "__main__":
     main()

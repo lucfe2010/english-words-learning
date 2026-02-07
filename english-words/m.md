@@ -556,3 +556,149 @@ Would you like me to generate a **comparative list** of common idioms that mean 
 ---
 
 Would you like me to generate a comparison of the world's most famous **media moguls** to see how the term is applied in modern business journalism?
+
+# mediocre
+
+## Phonetics & Classification
+
+* **IPA:** UK: /ˌmiːdiˈəʊkə(r)/ | US: /ˌmiːdiˈoʊkər/
+* **CEFR Level:** B2/C1
+
+---
+
+## Core Meanings
+
+* **English Definitions:** * *Adjective:* Of only moderate quality; not very good; unremarkable.
+* **Chinese Definitions:**
+* *形容词 (adj.):* 平庸的，普通的，二流的。
+
+
+* **Collocations:**
+* A **mediocre performance**
+* **Mediocre grades** / results
+* Tolerate **mediocrity** (noun form)
+* **Decidedly mediocre**
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "The pizza wasn't terrible, but it was pretty **mediocre** for the price they charged."
+* **Formal/Academic Example:** "Critics argued that the director's latest film was a **mediocre** effort that failed to live up to the brilliance of his earlier masterpieces."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** * From Latin *mediocris* (middle height).
+* **Prefix:** *medius* (middle).
+* **Root:** *ocris* (rugged mountain/peak).
+
+
+* **Word Family:**
+* **Noun:** Mediocrity
+* **Adverb:** Mediocrely (rarely used)
+
+
+* **Mnemonic:** Imagine you are halfway up a mountain (*ocris*). You aren't at the bottom (a failure), but you aren't at the top (excellent) either. You are just stuck in the **middle**—perfectly **mediocre**.
+* **Logical Association:** It literally means "halfway up the mountain." In a world that prizes reaching the summit, being stuck in the middle is seen as underwhelming or "just okay."
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:**
+* *Neutral:* Average, middling, ordinary.
+* *Critical:* Uninspired, lackluster, second-rate.
+
+
+* **Antonyms:**
+* Exceptional, outstanding, superb, extraordinary.
+
+
+* **The "Don't Mix Up" Section: Mediocre vs. Average**
+* **Average** is often a neutral, statistical term. If you have "average height," it’s just a fact.
+* **Mediocre** almost always carries a **negative "vibe."** It implies disappointment—that something *could* or *should* have been better, but it settled for being "just okay." Calling someone's work "average" is a bit cold; calling it "mediocre" is an insult.
+
+
+
+---
+
+Would you like me to generate a practice exercise or an image to help you visualize this "halfway up the mountain" etymology?
+
+# morsel
+
+## Phonetics & Classification
+
+* **IPA:** UK: /ˈmɔːsl/ | US: /ˈmɔːrsl/
+* **CEFR Level:** C1/C2 (Literary/Descriptive)
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* *Noun:* A small piece or amount of food; a mouthful.
+* *Noun (Figurative):* A small piece of something interesting (like news or information).
+
+
+* **Chinese Definitions:**
+* *名词 (n.):* 一小块（食物）；（消息等的）一点，少量。
+
+
+* **Collocations:**
+* A **tasty morsel**
+* **Every last morsel** of food
+* A **choice morsel**
+* A **morsel of news** / gossip
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "The dog sat patiently under the table, hoping someone would drop a **morsel** of steak."
+* **Formal/Academic Example:** "The biographer spent years in the archives, hungry for any **morsel** of information regarding the poet’s early childhood."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:**
+* **Root:** Old French *mors* (a bite), derived from Latin *mordere* (to bite).
+* **Suffix:** *-el* (diminutive—meaning "small").
+
+
+* **Word Family:**
+* **Verb:** Remorse (literally "biting back" at one's conscience)
+* **Adjective:** Mordant (biting or caustic wit)
+
+
+* **Mnemonic:** Think of a **morsel** as a "mini-bite." It shares the same root as **mor**sel and re**mor**se; while remorse "bites" your heart, a morsel is just a tiny "bite" for your mouth.
+* **Logical Association:** Because the root means "to bite," a morsel is logically the smallest unit of food—just enough for one single, tiny bite.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:**
+* *Food-related:* Scrap, crumb, tidbit, snack.
+* *Abstract:* Bit, fragment, grain, soupçon.
+
+
+* **Antonyms:**
+* Slab, heap, feast, mountain.
+
+
+* **The "Don't Mix Up" Section: Morsel vs. Crumb**
+* A **crumb** is usually the accidental leftover debris of dry food (like bread or cake). It is often unwanted.
+* A **morsel** is more intentional and usually implies that the piece is **delightful or high-quality**. You wouldn't call a tiny piece of expensive chocolate a "crumb"; you'd call it a "tasty morsel."
+
+
+
+---
+
+Would you like me to find some literary examples where "morsel" is used metaphorically, or perhaps generate an image of a "gourmet morsel" to help you remember the "high-quality" nuance?

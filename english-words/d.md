@@ -1802,3 +1802,74 @@ Would you like me to generate a sample **Non-Disclosure Agreement (NDA)** paragr
 ---
 
 Would you like me to generate a comparison chart of the **dwarf planets** in our solar system to help you see the word used in a scientific context?
+
+# default on loan
+
+## Phonetics & Classification
+
+* **IPA:** UK: /dɪˈfɒlt ɒn ləʊn/ | US: /dɪˈfɔːlt ɑːn loʊn/
+* **CEFR Level:** B2/C1 (Business/Legal context)
+
+---
+
+## Core Meanings
+
+* **English Definitions:** * *Verb Phrase:* To fail to fulfill the legal obligation of repaying a loan according to the agreed-upon terms (e.g., missing payments or failing to pay the principal).
+* **Chinese Definitions:**
+* *动词短语 (v. phr.):* 债务违约；未能按期偿还贷款。
+
+
+* **Collocations:**
+* **Risk of** defaulting on a loan
+* **Technically default** on a loan
+* **Strategic default**
+* **Likely to default**
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "If he continues to miss his monthly payments, he is eventually going to **default on his loan** and lose his house."
+* **Formal/Academic Example:** "The sovereign state was forced to **default on its loans** following a sudden collapse in commodity prices and a sharp devaluation of its currency."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:**
+* **Root:** Old French *defaute* (a fault, failing, or lack).
+* **Components:** *de-* (away/completely) + *faute* (failure/mistake).
+
+
+* **Word Family:**
+* **Noun:** Defaulter (one who fails to pay)
+* **Adjective:** Default (as in "default settings" — what happens when no other choice is made)
+
+
+* **Mnemonic:** Think of a computer's **"Default Setting."** It is what the computer does when you **fail** to choose anything else. When you **default on a loan**, you have **failed** to make the payment choice you promised.
+* **Logical Association:** "Fault" means a mistake or a break. To "de-fault" is to be "away from" the correct path of the contract. You have created a "fault" in the financial agreement.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:**
+* *Financial:* Breach of contract, non-payment, delinquency (often used for late payments before a full default).
+* *General:* Fail to pay, go bust.
+
+
+* **Antonyms:**
+* Honor a loan, settle a debt, repay, stay current.
+
+
+* **The "Don't Mix Up" Section: Default vs. Delinquency**
+* **Delinquency** is the first step. It means you are **late** (e.g., 30 days past due). It’s a warning sign.
+* **Default** is the final step. It occurs when the lender decides the borrower is **unlikely to pay** back the debt at all (usually after 90–270 days). Delinquency is a "bruise"; default is a "broken bone."
+
+
+
+---
+
+Would you like me to explain the specific legal consequences that occur after a "Notice of Default" is issued, or would you like to see how a default affects a credit score over a 10-year period?

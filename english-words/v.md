@@ -84,3 +84,79 @@ verdict ← 中古英语 verdit ← 古法语 veirdit / voirdit
 **verdict** = “经过慎重考虑后说出的‘真话’/结论”，法庭里最严肃，生活中最常用。
 
 希望这个详解对你有帮助！如果想看某个具体用法或同义词辨析（judgment / ruling / verdict），可以继续问～
+
+# vigurous
+
+## Phonetics & Classification
+
+* **IPA:** UK: /ˈvɪɡ.ər.əs/ | US: /ˈvɪɡ.ər.əs/
+* **CEFR Level:** B2/C1
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* *Adjective:* Strong, healthy, and full of energy.
+* *Adjective:* Characterized by or involving physical strength, effort, or energy.
+* *Adjective:* (Of an action) forceful or intense.
+
+
+* **Chinese Definitions:**
+* *形容词 (adj.):* 精力充沛的；强壮的；有力的；（行动）激烈的。
+
+
+* **Collocations:**
+* **Vigorous exercise** (e.g., running, swimming)
+* A **vigorous defense** of one's rights
+* **Vigorous growth** (in plants or economy)
+* **Vigorous shaking** / stirring
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "After a **vigorous** workout at the gym, I usually feel exhausted but incredibly refreshed."
+* **Formal/Academic Example:** "The proposed legislation faced **vigorous** opposition from environmental groups who argued it would accelerate deforestation."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:**
+* **Root:** Latin *vigor* (liveliness/force), from *vigere* (to be lively/thrive).
+
+
+* **Word Family:**
+* **Noun:** Vigor (US) / Vigour (UK)
+* **Adverb:** Vigorously
+* **Verb:** Invigorate (to give energy to)
+
+
+* **Mnemonic:** Think of **Vigorous** = **V**ery **I**ntense **G**o. When you are vigorous, you have the "Vigor" to keep "Going" with high intensity.
+* **Logical Association:** The root *vig-* is shared with "vegetable" (something that grows/thrives). Just as a healthy plant shows *vigorous* growth, a healthy person shows *vigorous* energy.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:**
+* *Physical:* Energetic, robust, strenuous, athletic.
+* *Argumentative/Abstract:* Forceful, spirited, vehement, dynamic.
+
+
+* **Antonyms:**
+* Feeble, weak, lethargic, frail, sluggish.
+
+
+* **The "Don't Mix Up" Section: Vigorous vs. Strenuous**
+* **Strenuous** describes something that *requires* great effort and often implies it is taxing or difficult (e.g., "a strenuous climb"). It focuses on the **difficulty**.
+* **Vigorous** describes the **energy and force** put into the action. You can have a "vigorous debate" (passionate/active), but you wouldn't usually call a debate "strenuous" unless it was physically exhausting to participate in.
+
+
+
+---
+
+Would you like me to create a list of "vigorous" verbs you can use to spice up your professional writing, or perhaps generate an image of "vigorous plant growth" to illustrate the biological root?
