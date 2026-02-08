@@ -391,3 +391,75 @@ Connect it to the word **"Wroth"** (an old adjective for angry). Because the wor
 ---
 
 **Would you like me to show you how "wrath" is used in classical literature or mythology to describe the consequences of defying powerful figures?**
+
+# wrench
+
+## Phonetics & Classification
+
+* **IPA (UK):** /ˈrentʃ.ɪŋ/
+* **IPA (US):** /ˈrentʃ.ɪŋ/
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* **Adjective:** Causing great emotional or mental pain; extremely distressing.
+* **Verb (Present Participle):** Pulling or twisting something suddenly and violently.
+
+
+* **Chinese Definitions:**
+* **Adjective:** 极度痛苦的，揪心的 (jídù tòngkǔ de, jiūxīn de)
+* **Verb:** 猛扭，猛拉 (měng niǔ, měng lā)
+
+
+* **Collocations:**
+* **Gut-wrenching** (causing intense emotional distress or nausea)
+* **Heart-wrenching** (deeply saddening)
+* **A wrenching experience** (a painful transition or event)
+* **Wrenching control away** (seizing power forcefully)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "Watching the final scene of the movie was **heart-wrenching**; I couldn't stop crying for an hour."
+* **Formal/Academic Example:** "The country underwent a **wrenching** economic transition as it moved from a command economy to a free-market system."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Old English *wrencan* (to twist/snare).
+* **Root:** *Wrench* (to twist).
+* **Suffix:** *-ing* (forming an adjective or present participle).
+
+
+* **Logical Association:** Just as a physical wrench twists a bolt with force, a "wrenching" emotion feels like your heart or stomach is being physically twisted or pulled.
+* **Word Family:** * **Noun:** Wrench (the tool; a sudden twist).
+* **Verb:** Wrench (to pull/twist).
+* **Adverb:** Wrenchingly.
+
+
+* **Mnemonic:** Picture a giant **wrench** tightening around your **heart**. It’s a "twisting" pain that you can’t easily loosen.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:** * *High Intensity:* Agonizing, harrowing, excruciating.
+* *Emotional:* Heartbreaking, poignant, distressing.
+
+
+* **Antonyms:** Comforting, soothing, pleasant.
+
+### The "Don't Mix Up" Section: Wrenching vs. Retching
+
+* **Wrenching:** Refers to the **action** of twisting or the **feeling** of deep emotional pain (e.g., "a wrenching goodbye").
+* **Retching:** Refers to the **physical act** of gagging or trying to vomit.
+* **The Vibe:** "Wrenching" is about the *force* or the *agony*; "Retching" is purely a biological reaction (though a "gut-wrenching" sight might make you start "retching").
+
+Would you like me to generate a mnemonic image to help you visualize the "twisting" root of this word?

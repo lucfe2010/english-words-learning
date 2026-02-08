@@ -259,3 +259,71 @@ This is a high-impact adjective. While "bad" or "terrible" are common, **horrend
 ---
 
 **Would you like me to show you how to use "horrendous" in a formal complaint letter to emphasize that a service was unacceptable?**
+
+# hoax
+
+## Phonetics & Classification
+
+* **IPA (UK):** /həʊks.ɪz/
+* **IPA (US):** /hoʊks.ɪz/
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* **Noun (Plural):** Humorous or malicious deceptions; practical jokes or fabricated stories passed off as truth.
+* **Verb (Third-person singular):** To trick or deceive someone (usually for a joke or to prove a point).
+
+
+* **Chinese Definitions (名词/动词):**
+* 恶作剧，骗局 (èzuòjù, piànjú)
+* 戏弄，欺骗 (xìnòng, qīpiàn)
+
+
+* **Collocations:**
+* **Elaborate hoaxes** (complex, detailed deceptions)
+* **Internet hoaxes** (misinformation spread online)
+* **Perpetrate a hoax** (to carry out a deception)
+* **Expose a hoax** (to reveal the truth behind a lie)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "The video of the UFO turned out to be one of those viral **hoaxes** created by a film student."
+* **Formal/Academic Example:** "Historical **hoaxes**, such as the 'Piltdown Man,' can stall scientific progress for decades by providing false data."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Believed to be a contraction of *hocus-pocus* (a common phrase used by magicians in the 17th century).
+* **Logical Association:** Just as a magician uses "hocus-pocus" to distract you from the trick, a **hoax** is a larger-scale distraction that makes people believe something false is real.
+* **Word Family:** * **Noun/Verb:** Hoax (singular).
+* **Noun:** Hoaxer (the person who creates the trick).
+
+
+* **Mnemonic:** **H**oax **O**ften **A**cts **X**-tra real. It looks "extra real" to fool you into believing it.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:**
+* *Playful:* Prank, practical joke, spoof.
+* *Malicious/Serious:* Fraud, deception, scam, fabrication.
+
+
+* **Antonyms:** Truth, fact, reality, authenticity.
+
+### The "Don't Mix Up" Section: Hoax vs. Scam
+
+* **Scam:** The primary goal is **money**. A scammer wants your credit card or your cash (e.g., a phishing email).
+* **Hoax:** The primary goal is **belief or chaos**. A hoaxer wants to fool the public, prove how gullible people are, or simply enjoy the spectacle of a lie going viral (e.g., a fake Bigfoot sighting).
+* **The Vibe:** A *scam* steals your wallet; a *hoax* steals your attention and tests your common sense.
+
+Would you like me to analyze some of the most famous historical hoaxes and explain how they were eventually exposed?

@@ -1,4 +1,3 @@
-
 title: Words Starting with I
 ---
 
@@ -585,3 +584,69 @@ This is the most important distinction in psychology and economics:
 ---
 
 Would you like me to create a comparison table of different "fake" materials (imitation vs. synthetic vs. counterfeit), or perhaps generate an image showing the difference between an "original" and an "imitation"?
+
+# impersonate
+
+## Phonetics & Classification
+
+* **IPA (UK):** /ɪmˈpɜː.sən.eɪt/
+* **IPA (US):** /ɪmˈpɝː.sə.neɪt/
+* **CEFR Level:** B2 (Upper Intermediate)
+
+---
+
+## Core Meanings
+
+* **English Definitions (Verb):** 1. To pretend to be another person, typically for entertainment or fraud.
+2. To represent or personify a quality or concept (less common).
+* **Chinese Definitions (动词):** 1. 扮演，模仿 (bànyǎn, mófǎng)
+2. 冒充，假扮 (màochōng, jiǎbàn)
+* **Collocations:**
+* **Impersonate an officer** (criminally pretending to be police)
+* **Impersonate a celebrity** (for comedy or performance)
+* **Attempting to impersonate** (trying to mimic someone)
+* **Skillfully impersonate** (high-quality imitation)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "He can **impersonate** the president's voice so well that it's actually a bit scary."
+* **Formal/Academic Example:** "Identity theft often involves the perpetrator attempting to **impersonate** the victim to gain unauthorized access to financial accounts."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Latin prefix *in-* (into) + *persona* (mask/character).
+* **Root:** *Person* (a human being).
+* **Prefix:** *Im-* (to put into).
+* **Suffix:** *-ate* (verb-forming suffix).
+
+
+* **Logical Association:** To "im-person-ate" is to put yourself "into" the "person" of someone else—literally stepping into their skin or mask.
+* **Word Family:** * **Noun:** Impersonation (the act), Impersonator (the person).
+* **Adjective:** Impersonal (not influenced by person/feeling - *distinction note*).
+
+
+* **Mnemonic:** Imagine a spy putting on a **mask** to become an **IM**-poster **PERSON**.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:** * *Performance:* Mimic, imitate, parody.
+* *Deception:* Masquerade as, pose as, counterfeit.
+
+
+* **Antonyms:** Be yourself, differ, reveal.
+
+### The "Don't Mix Up" Section: Impersonate vs. Personify
+
+* **Impersonate:** Is about **action and deception**. You are acting like a specific individual (e.g., "He impersonated Elvis").
+* **Personify:** Is about **representation**. You are the living embodiment of an abstract quality (e.g., "She personifies kindness").
+* **The Vibe:** *Impersonate* requires a costume or a voice; *Personify* requires a character trait.
+
+Would you like me to create a practice dialogue where one character is caught trying to impersonate someone else?

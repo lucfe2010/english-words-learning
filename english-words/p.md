@@ -1861,3 +1861,194 @@ Would you like me to analyze another word with regional differences, such as "su
 ---
 
 Would you like me to generate a vocabulary list for **common patio items**, such as "pergola," "awning," or "chaise longue"?
+
+# proliferate
+
+## Phonetics & Classification
+
+* **IPA (UK):** /prəˈlɪf.ər.eɪt/
+* **IPA (US):** /prəˈlɪf.ə.reɪt/
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## Core Meanings
+
+* **English Definitions (Verb):** To increase rapidly in numbers; to multiply or spread quickly.
+* **Chinese Definitions (动词):** 激增，扩散，（细胞等）增殖 (jīzēng, kuòsàn, zēngzhí)
+* **Collocations:**
+* **Proliferate rapidly** (increase at high speed)
+* **Nuclear proliferation** (the spread of nuclear weapons)
+* **Cells proliferate** (biological reproduction)
+* **Rumors proliferate** (the spread of information/misinformation)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "In the last decade, low-cost coffee shops have **proliferated** across almost every urban neighborhood."
+* **Formal/Academic Example:** "The digital age has allowed conspiracy theories to **proliferate** via social media platforms, often bypassing traditional fact-checking mechanisms."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the French *proliférer*, based on Latin roots:
+* **Proles:** Offspring/descendants.
+* **Ferre:** To bear/carry.
+* **-ate:** Verb-forming suffix.
+
+
+* **Logical Association:** Literally "to bear offspring." It suggests a biological-style growth where one unit creates many more, leading to an explosion in population or quantity.
+* **Word Family:** * **Noun:** Proliferation.
+* **Adjective:** Proliferative (often used in medical contexts).
+
+
+* **Mnemonic:** Think of a **Pro-Life** movement—it is focused on the creation of life/offspring. **Proliferate** is the action of those "offspring" multiplying everywhere.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:** * *Growth-focused:* Multiply, mushroom, burgeon.
+* *Spread-focused:* Escalate, expand, snowball.
+
+
+* **Antonyms:** Dwindle, stagnate, decrease.
+
+### The "Don't Mix Up" Section: Proliferate vs. Propagate
+
+* **Proliferate:** Focuses on the **result**—the sheer volume or number of things appearing everywhere. It often has a slightly "out of control" or "wild" vibe (like weeds or germs).
+* **Propagate:** Focuses on the **process** of spreading or transmitting something, like a plant cutting, a signal, or a specific belief/ideology.
+* **The Vibe:** Use *proliferate* when you are shocked by how *many* there are now; use *propagate* when you are describing *how* something is being spread.
+
+Would you like me to write a short paragraph using "proliferate" in a business or medical context to help you see it in action?
+
+# purported
+
+## Phonetics & Classification
+
+* **IPA (UK):** /pəˈpɔː.tɪd/
+* **IPA (US):** /pɚˈpɔːr.t̬ɪd/
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## Core Meanings
+
+* **English Definitions (Adjective):** Appearing or stated to be true, though not necessarily so; alleged.
+* **Chinese Definitions (形容词):** 据称的，传闻的，所谓的 (jùchēng de, chuánwén de, suǒwèi de)
+* **Collocations:**
+* **Purported benefits** (claimed advantages that might not exist)
+* **Purported link** (an alleged connection)
+* **Purported discovery** (a find that hasn't been verified)
+* **The purported father/owner** (the person claimed to be the father/owner)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "I've been reading about the **purported** health benefits of this new superfood, but I'm a bit skeptical."
+* **Formal/Academic Example:** "The study examines the **purported** relationship between social media usage and declining attention spans in adolescents."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the Old French *purporter*, from *pur-* (forth) + *porter* (to carry).
+* **Root:** *Port* (to carry, as in "transport" or "portable").
+
+
+* **Logical Association:** To "purport" something is to "carry it forth" as a claim. However, because you are only "carrying it forth" (presenting it) rather than proving it, the word carries a heavy dose of doubt.
+* **Word Family:** * **Verb:** Purport (to claim to be or do something).
+* **Adverb:** Purportedly (allegedly).
+
+
+* **Mnemonic:** Focus on the **PUR**pose of the re**PORT**. The **purported** facts are just what the re**port** *claims* to show, but they might not be the real truth.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:** * *Neutral:* Alleged, claimed, professed.
+* *Skeptical:* So-called, supposed, ostensible.
+
+
+* **Antonyms:** Confirmed, verified, certain, real.
+
+### The "Don't Mix Up" Section: Purported vs. Alleged
+
+* **Alleged:** Typically used in **legal or criminal** contexts. It suggests that a formal accusation has been made (e.g., "the alleged thief").
+* **Purported:** Used more often regarding **claims, theories, or identities**. It has a "vibe" of skepticism, suggesting that while something *claims* to be a certain way, the speaker suspects it might be a facade or a rumor.
+* **The Vibe:** *Alleged* sounds like a courtroom; *Purported* sounds like a skeptical scientist or a suspicious journalist.
+
+Would you like me to show you how to rewrite a sentence using "purportedly" to shift the tone from factual to skeptical?
+
+# perpatrator
+
+## Phonetics & Classification
+
+* **IPA (UK):** /ˈpɜː.pə.treɪ.tər/
+* **IPA (US):** /ˈpɝː.pə.treɪ.t̬ɚ/
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## Core Meanings
+
+* **English Definitions (Noun):** A person who carries out a harmful, illegal, or immoral act.
+* **Chinese Definitions (名词):** 作恶者，犯罪者，行凶者 (zuò'èzhě, fànzuìzhě, xíngxiōngzhě)
+* **Collocations:**
+* **The alleged perpetrator** (the person suspected of the act)
+* **The sole perpetrator** (the only person involved)
+* **Identify the perpetrator** (to find out who did it)
+* **Hunt for the perpetrator** (search for the criminal)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "The police are still searching for the **perpetrator** of the robbery that happened downtown last night."
+* **Formal/Academic Example:** "Sociological studies often focus on the environmental factors that may lead a **perpetrator** to commit a first-time offense."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Latin *perpetratus*, the past participle of *perpetrare*.
+* **Prefix:** *per-* (thoroughly).
+* **Root:** *patrare* (to bring about/perform).
+
+
+* **Logical Association:** To "perpetrate" is to "perform thoroughly." In a legal sense, it evolved specifically to mean performing something bad or criminal.
+* **Word Family:**
+* **Verb:** Perpetrate (to commit).
+* **Noun:** Perpetration (the act of committing).
+
+
+* **Mnemonic:** Think of a **PERP** (the common police slang for a criminal). A **PERP**-etrator is the person who makes a crime **PERP**-etual (lasting) in the victim's memory.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:**
+* *Legal:* Offender, culprit, assailant.
+* *Informal:* Perp, crook, wrongdoer.
+
+
+* **Antonyms:** Victim, witness, innocent.
+
+### The "Don't Mix Up" Section: Perpetrator vs. Victim
+
+* **Perpetrator:** The one who **does** the harm (the "doer").
+* **Victim:** The one who **receives** the harm.
+* **The Vibe:** *Perpetrator* is a formal, objective word used by police and journalists. It sounds more serious and clinical than "bad guy."
+
+Would you like me to explain the difference between a "perpetrator" and an "accomplice" in a legal context?

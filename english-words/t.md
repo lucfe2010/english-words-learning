@@ -619,3 +619,66 @@ We have covered a **bonanza** of 15 words! From the **outrageous** price of coff
 ---
 
 Would you like me to generate an image of a **triumphal arch** in a futuristic setting to see how this architectural concept evolves?
+
+# toddle
+
+## Phonetics & Classification
+
+* **IPA (UK):** /ˈtɒd.lər/
+* **IPA (US):** /ˈtɑːd.lɚ/
+* **CEFR Level:** A2 (Elementary)
+
+---
+
+## Core Meanings
+
+* **English Definitions (Noun):** A young child who is just beginning to walk, typically between the ages of 1 and 3.
+* **Chinese Definitions (名词):** 幼儿，学步的小孩 (yòu'ér, xuébù de xiǎohái)
+* **Collocations:**
+* **A precocious toddler** (a child developing skills early)
+* **Toddler tantrums** (emotional outbursts typical of this age)
+* **Toddler-proof the house** (making a home safe for a small child)
+* **Active toddler** (a child with lots of energy)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "We had to put a gate at the top of the stairs now that our **toddler** is exploring everywhere."
+* **Formal/Academic Example:** "Research indicates that the **toddler** years are a critical period for rapid language acquisition and social-emotional development."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the verb **toddle**.
+* **Root:** *Toddle* (to walk with short, unsteady steps).
+* **Suffix:** *-er* (one who does the action).
+
+
+* **Logical Association:** The name describes the specific way they move. Because their balance is still developing, they "toddle" (wobble) back and forth.
+* **Word Family:** * **Verb:** Toddle (to walk unsteadily).
+* **Adjective:** Toddling (e.g., "a toddling infant").
+
+
+* **Mnemonic:** Think of a **TOP-heavy** child. Because their heads are large compared to their bodies, they **toddle** around like a spinning top that is losing speed.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:** * *General:* Youngster, little one.
+* *Technical:* Preschooler (usually 3–5 years), infant (0–12 months).
+
+
+* **Antonyms:** Adult, adolescent, teenager.
+
+### The "Don't Mix Up" Section: Toddler vs. Baby/Infant
+
+* **Baby/Infant:** Generally refers to a child from birth until they start walking (0 to about 12 months). They are usually carried or crawled.
+* **Toddler:** The stage begins the moment they take those first shaky steps. The word specifically highlights their **newfound mobility**.
+* **The Vibe:** A *baby* is stationary or crawling; a *toddler* is a "vertical" explorer who is constantly on the move and getting into trouble.
+
+Would you like me to provide a list of common "toddler" milestones or phrases parents use during this stage?

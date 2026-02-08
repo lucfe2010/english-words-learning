@@ -2271,3 +2271,72 @@ Would you like me to generate a list of **common types of signage** (like "regul
 ---
 
 Would you like me to create a flowchart showing the steps of an insolvency proceeding, or would you prefer a list of the most common causes of corporate insolvency?
+
+# savvy
+
+## Phonetics & Classification
+
+* **IPA (UK):** /ˈsæv.i/
+* **IPA (US):** /ˈsæv.i/
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* **Adjective:** Having practical knowledge and ability; shrewd and well-informed.
+* **Noun:** Practical knowledge; the ability to make good judgments.
+* **Verb:** To know or understand (informal/slang).
+
+
+* **Chinese Definitions:**
+* **Adjective:** 见多识广的，有见识的，精明的 (jiànduōshíguǎng de, jīngmíng de)
+* **Noun:** 悟性，实际知识 (wùxìng, shíjì zhīshí)
+* **Verb:** 懂，知晓 (dǒng, zhīxiǎo)
+
+
+* **Collocations:**
+* **Tech-savvy** (proficient with technology)
+* **Business savvy** (shrewdness in commercial matters)
+* **Media-savvy** (understanding how to deal with the press)
+* **Political savvy** (skilled in political maneuvering)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "If you're going to travel alone, you need to be **street-savvy** to avoid getting ripped off."
+* **Formal/Academic Example:** "The modern consumer is increasingly **market-savvy**, often conducting extensive research before committing to a high-value purchase."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the French *savez-vous?* ("do you know?") and the Spanish *sabe* ("he knows"), both from the Latin *sapere* (to be wise/taste).
+* **Logical Association:** It captures the "flavor" of wisdom—not just book learning, but the practical "taste" of how things actually work in the real world.
+* **Word Family:** * **Adjective:** Savvy (e.g., "a savvy investor").
+* **Noun:** Savvy (e.g., "she has a lot of savvy").
+
+
+* **Mnemonic:** Think of **Captain Jack Sparrow** from *Pirates of the Caribbean*. He ends his sentences with "**Savvy?**" to mean "Do you understand?" He is a character who survives on his wits and practical cunning rather than rules.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:** * *Intellectual:* Astute, shrewd, sharp-witted.
+* *Practical:* Experienced, knowledgeable, discerning.
+
+
+* **Antonyms:** Naive, ignorant, inexperienced.
+
+### The "Don't Mix Up" Section: Savvy vs. Smart
+
+* **Smart:** A general term for high intelligence or academic ability. You can be "book smart" but have no common sense.
+* **Savvy:** Specifically implies **practical application**. A "savvy" person knows how to navigate a specific system or environment (like social media or the stock market) to their advantage.
+* **The Vibe:** *Smart* is about the brain's processing power; *Savvy* is about the "know-how" gained through experience.
+
+Would you like me to show you how to combine "savvy" with other nouns to describe specific types of expertise?

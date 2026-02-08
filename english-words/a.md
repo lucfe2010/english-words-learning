@@ -1226,3 +1226,76 @@ Would you like me to show you how to rewrite a few sentences to choose correctly
 ---
 
 Would you like me to explain the difference between "Accrual Accounting" and "Cash Accounting," or should I generate a table showing how vacation days accrue over a typical work year?
+
+# aviator
+
+## Phonetics & Classification
+
+* **IPA (UK):** /ˈeɪ.vi.eɪ.tər/
+* **IPA (US):** /ˈeɪ.vi.eɪ.t̬ɚ/
+* **CEFR Level:** B2 (Upper Intermediate)
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* **Noun:** A person who flies an aircraft (typically used for pilots in the early days of flight or in a military/professional context).
+* **Noun (Plural):** A style of sunglasses with large, tinted lenses and thin metal frames.
+
+
+* **Chinese Definitions (名词):**
+* 飞行员 (fēixíngyuán)
+* 飞行家 (fēixíngjiā - often used for pioneers)
+* 飞行员式太阳镜 (fēixíngyuán shì tàiyángjìng)
+
+
+* **Collocations:**
+* **Naval aviator** (a pilot in the Navy)
+* **Pioneer aviator** (an early historical pilot)
+* **Aviator sunglasses/shades** (the specific style of eyewear)
+* **A daring aviator** (brave pilot)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "He looks like a movie star whenever he wears those gold-rimmed **aviators**."
+* **Formal/Academic Example:** "Amelia Earhart remains one of the most celebrated **aviators** in history for her solo flight across the Atlantic."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Latin *avis* (bird).
+* **Root:** *Avi-* (pertaining to birds/flight).
+* **Suffix:** *-ator* (a person who performs a specific action).
+
+
+* **Logical Association:** An "aviator" is literally a "bird-man"—someone who mimics the flight of a bird using technology.
+* **Word Family:** * **Noun:** Aviation (the industry/science of flight).
+* **Verb:** Aviate (to fly an aircraft - rare in casual speech).
+* **Noun:** Aviary (a large enclosure for keeping birds).
+
+
+* **Mnemonic:** Look at the first three letters: **A-V-I**. They are the start of **AVI**an (bird-like). An **avi**ator flies through the air just like an **avi**an creature.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:** * *Professional:* Pilot, airman/airwoman.
+* *Historical:* Aeronaut (early balloonists/pilots).
+
+
+* **Antonyms:** Pedestrian, traveler (passenger).
+
+### The "Don't Mix Up" Section: Aviator vs. Pilot
+
+* **Pilot:** The standard, everyday term for anyone operating an aircraft, from a hobbyist to a commercial airline captain.
+* **Aviator:** Carries a more **romantic, historical, or military** "vibe." You’ll hear "Naval Aviator" in the military (like in *Top Gun*), or use it when talking about historical figures who treated flying as an art or a daring feat.
+* **The Vibe:** A *pilot* has a job; an *aviator* has a calling (and usually a cool pair of glasses).
+
+Would you like me to explain why "Aviator" sunglasses were originally designed specifically for pilots in the 1930s?

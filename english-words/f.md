@@ -801,3 +801,74 @@ Would you like me to generate an image of a fledgling bird on a branch to help y
 ---
 
 Would you like me to generate a **comparison table of different fabric types** (like natural vs. synthetic) and their common uses?
+
+# forensic
+
+## Phonetics & Classification
+
+* **IPA (UK):** /fəˈren.zɪk/
+* **IPA (US):** /fəˈren.zɪk/
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* **Adjective:** Relating to the application of scientific methods and techniques to the investigation of crime.
+* **Adjective:** Relating to courts of law or public debate.
+* **Noun (Forensics):** Scientific tests or techniques used in connection with the detection of crime.
+
+
+* **Chinese Definitions:**
+* **Adjective:** 法医学的，法庭的，公开辩论的 (fǎyīxué de, fǎtíng de, gōngkāi biànlùn de)
+* **Noun:** 法医学，辩论术 (fǎyīxué, biànlùnshù)
+
+
+* **Collocations:**
+* **Forensic evidence** (DNA, fingerprints, etc., used in court)
+* **Forensic accounting** (investigating financial crimes)
+* **Forensic pathologist** (a doctor who examines corpses for causes of death)
+* **Digital forensics** (recovering data from electronic devices)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "The detectives are waiting for the **forensic** report to see if the DNA matches the suspect."
+* **Formal/Academic Example:** "Recent advancements in **forensic** linguistics have allowed researchers to identify authors of anonymous threats with high precision."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the Latin *forensis* ("of the forum").
+* **Root:** *Forum* (the public place in Rome where legal and political business was conducted).
+
+
+* **Logical Association:** In ancient Rome, legal cases were argued in the **forum**. Therefore, anything "forensic" is something prepared to be presented as evidence or argument in a public legal setting.
+* **Word Family:** * **Noun:** Forensics (the field of study).
+* **Adverb:** Forensically (in a way that relates to scientific investigation).
+
+
+* **Mnemonic:** Think of a **FORUM** (public place) where people **FOR**mally **EN**spect (inspect) evidence.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:** * *Technical:* Investigative, analytical, judicial.
+* *Detailed:* Scrupulous, painstaking, minute (as in "forensic detail").
+
+
+* **Antonyms:** Superficial, cursory, non-legal.
+
+### The "Don't Mix Up" Section: Forensic vs. Medical
+
+* **Medical:** Focuses on the health and healing of a living patient.
+* **Forensic:** Focuses on gathering **facts for the law**. A "medical" exam checks why you are sick; a "forensic" exam checks how a crime was committed.
+* **The Vibe:** *Forensic* always implies that the results are headed toward a courtroom or a formal judgment. It is cold, objective, and highly detailed.
+
+Would you like me to list the different branches of forensic science, such as toxicology, entomology, and ballistics?

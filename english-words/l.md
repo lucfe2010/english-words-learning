@@ -514,3 +514,88 @@ Since you now know that a **Laureate** is someone who has "won the laurels," wou
 ---
 
 Would you like me to find a news article excerpt where a public figure is being "lionized," or would you like me to generate an image showing the difference between being "lionized" (public praise) and "demonized" (public hate)?
+
+# 详解 liberate literal librate elevate library 等 相近 单词
+
+这组单词看起来很像，但其实它们像是一个“大家庭”里的远亲，主要来源于三个完全不同的拉丁语词根。
+
+为了帮你彻底分清，我们可以根据它们的**“祖先”**（词根）把它们分成三组。
+
+---
+
+## 1. 词根：*Liber*（自由）
+
+这一组单词的核心意义都围绕着“摆脱束缚”。
+
+* **Liberate** (v.)：**解放，释放**。
+* *记忆点*：把某人变得 "free" (Liberty)。
+* *例句*：The army arrived to **liberate** the city. (军队到达并解放了这座城市。)
+
+
+* **Liberal** (adj.)：**慷慨的；开明的；自由的**。
+* *记忆点*：思想上很“自由”，不拘泥于传统。
+
+
+
+---
+
+## 2. 词根：*Libr / Libra*（平衡、秤、书）
+
+这一组最容易搞混，因为它在拉丁语里有两个分支：一个是“秤/重量”，一个是“书”。
+
+### 分支 A：关于“平衡与重量” (Libra)
+
+* **Librate** (v.)：**（像天平一样）摇摆，使平衡**。
+* *辨析*：这个词比较冷门，物理学或天文学常用。
+* *记忆点*：想想星座里的“天秤座” (Libra)。
+
+
+* **Deliberate** (v./adj.)：**深思熟虑的；故意的**。
+* *记忆点*：de- (加强) + libr (称重)。在心中反复“称量”过后的决定，就是深思熟虑的。
+
+
+
+### 分支 B：关于“书” (Liber - 树皮/书)
+
+* **Library** (n.)：**图书馆**。
+* *记忆点*：藏书的地方。虽然拼写接近 liberate，但它和“解放”没关系，只和“纸张/书”有关。
+
+
+
+---
+
+## 3. 词根：*Lev / Liter*（变体组合）
+
+这两个词其实分属另外两个独立的词根，只是长得像。
+
+* **Elevate** (v.)：**提升，举起**。
+* *词根*：*Lev* (轻，举起)。
+* *记忆点*：电梯叫 **Elevator**，它的作用是把重物变“轻”并举高。
+
+
+* **Literal** (adj.)：**字面上的；原义的**。
+* *词根*：*Liter* (文字/字母)。
+* *记忆点*：和 **Literature** (文学) 是亲戚。形容一个人说话很死板，只听字面意思。
+
+
+
+---
+
+## 快速对照表
+
+| 单词 | 核心含义 | 词根记忆 | 常见联想 |
+| --- | --- | --- | --- |
+| **Liberate** | 解放 | *Liber* (自由) | Liberty (自由女神) |
+| **Literal** | 字面的 | *Liter* (文字) | Letter (字母) |
+| **Librate** | 摆动/平衡 | *Libra* (秤) | Libra (天秤座) |
+| **Elevate** | 提升 | *Lev* (轻/升) | Elevator (电梯) |
+| **Library** | 图书馆 | *Libr* (书) | Librarian (管理员) |
+
+---
+
+### 💡 避坑指南：
+
+* **Liberate vs. Librate**：多了一个 **'i'** 的是“解放”，少了一个 **'e'** 的是“天平摇摆”。
+* **Literal vs. Liberal**：**t** 代表 Text (文字)；**b** 代表 Be free (自由)。
+
+为了帮你加深印象，需要我为你编一个包含这些单词的短故事，或者为你出一组小测验吗？

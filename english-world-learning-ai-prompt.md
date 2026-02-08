@@ -22,9 +22,9 @@ Please provide a comprehensive breakdown of the word following this structure:
 
 4. **Linguistic Origins & Family & Memory Anchor**
    - **Etymology:** (Break down the root, prefix, and suffix)
+   - **Logical Association:** (Why does this word make sense based on its root?)
    - **Word Family:** (List related nouns, verbs, adjectives, and adverbs)
    - **Mnemonic:** (A clever mental shortcut or imagery to lock in the meaning)
-   - **Logical Association:** (Why does this word make sense based on its root?)
 
 5. **Nuance & Distinction**
    - **Synonyms & Antonyms:** (Group synonyms by intensity or nuance)
@@ -34,4 +34,4 @@ Please provide a comprehensive breakdown of the word following this structure:
 
 # other
 
-- don't add any other texts: like courage me, the words learned, what do want to ask next, etc
+- don't add any other texts in the answer: like courage me, the words learned, ask me what do want to ask next, etc

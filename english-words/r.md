@@ -1498,3 +1498,73 @@ Would you like me to generate a **comparison of different types of "Rangers"** (
 ---
 
 Would you like me to create a short dialogue between a bank agent and a homeowner using this term, or perhaps generate an image of a "repossession notice" to help the visual stick?
+
+# ransom
+
+## Phonetics & Classification
+
+* **IPA (UK):** /ˈræn.səm/
+* **IPA (US):** /ˈræn.səm/
+* **CEFR Level:** B2 (Upper Intermediate)
+
+---
+
+## Core Meanings
+
+* **English Definitions:**
+* **Noun:** A sum of money demanded or paid for the release of a captive.
+* **Verb:** To pay money to free someone; to hold someone and demand money for their release.
+
+
+* **Chinese Definitions:**
+* **Noun:** 赎金 (shújīn)
+* **Verb:** 赎回，勒索赎金 (shúhuí, lèsuǒ shújīn)
+
+
+* **Collocations:**
+* **Hold someone to ransom** (to keep someone captive until paid)
+* **Pay a king's ransom** (an idiom meaning to pay a huge amount of money)
+* **A ransom note** (a message demanding money)
+* **Ransom demand** (the specific requirement for release)
+
+
+
+---
+
+## Contextual Usage
+
+* **Natural Example:** "The kidnappers sent a **ransom** note to the family demanding a million dollars in untraceable bills."
+* **Formal/Academic Example:** "Cybersecurity has become a primary concern for corporations as 'ransomware' attacks increasingly hold sensitive data to **ransom**."
+
+---
+
+## Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Old French *rançon*, originating from the Latin *redemptio* (redemption/buying back).
+* **Root:** *Red-* (back) + *emere* (to buy).
+
+
+* **Logical Association:** It shares the same root as **redemption**. When you "ransom" someone, you are "buying them back" from a state of captivity.
+* **Word Family:** * **Noun:** Ransomware (software that locks files for money).
+* **Verb:** Ransom (to release or claim).
+
+
+* **Mnemonic:** Think of **Ran**ning (running) with a **Som** (sum) of money. You are running to the drop-off point with a "sum" of money to save a hostage.
+
+---
+
+## Nuance & Distinction
+
+* **Synonyms:** * *Nouns:* Payoff, redemption price, extraction fee.
+* *Verbs:* Deliver, redeem, rescue (via payment).
+
+
+* **Antonyms:** Abandonment, forfeiture.
+
+### The "Don't Mix Up" Section: Ransom vs. Blackmail
+
+* **Ransom:** Involves holding a **physical person** or **physical asset** (like a computer server) and demanding money for its return. It is about "buying back" something taken.
+* **Blackmail:** Involves holding **information** (secrets) and demanding money to keep it quiet. It is about "buying silence."
+* **The Vibe:** *Ransom* is a hostage situation; *Blackmail* is a secret-sharing threat.
+
+Would you like me to explain the term "King's Ransom" and how it transitioned from a literal historical event to a common modern idiom?
