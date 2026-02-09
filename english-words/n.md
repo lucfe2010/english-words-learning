@@ -236,3 +236,81 @@ Would you like me to show you how to use **nonetheless** in a professional email
 ---
 
 Would you like me to show you how to use "notoriously" to describe common travel frustrations, or would you like to see how it's used in historical biographies to describe villains?
+
+# niche
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /niːʃ/ or /nɪtʃ/
+* **IPA (US):** /nɪtʃ/ or /niːʃ/
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Noun:** A specialized segment of the market for a particular kind of product or service.
+2. **Noun:** A comfortable or suitable position in life or employment.
+3. **Noun:** A shallow recess, especially one in a wall to display a statue or ornament.
+4. **Adjective:** Denoting or relating to products, services, or interests that appeal to a small, specialized section of the population.
+
+
+* **Chinese Definitions:**
+1. **名词 (n.):** 缝隙市场，小众领域。
+2. **名词 (n.):** 称心的地位，合适的工作。
+3. **名词 (n.):** 壁龛（墙壁上的凹处）。
+4. **形容词 (adj.):** 小众的，针对特定群体的。
+
+
+* **Collocations:**
+* **Carve out a niche** (开拓出属于自己的领域)
+* **Find one’s niche** (找到最适合自己的位置)
+* **Niche market** (小众市场/利基市场)
+* **Niche interest** (小众爱好)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "He finally found his **niche** in the company as a technical writer, where he could combine his love for coding and English."
+* **Formal/Academic Example:** "To survive against global giants, small businesses must identify a **niche** market and offer highly specialized services."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the French word *nicher* (to make a nest), which comes from the Latin *nidus* (nest).
+* **Logical Association:** Just as a bird builds a specific **nest** that fits perfectly in a certain spot, a "niche" is a specific spot or role where an individual or product "fits" perfectly.
+* **Word Family:**
+* **Noun:** Niche
+* **Adjective:** Niched (rarely used, usually just use "niche")
+
+
+* **Mnemonic:** Think of a **Nest**. A niche is your professional or social **nest**—the specific little corner where you feel most at home.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Corner / Slot* (Informal: a specific place)
+* *Vocation / Calling* (Focuses on a life's work)
+* *Specialty* (Focuses on the skill rather than the position)
+
+
+* **Antonyms:**
+* Mainstream, general, broad, universal.
+
+
+
+### The "Don't Mix Up" Section: Niche vs. Mainstream
+
+* **The Vibe:** **Mainstream** refers to things that appeal to the masses (e.g., Pop music, Marvel movies).
+* **The Difference:** **Niche** is the opposite. It is "cool" or "useful" only to a specific group of people. While "Mainstream" is about being liked by everyone, **Niche** is about being *essential* to a few. A "niche" perfume might smell like old books; most people won't like it, but a specific small group will love it passionately.
+
+---
+
+Would you like me to analyze how the concept of an "Ecological Niche" works in biology to see how the word applies to science?

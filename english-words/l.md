@@ -599,3 +599,70 @@ Would you like me to find a news article excerpt where a public figure is being 
 * **Literal vs. Liberal**：**t** 代表 Text (文字)；**b** 代表 Be free (自由)。
 
 为了帮你加深印象，需要我为你编一个包含这些单词的短故事，或者为你出一组小测验吗？
+
+# leeway
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /ˈliː.weɪ/
+* **IPA (US):** /ˈliː.weɪ/
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition (Noun):** The amount of freedom to move or act that is available; extra time, space, or money allowed within a limit.
+* **Chinese Definition (Noun):** 余地，余暇，自由度。
+* **Collocations:**
+* **Give someone leeway** (给某人留余地)
+* **Ample leeway** (充足的余地)
+* **Little/No leeway** (几乎没有余地)
+* **Allow for some leeway** (考虑到一定的灵活性)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "My boss gave me some **leeway** on the deadline because he knew I was dealing with a family emergency."
+* **Formal/Academic Example:** "The new regulations provide local authorities with considerable **leeway** in how they allocate the educational budget."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** A nautical (sailing) term. The **lee** side is the side of a ship sheltered from the wind. **Leeway** originally referred to the sideways drift of a ship to the "lee" side, away from its intended course.
+* **Logical Association:** If a ship has "leeway," it has extra space in the water to drift safely without hitting rocks. In life, it means you have extra "drift space" before you get into trouble.
+* **Word Family:**
+* **Noun:** Lee (the sheltered side)
+* **Adjective:** Leeward (toward the lee)
+
+
+* **Mnemonic:** Think of **"Leave Way."** You are "leaving" a "way" (path) for error or flexibility.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Latitude / Freedom* (Neutral: focus on the choice available)
+* *Flexibility* (Focus on the ability to change)
+* *Slack* (Informal: refers to loose resources or time)
+* *Margin / Room for maneuver* (Focus on the physical or metaphorical space)
+
+
+* **Antonyms:**
+* Restriction, constraint, rigidity, limitation.
+
+
+
+### The "Don't Mix Up" Section: Leeway vs. Permission
+
+* **The Vibe:** **Permission** is a "yes" or "no" binary. You either have it or you don't.
+* **The Difference:** **Leeway** is about the *degree* of freedom *within* a set of rules. If your teacher gives you permission to write an essay, that's just the start. If they give you **leeway**, they are letting you choose the topic, the length, or the deadline. Permission opens the door; leeway tells you how far you can walk inside the room.
+
+---
+
+Would you like me to create a table showing different professional scenarios and how to use "leeway," "latitude," and "slack" correctly in each?

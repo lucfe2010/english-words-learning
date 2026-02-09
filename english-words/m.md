@@ -702,3 +702,79 @@ Would you like me to generate a practice exercise or an image to help you visual
 ---
 
 Would you like me to find some literary examples where "morsel" is used metaphorically, or perhaps generate an image of a "gourmet morsel" to help you remember the "high-quality" nuance?
+
+# modest
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /ˈmɒd.ɪst/
+* **IPA (US):** /ˈmɑː.dɪst/
+* **CEFR Level:** B1 (Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Adjective:** Unwilling to talk about or boast about one's own abilities or achievements.
+2. **Adjective:** Relatively moderate, limited, or small in amount, rate, or scale.
+3. **Adjective:** (Of clothing or behavior) Avoidant of impropriety or indecency; humble.
+
+
+* **Chinese Definitions:**
+1. **形容词 (adj.):** 谦虚的，谦逊的。
+2. **形容词 (adj.):** 适度的，不大的，程度一般的。
+3. **形容词 (adj.):** 端庄的，朴素的。
+
+
+* **Collocations:**
+* **Modest success** (小有成就)
+* **Modest background** (出身平凡)
+* **Be modest about...** (对……保持谦虚)
+* **Modest dress** (端庄的衣着)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "Despite being a world-class pianist, he is very **modest** about his talent and rarely mentions his awards."
+* **Formal/Academic Example:** "The company reported a **modest** increase in profits this quarter, suggesting a stable but slow recovery."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the Latin *modestus*, meaning "keeping due measure," derived from *modus* (measure or manner).
+* **Logical Association:** If you stay within the "measure" (the middle), you aren't over-inflating your ego or demanding too much space. You are staying in a balanced, measured zone.
+* **Word Family:**
+* **Noun:** Modesty (the quality)
+* **Adverb:** Modestly (in a humble or limited way)
+
+
+* **Mnemonic:** Think of **MODErate**. A **modest** person keeps their ego at a **moderate** level. They don't turn the volume up to 10; they keep it at a 3 or 4.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Humble* (Focuses on a lack of pride; lower in status)
+* *Unassuming* (Not drawing attention to oneself)
+* *Moderate / Humble* (When referring to size or price)
+
+
+* **Antonyms:**
+* Arrogant, boastful, conceited, excessive, flamboyant.
+
+
+
+### The "Don't Mix Up" Section: Modest vs. Humble
+
+* **The Vibe:** **Humble** often implies a lower social status or a deep internal feeling of unimportance (e.g., "a humble cottage").
+* **The Difference:** **Modest** is more about *social behavior* and *proportions*. A billionaire can be **modest** by not showing off their wealth, but they might not be "humble" in spirit. **Modest** is "I won't brag about it," while **humble** is "I don't think I'm better than anyone else." Additionally, "modest" can describe quantities (a modest salary), whereas "humble" rarely does.
+
+---
+
+Would you like me to show you how "modest" is used in different professional contexts, such as describing a "modest proposal" versus a "modest budget"?

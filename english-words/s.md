@@ -2340,3 +2340,77 @@ Would you like me to create a flowchart showing the steps of an insolvency proce
 * **The Vibe:** *Smart* is about the brain's processing power; *Savvy* is about the "know-how" gained through experience.
 
 Would you like me to show you how to combine "savvy" with other nouns to describe specific types of expertise?
+
+# shrouded
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /ˈʃraʊdɪd/
+* **IPA (US):** /ˈʃraʊdɪd/
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Adjective:** Covered, wrapped, or hidden from view.
+2. **Verb (Past Participle):** To be obscured or protected by a veil or cloth.
+
+
+* **Chinese Definitions:**
+1. **形容词 (adj.):** 覆盖的，笼罩的，遮蔽的。
+2. **动词过去分词 (v.):** 被遮掩，被隐藏。
+
+
+* **Collocations:**
+* **Shrouded in mystery** (极为神秘)
+* **Shrouded in clouds/mist** (云雾缭绕)
+* **Shrouded in secrecy** (秘而不宣)
+* **Shrouded in darkness** (笼罩在黑暗中)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The peak of the mountain remained **shrouded** in thick fog all morning, making it impossible to see the trail."
+* **Formal/Academic Example:** "The origins of the ancient manuscript are **shrouded** in mystery, as there are no surviving records of its primary author."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Derived from the Old English *scrūd* (garment, clothing). Historically, it referred specifically to a cloth used to wrap a body for burial.
+* **Logical Association:** If something is "clothed" or "wrapped" completely (like a burial cloth), it becomes invisible and protected from the outside world.
+* **Word Family:**
+* **Noun:** Shroud (a cloth; a veil)
+* **Verb:** Shroud (to cover or hide)
+
+
+* **Mnemonic:** Think of a **cloud**. A **shroud** acts like a heavy **cloud** that drops down to cover and hide everything underneath it.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Hidden/Covered* (Neutral intensity)
+* *Obscured/Veiled* (Medium intensity, suggests partial visibility)
+* *Cloaked/Enveloped* (High intensity, suggests a complete and intentional covering)
+
+
+* **Antonyms:**
+* Exposed, revealed, uncovered, apparent.
+
+
+
+### The "Don't Mix Up" Section: Shrouded vs. Covered
+
+* **The Vibe:** **Covered** is a literal, everyday word (e.g., "The table is covered with a cloth"). It is functional and neutral.
+* **The Difference:** **Shrouded** carries a heavy, often mysterious or somber tone. It implies that the thing being covered is not just hidden, but *difficult to access* or *intentionally kept secret*. You wouldn't "shroud" a leftovers plate with plastic wrap; you "shroud" a secret project in silence.
+
+---
+
+Would you like me to generate a visual mnemonic image of a mountain shrouded in mist to help lock in this vocabulary?

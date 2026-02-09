@@ -139,7 +139,7 @@ It’s a subtle recognition that people generally aspire to be respected and adm
 
 We’re not done talking about Ferraris. Another story about the paradox of fast cars in the next chapter.
 
-# wealth is what you dont see
+# 9. wealth is what you dont see
 
 Money has many ironies. Here’s an important one: Wealth is what you don’t see.
 
@@ -165,11 +165,11 @@ Wealth is the nice cars not purchased. The diamonds not bought. The watches not 
 
 That’s not how we think about wealth, because you can’t contextualize what you can’t see.
 
-Singer Rihanna nearly went bankrupt after overspending and sued her financial advisor. The advisor responded: “Was it really necessary to tell her that if you spend money on things, you will end up with the things and not the money?”30
+Singer Rihanna nearly went bankrupt after overspending and sued her financial advisor. The advisor responded: “Was it really necessary to tell her that if you spend money on things, you will end up with the things and not the money?”
 
 You can laugh, and please do. But the answer is, yes, people do need to be told that. When most people say they want to be a millionaire, what they might actually mean is “I’d like to spend a million dollars.” And that is literally the opposite of being a millionaire.
 
-Investor Bill Mann once wrote: “There is no faster way to feel rich than to spend lots of money on really nice things. But the way to be rich is to spend money you have, and to not spend money you don’t have. It’s really that simple.”31
+Investor Bill Mann once wrote: “There is no faster way to feel rich than to spend lots of money on really nice things. But the way to be rich is to spend money you have, and to not spend money you don’t have. It’s really that simple.”
 
 It is excellent advice, but it may not go far enough. The only way to be wealthy is to not spend the money that you do have. It’s not just the only way to accumulate wealth; it’s the very definition of wealth.
 
@@ -198,3 +198,145 @@ Imagine how hard it would be to learn how to write if you couldn’t read the wo
 The world is filled with people who look modest but are actually wealthy and people who look rich who live at the razor’s edge of insolvency. Keep this in mind when quickly judging others’ success and setting your own goals.
 
 If wealth is what you don’t spend, what good is it? Well, let me convince you to save money.
+
+# 10. save money
+
+Let me convince you to save money.
+
+It won’t take long.
+
+But it’s an odd task, isn’t it?
+
+Do people need to be convinced to save money?
+
+My observation is that, yes, many do.
+
+Past a certain level of income people fall into three groups: Those who save, those who don’t think they can save, and those who don’t think they need to save.
+
+This is for the latter two.
+
+The first idea—simple, but easy to overlook—is that building wealth has little to do with your income or investment returns, and lots to do with your savings rate.
+
+A quick story about the power of efficiency.
+
+In the 1970s the world looked like it was running out of oil. The calculation wasn’t hard: The global economy used a lot of oil, the global economy was growing, and the amount of oil we could drill couldn’t keep up.
+
+We didn’t run out of oil, thank goodness. But that wasn’t just because we found more oil, or even got better at taking it out of the ground.
+
+The biggest reason we overcame the oil crisis is because we started building cars, factories, and homes that are more energy efficient than they used to be. The United States uses 60% less energy per dollar of GDP today than it did in 1950.32 The average miles per gallon of all vehicles on the road has doubled since 1975. A 1989 Ford Taurus (sedan) averaged 18.0 MPG. A 2019 Chevy Suburban (absurdly large SUV) averages 18.1 MPG.
+
+The world grew its “energy wealth” not by increasing the energy it had, but by decreasing the energy it needed. U.S. oil and gas production has increased 65% since 1975, while conservation and efficiency has more than doubled what we can do with that energy. So it’s easy to see which has mattered more.
+
+The important thing here is that finding more energy is largely out of our control and shrouded in uncertainty, because it relies on a slippery mix of having the right geology, geography, weather, and geopolitics. But becoming more efficient with the energy we use is largely in our control. The decision to buy a lighter car or ride a bike is up to you and has a 100% chance of improving efficiency.
+
+The same is true with our money.
+
+Investment returns can make you rich. But whether an investing strategy will work, and how long it will work for, and whether markets will cooperate, is always in doubt. Results are shrouded in uncertainty.
+
+Personal savings and frugality—finance’s conservation and efficiency—are parts of the money equation that are more in your control and have a 100% chance of being as effective in the future as they are today.
+
+If you view building wealth as something that will require more money or big investment returns, you may become as pessimistic as the energy doomers were in the 1970s. The path forward looks hard and out of your control.
+
+If you view it as powered by your own frugality and efficiency, the destiny is clearer.
+
+Wealth is just the accumulated leftovers after you spend what you take in. And since you can build wealth without a high income, but have no chance of building wealth without a high savings rate, it’s clear which one matters more.
+
+More importantly, the value of wealth is relative to what you need.
+
+Say you and I have the same net worth.
+
+And say you’re a better investor than me. I can earn 8% annual returns and you can earn 12% annual returns.
+
+But I’m more efficient with my money. Let’s say I need half as much money to be happy while your lifestyle compounds as fast as your assets.
+
+I’m better off than you are, despite being a worse investor. I’m getting more benefit from my investments despite lower returns.
+
+The same is true for incomes. Learning to be happy with less money creates a gap between what you have and what you want—similar to the gap you get from growing your paycheck, but easier and more in your control.
+
+A high savings rate means having lower expenses than you otherwise could, and having lower expenses means your savings go farther than they would if you spent more.
+
+Think about this in the context of how much time and effort goes into achieving 0.1% of annual investment outperformance—millions of hours of research, tens of billions of dollars of effort from professionals—and it’s easy to see what’s potentially more important or worth chasing.
+
+There are professional investors who grind 80 hours a week to add a tenth of a percentage point to their returns when there are two or three full percentage points of lifestyle bloat in their finances that can be exploited with less effort.
+
+Big investment returns and fat paychecks are amazing when they can be achieved, and some can achieve them. But the fact that there’s so much effort put into one side of the finance equation and so little put into the other is an opportunity for most people.
+
+Past a certain level of income, what you need is just what sits below your ego.
+
+Everyone needs the basics. Once they’re covered there’s another level of comfortable basics, and past that there’s basics that are both comfortable, entertaining, and enlightening.
+
+But spending beyond a pretty low level of materialism is mostly a reflection of ego approaching income, a way to spend money to show people that you have (or had) money.
+
+Think of it like this, and one of the most powerful ways to increase your savings isn’t to raise your income. It’s to raise your humility.
+
+When you define savings as the gap between your ego and your income you realize why many people with decent incomes save so little. It’s a daily struggle against instincts to extend your peacock feathers to their outermost limits and keep up with others doing the same.
+
+People with enduring personal finance success—not necessarily those with high incomes—tend to have a propensity to not give a damn what others think about them.
+
+So people’s ability to save is more in their control than they might think.
+
+Savings can be created by spending less.
+
+You can spend less if you desire less.
+
+And you will desire less if you care less about what others think of you.
+
+As I argue often in this book, money relies more on psychology than finance.
+
+And you don’t need a specific reason to save.
+
+Some people save money for a downpayment on a house, or a new car, or for retirement.
+
+That’s great, of course.
+
+But saving does not require a goal of purchasing something specific.
+
+You can save just for saving’s sake. And indeed you should. Everyone should.
+
+Only saving for a specific goal makes sense in a predictable world. But ours isn’t. Saving is a hedge against life’s inevitable ability to surprise the hell out of you at the worst possible moment.
+
+Another benefit of savings that isn’t attached to a spending goal is what we discussed in chapter 7: gaining control over your time.
+
+Everyone knows the tangible stuff money buys. The intangible stuff is harder to wrap your head around, so it tends to go unnoticed. But the intangible benefits of money can be far more valuable and capable of increasing your happiness than the tangible things that are obvious targets of our savings.
+
+Savings without a spending goal gives you options and flexibility, the ability to wait and the opportunity to pounce. It gives you time to think. It lets you change course on your own terms.
+
+Every bit of savings is like taking a point in the future that would have been owned by someone else and giving it back to yourself.
+
+That flexibility and control over your time is an unseen return on wealth.
+
+What is the return on cash in the bank that gives you the option of changing careers, or retiring early, or freedom from worry?
+
+I’d say it’s incalculable.
+
+It’s incalculable in two ways. It’s so large and important that we can’t put a price on it. But it’s also literally incalculable—we can’t measure it like we can measure interest rates—and what we can’t measure we tend to overlook.
+
+When you don’t have control over your time, you’re forced to accept whatever bad luck is thrown your way. But if you have flexibility you have the time to wait for no-brainer opportunities to fall in your lap. This is a hidden return on your savings.
+
+Savings in the bank that earn 0% interest might actually generate an extraordinary return if they give you the flexibility to take a job with a lower salary but more purpose, or wait for investment opportunities that come when those without flexibility turn desperate.
+
+And that hidden return is becoming more important.
+
+The world used to be hyper-local. Just over 100 years ago 75% of Americans had neither telephones nor regular mail service, according to historian Robert Gordon. That made competition hyper-local. A worker with just average intelligence might be the best in their town, and they got treated like the best because they didn’t have to compete with the smarter worker in another town.
+
+That’s now changed.
+
+A hyper-connected world means the talent pool you compete in has gone from hundreds or thousands spanning your town to millions or billions spanning the globe. This is especially true for jobs that rely on working with your head versus your muscles: teaching, marketing, analysis, consulting, accounting, programming, journalism, and even medicine increasingly compete in global talent pools. More fields will fall into this category as digitization erases global boundaries—as “software eats the world,” as venture capitalist Marc Andreesen puts it.
+
+A question you should ask as the range of your competition expands is, “How do I stand out?”
+
+“I’m smart” is increasingly a bad answer to that question, because there are a lot of smart people in the world. Almost 600 people ace the SATs each year. Another 7,000 come within a handful of points. In a winner-take-all and globalized world these kinds of people are increasingly your direct competitors.
+
+Intelligence is not a reliable advantage in a world that’s become as connected as ours has.
+
+But flexibility is.
+
+In a world where intelligence is hyper-competitive and many previous technical skills have become automated, competitive advantages tilt toward nuanced and soft skills—like communication, empathy, and, perhaps most of all, flexibility.
+
+If you have flexibility you can wait for good opportunities, both in your career and for your investments. You’ll have a better chance of being able to learn a new skill when it’s necessary. You’ll feel less urgency to chase competitors who can do things you can’t, and have more leeway to find your passion and your niche at your own pace. You can find a new routine, a slower pace, and think about life with a different set of assumptions. The ability to do those things when most others can’t is one of the few things that will set you apart in a world where intelligence is no longer a sustainable advantage.
+
+Having more control over your time and options is becoming one of the most valuable currencies in the world.
+
+That’s why more people can, and more people should, save money.
+
+You know what else they should do? Stop trying to be so rational. Let me tell you why.

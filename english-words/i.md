@@ -650,3 +650,68 @@ Would you like me to create a comparison table of different "fake" materials (im
 * **The Vibe:** *Impersonate* requires a costume or a voice; *Personify* requires a character trait.
 
 Would you like me to create a practice dialogue where one character is caught trying to impersonate someone else?
+
+# ingrain
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /ɪnˈɡreɪn/
+* **IPA (US):** /ɪnˈɡreɪn/
+* **CEFR Level:** C1 (Advanced)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition (Verb):** To establish a habit, belief, or attitude so firmly in someone that it is very difficult to change.
+* **Chinese Definition (动词):** 使…根深蒂固，向…灌输（习性、观念等）。
+* **Collocations:**
+* **Deeply ingrained** (根深蒂固的)
+* **Ingrain a habit** (养成某种根深蒂固的习惯)
+* **Ingrain in someone's mind** (铭刻在某人的脑海中)
+* **Ingrain a sense of...** (灌输一种……感)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The importance of saying 'thank you' was **ingrained** in me by my parents from a very young age."
+* **Formal/Academic Example:** "Social prejudices are often **ingrained** within the cultural fabric of a society, making them resistant to legislative reform."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Originally from the phrase "in grain," referring to the practice of dyeing fabric "in the grain" (using raw fibers or kermes insects). This resulted in a color that was permanent and would not wash out.
+* **Logical Association:** If you dye the individual threads *before* weaving them, the color is **in** the **grain** of the fabric. It is part of the material itself, not just painted on top.
+* **Word Family:**
+* **Adjective:** Ingrained (the most common form, e.g., "ingrained beliefs")
+
+
+* **Mnemonic:** Think of **In + Grain**. Imagine pouring ink into a **grain** of wood. The ink goes deep into the fibers; you can't just wipe it off. That is how an **ingrained** thought feels—it's deep inside the "wood" of your mind.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Implant / Instill* (To put a quality or idea into someone)
+* *Embed* (To fix firmly in a surrounding mass)
+* *Entrench* (To establish so firmly that change is very difficult; often used for systems or positions)
+
+
+* **Antonyms:**
+* Eradicate, uproot, eliminate, remove.
+
+
+
+### The "Don't Mix Up" Section: Ingrain vs. Teach
+
+* **The Vibe:** **Teach** is a conscious, academic process. You teach a student how to solve an equation.
+* **The Difference:** **Ingrain** is about the *depth* and *permanence* of the learning. It often happens through repetition or cultural immersion rather than a single lesson. You "teach" a child to ride a bike, but you "**ingrain**" the value of hard work through years of consistent behavior. "Ingrain" suggests it has become part of who the person is.
+
+---
+
+Would you like me to provide a few examples of how "ingrained" is used specifically in the context of psychology and behavioral science?

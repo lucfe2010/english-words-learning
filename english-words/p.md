@@ -2052,3 +2052,147 @@ Would you like me to show you how to rewrite a sentence using "purportedly" to s
 * **The Vibe:** *Perpetrator* is a formal, objective word used by police and journalists. It sounds more serious and clinical than "bad guy."
 
 Would you like me to explain the difference between a "perpetrator" and an "accomplice" in a legal context?
+
+# propensity
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /prəˈpen.sə.ti/
+* **IPA (US):** /prəˈpen.sə.t̬i/
+* **CEFR Level:** C2 (Proficiency)
+
+---
+
+## 2. Core Meanings
+
+* **English Definition (Noun):** An inclination or natural tendency to behave in a particular way.
+* **Chinese Definition (Noun):** 倾向，习性，嗜好。
+* **Collocations:**
+* **Propensity for violence** (暴力倾向)
+* **Propensity to exaggerate** (夸大的倾向)
+* **Increased propensity** (增加的倾向)
+* **Natural propensity** (天性/天生的倾向)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "He has a disturbing **propensity** to interrupt people just as they are reaching the point of their story."
+* **Formal/Academic Example:** "The study indicates that individuals with a high **propensity** for risk-taking are more likely to pursue entrepreneurial ventures."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** From the Latin *propensus* (hanging forward, inclined), from *pro-* (forward) + *pendere* (to hang).
+* **Logical Association:** Think of a scale or a physical object "hanging forward" or leaning toward one side. If your mind "hangs toward" an action, you have a propensity for it.
+* **Word Family:**
+* **Adjective:** Propense (rare/archaic: inclined)
+* **Verb:** Propend (rare: to lean toward)
+
+
+* **Mnemonic:** **Propensity** sounds like **Prop-Intensity**. Imagine someone who needs a **prop** to keep from leaning over because their **intensity** for a habit makes them lean (propensity) that way.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Tendency / Inclination* (Neutral/Common)
+* *Predilection* (Preference or liking for something)
+* *Proclivity* (Often used for negative or objectionable tendencies)
+* *Bent* (A natural talent or bias)
+
+
+* **Antonyms:**
+* Aversion, dislike, antipathy, disinclination.
+
+
+
+### The "Don't Mix Up" Section: Propensity vs. Habit
+
+* **The Vibe:** A **habit** is something you do repeatedly because you have practiced it (like drinking coffee in the morning).
+* **The Difference:** **Propensity** is deeper; it is your *internal leaning* or nature. You might have a **propensity** for addiction (the internal vulnerability), which leads to the **habit** of smoking (the external action). Propensity is the "why" or the "urge," while habit is the "what."
+
+---
+
+Would you like me to create a table comparing "propensity," "proclivity," and "predilection" to help you choose the right word for positive vs. negative contexts?
+
+# pounce
+
+## 1. Phonetics & Classification
+
+* **IPA (UK):** /paʊns/
+* **IPA (US):** /paʊns/
+* **CEFR Level:** B2 (Upper Intermediate)
+
+---
+
+## 2. Core Meanings
+
+* **English Definitions:**
+1. **Verb:** To spring or swoop through the air suddenly in order to catch prey or an object.
+2. **Verb (Figurative):** To take swift advantage of a mistake, an opportunity, or a remark.
+3. **Noun:** A sudden spring or swoop.
+
+
+* **Chinese Definitions:**
+1. **动词 (v.):** 猛扑，突袭。
+2. **动词 (v. 比喻):** 抓住（机会、错误等）。
+3. **名词 (n.):** 猛扑，爪。
+
+
+* **Collocations:**
+* **Pounce on prey** (扑向猎物)
+* **Ready to pounce** (准备出击/随时待发)
+* **Pounce on an opportunity** (攫取机会)
+* **Pounce on a mistake** (抓住错误不放)
+
+
+
+---
+
+## 3. Contextual Usage
+
+* **Natural Example:** "The cat sat perfectly still in the tall grass, waiting for the right moment to **pounce** on the grasshopper."
+* **Formal/Academic Example:** "Political rivals were quick to **pounce** on the minister's verbal slip, using it to question his competence during the debate."
+
+---
+
+## 4. Linguistic Origins & Family & Memory Anchor
+
+* **Etymology:** Origins are somewhat obscure, but likely from the Middle English *pouncen*, meaning "to punch or emboss," later evolving to describe the way a bird of prey uses its talons to "punch" or strike its prey.
+* **Logical Association:** Imagine the sharp **puncture** a hawk's talons make. To **pounce** is to move with the intent of making that sharp, sudden contact.
+* **Word Family:**
+* **Verb:** Pounce
+* **Noun:** Pounce
+
+
+* **Mnemonic:** **Pounce** sounds like **Bounce**. While a ball bounces up and down, a predator "bounces" forward with a **P** (Power) to catch its target.
+
+---
+
+## 5. Nuance & Distinction
+
+* **Synonyms:**
+* *Jump / Leap* (Neutral: movement only)
+* *Swoop* (Specific to birds or descending movement)
+* *Ambush* (Implies hiding before the pounce)
+* *Assault* (More violent and aggressive)
+
+
+* **Antonyms:**
+* Retreat, withdraw, hesitate, recoil.
+
+
+
+### The "Don't Mix Up" Section: Pounce vs. Spring
+
+* **The Vibe:** **Spring** is about the mechanics of the movement—using muscles like a coil. You can spring for joy.
+* **The Difference:** **Pounce** always implies a **target**. You don't just pounce into the air for fun; you pounce *on* something. It is a predatory or opportunistic movement. If you "spring," you are moving fast; if you "pounce," you are attacking or seizing.
+
+---
+
+Would you like me to find a short video clip showing the physical mechanics of a feline pounce to help you visualize the movement?
