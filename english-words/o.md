@@ -350,3 +350,139 @@ Think of an "outrageous" outfit. It goes **beyond** the boundaries of daily fash
 ---
 
 Would you like me to help you write a paragraph describing how you **overhauled** a personal habit or a work process to show off your C1-level vocabulary?
+
+# overlook
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˌəʊvəˈlʊk/ / /ˌoʊvərˈlʊk/ |
+| **Word Class** | Transitive Verb |
+| **CEFR / Frequency** | B2 / Top 3500 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: To fail to notice something; to miss or ignore (often accidentally).**
+* **Chinese:** 忽略 / 漏看 (Hūlüè / Lòukàn)
+* **Collocations:** [Overlook] a detail, [Completely] overlook, [Easy to] overlook, [Overlook] the fact that.
+* **Register:** Neutral
+
+
+* **Sense 2: To forgive or ignore a mistake or bad behavior.**
+* **Chinese:** 宽容 / 既往不咎 (Kuānróng / Jìwǎngbùjiù)
+* **Collocations:** [Overlook] a fault, [Overlook] a minor offense, [Willing to] overlook.
+* **Register:** Neutral / Professional
+
+
+* **Sense 3: To provide a view from a higher position.**
+* **Chinese:** 俯瞰 / 远眺 (Fǔkàn / Yuǎntiào)
+* **Collocations:** [Balcony] overlooks, [Window] overlooks the garden, [The hill] overlooks the city.
+* **Register:** Neutral / Descriptive
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The hotel room was great, but I **overlooked** the fact that there was no elevator until I had to carry my bags up four flights of stairs."
+* **Professional/Academic:** "In our final review of the contract, we cannot afford to **overlook** the small print regarding termination fees."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Old English origin; *over* + *look*. Originally meant "to look at from above" (physically), which evolved into "looking past" something (missing it) or "looking down upon" something (supervising or viewing).
+* **Word Family:** * **Noun:** Overlook (Rarely used for a physical vantage point; "viewpoint" is preferred).
+* **Adjective:** Overlooked (Something that wasn't noticed).
+
+
+* **Semantic Map:** The mental model of **overlook** involves "High Perspective." Whether you are looking over a city from a balcony or "looking over" a mistake without stopping to fix it, you are positioned "above" the object, causing you to see the big picture but miss the specific detail.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Neglect:** Use when the failure to notice is due to laziness or a lack of care (more negative than overlook).
+* **Disregard:** Use when someone *intentionally* ignores a rule or advice.
+* **Condone:** Use specifically when "overlooking" bad behavior implies you actually support or accept it.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Overlook** | The Critical Difference |
+| --- | --- | --- |
+| **Oversee** | **Oversee** means to supervise or manage. | **Oversee** is active (managing); **Overlook** is passive (missing or ignoring). |
+| **Look over** | **Look over** means to examine or check something. | "I **looked over** the paper" (I checked it); "I **overlooked** a typo" (I missed it). |
+
+* **Common Learner Error:** Confusing **overlook** with **oversee**. If you tell your boss, "I will overlook the project," you are telling them you are going to ignore it! You should say, "I will **oversee** the project."
+
+---
+
+Would you like me to create a comparison table for other "Over-" verbs like **overtake**, **overhaul**, and **overlook**?
+
+# outlandish
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈaʊtˌlændɪʃ/ / /ˈaʊtˌlændɪʃ/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | C1 / Top 9000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Looking or sounding bizarre, unfamiliar, or strikingly out of the ordinary.**
+* **Chinese:** 稀奇古怪的 / 异乎寻常的 (Xīqí gǔguài de)
+* **Collocations:** [Outlandish] costumes, [Outlandish] claims, [Outlandish] behavior, [Outlandish] fashion, [Sound] outlandish.
+* **Register:** Neutral / Informal
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I know it sounds **outlandish**, but I swear I saw a mountain lion in the backyard this morning."
+* **Professional/Academic:** "The startup failed not due to a lack of funding, but because of the CEO's **outlandish** expectations regarding market growth."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Old English (*ūtlendisc*) -> "From a foreign land" (*ūt* = out + *land* = land). Originally, it wasn't an insult; it literally meant "foreign." Over time, the meaning shifted from "foreign" to "strange" to "bizarre."
+* **Word Family:** * **Adverb:** Outlandishly (e.g., "outlandishly dressed")
+* **Noun:** Outlandishness (The quality of being bizarre)
+
+
+* **Semantic Map:** The mental model of **outlandish** is "The Boundary Crosser." It describes something that has traveled so far from the "center" of what is considered normal or reasonable that it feels alien or impossible to believe.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Eccentric:** Use when describing a *person’s* slightly strange but harmless personality.
+* **Absurd:** Use when something is so illogical it's almost funny or ridiculous.
+* **Exotic:** Use when the "strangeness" is viewed as beautiful, alluring, or strictly related to a foreign culture.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Outlandish** | The Critical Difference |
+| --- | --- | --- |
+| **Gaudy** | **Gaudy** refers specifically to being bright, cheap, or tasteless. | **Outlandish** refers to being *weird* or *unbelievable*, not just ugly. |
+| **Alien** | **Alien** implies something is fundamentally "other" or hostile. | **Outlandish** usually describes a style, a claim, or a social behavior. |
+
+* **Common Learner Error:** Using **outlandish** as a synonym for "wonderful" or "outstanding" simply because they both start with "out-". **Outlandish** is rarely a pure compliment; it usually implies that the thing is a bit "too much" or hard to take seriously.
+
+---
+
+Would you like me to find some examples of **outlandish** fashion trends from history to help you see the word in a visual context?

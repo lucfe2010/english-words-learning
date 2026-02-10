@@ -2196,3 +2196,205 @@ Would you like me to create a table comparing "propensity," "proclivity," and "p
 ---
 
 Would you like me to find a short video clip showing the physical mechanics of a feline pounce to help you visualize the movement?
+
+# pore
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /pɔːd/ / /pɔːrd/ |
+| **Word Class** | Intransitive Verb (Always followed by the preposition **over**) |
+| **CEFR / Frequency** | C1 / Top 6000 words (High frequency in literary and investigative contexts) |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: To read or study something very carefully and with great attention to detail.**
+* **Chinese:** 钻研 / 细读 (Zuānyán / Xìdú)
+* **Collocations:** [Pored] over documents, [Pored] over maps, [Pored] over books, [Pored] over data, [Pored] over manuscripts.
+* **Register:** Formal / Literary
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I spent the whole weekend **pored** over the instruction manual trying to figure out how to put this desk together."
+* **Professional/Academic:** "Auditors **pored** over the company's financial records for months but found no evidence of embezzlement."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Middle English (*pouren*) -> Origin uncertain, possibly related to "peer" (to look closely). It is distinct from the noun "pore" (a tiny opening in the skin), though they share the same spelling.
+* **Word Family:** * **Verb:** Pore (Present)
+* **Participle:** Poring (Often used: "He sat there poring over the files")
+
+
+* **Semantic Map:** The mental model of **pored** is one of "tunnel vision." It implies a physical leaning forward and a mental absorption where the rest of the world disappears in favor of the text or object being examined.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Scrutinized:** Use when the focus is on finding errors or making a critical judgment.
+* **Perused:** Historically meant to read thoroughly, but in modern "office-speak," it is often misused to mean "skimmed." Use **pored** to guarantee the meaning of "intense focus."
+* **Examined:** A neutral, general-purpose term for looking at something closely.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Pored** | The Critical Difference |
+| --- | --- | --- |
+| **Poured** | **Poured** refers to liquids (e.g., "poured water"). They are homophones but have zero semantic connection. | Context trigger: Is there a liquid involved? If not, it's likely "pored." |
+| **Peered** | **Peered** means to look with difficulty or curiosity (e.g., "peered through the fog"). | **Pored** requires a sustained, scholarly effort; **Peered** is just the act of looking. |
+
+* **Common Learner Error:** The "Poured/Pored" spelling error is common even among native speakers. Additionally, learners often forget the mandatory preposition **over**. One does not "pore a book"; one **pores over** a book.
+
+---
+
+Would you like me to create a quick gap-fill exercise to help you practice distinguishing between **pored**, **poured**, and **peered**?
+
+# probe
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /prəʊb/ / /proʊb/ |
+| **Word Class** | Transitive Verb / Countable Noun |
+| **CEFR / Frequency** | C1 / Top 4000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: To physically explore or examine something with a tool or the hands.**
+* **Chinese:** 探测 / 探查 (Tàncè / Tànchá)
+* **Collocations:** [Surgical] probe, [Gently] probe the wound, [Space] probe, [A mechanical] probe.
+* **Register:** Technical / Medical / Scientific
+
+
+* **Sense 2: To investigate or ask searching questions to discover hidden information.**
+* **Chinese:** 追问 / 调查 (Zhuīwèn / Diàochá)
+* **Collocations:** [Launch an] inquiry to probe, [Probe] into a scandal, [Probe] the mind, [Probe] for weaknesses.
+* **Register:** Journalistic / Professional
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The doctor used a small metal instrument to **probe** the area around the tooth to check for infection."
+* **Professional/Academic:** "The committee was formed to **probe** into the allegations of corruption within the city council."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*proba*) -> "Proof" or "Examination," from *probare* (to test/approve).
+* **Word Family:** * **Noun:** Probe (The tool or the investigation).
+* **Adjective:** Probing (e.g., "She asked several probing questions").
+
+
+* **Semantic Map:** The mental model of **probe** is "Seeking the Core." It implies that the truth or the object is hidden beneath a surface, requiring a specialized tool or a persistent, deep-reaching effort to find it.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Investigate:** The standard term for a systematic examination.
+* **Fathom:** Use when trying to understand a deep or mysterious concept (usually mental).
+* **Pry:** Use when the investigation is nosy, rude, or unwelcome (e.g., "prying into someone's business").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Probe** | The Critical Difference |
+| --- | --- | --- |
+| **Scan** | **Scan** is a broad, surface-level look. | **Probe** is deep and targeted. |
+| **Examine** | **Examine** is a general check-up. | **Probe** implies looking for something specific that is hidden or hard to reach. |
+
+* **Common Learner Error:** Misusing the preposition. In its verb form, you **probe something** (direct object) or **probe into something**. You do not "probe to" something.
+* *Incorrect:* "They probed to the mystery."
+* *Correct:* "They **probed the mystery**" or "They **probed into the mystery**."
+
+
+
+---
+
+Would you like me to show you how a journalist uses **"probing questions"** during an interview to get past a politician's scripted answers?
+
+# prositution
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˌprɒstɪˈtjuːʃən/ / /ˌprɑːstɪˈtuːʃn/ |
+| **Word Class** | Uncountable Noun |
+| **CEFR / Frequency** | C1 / Top 6000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: The practice or occupation of engaging in sexual activity with someone for payment.**
+* **Chinese:** 卖淫 (Màiyín)
+* **Collocations:** [Legalize] prostitution, [Abolish] prostitution, [Forced] prostitution, [Child] prostitution, [The world's oldest profession] (idiomatic).
+* **Register:** Clinical / Legal / Social Science
+
+
+* **Sense 2: The unworthy or corrupt use of one's talents, abilities, or influence for personal gain.**
+* **Chinese:** 糟蹋 / 滥用 (Zāotà / Lànyòng)
+* **Collocations:** [The] prostitution of [one's art/talents/principles], [Intellectual] prostitution.
+* **Register:** Figurative / Critical / Literary
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The city council is debating whether designating a 'red-light district' will help regulate **prostitution** and increase safety."
+* **Professional/Academic:** "Critics argued that the novelist’s decision to write low-quality thrillers for money was a **prostitution** of his immense literary talent."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*prostituere*) -> "To expose publicly" or "To set forth for sale," from *pro-* (before/forth) + *statuere* (to cause to stand/set up).
+* **Word Family:** * **Noun:** Prostitute (The person—note: "Sex worker" is the preferred contemporary term in many contexts).
+* **Verb:** Prostitute (e.g., "To prostitute oneself").
+
+
+* **Semantic Map:** The mental model of **prostitution** is "The Transactional Sell-out." At its core, it involves taking something deeply personal or intrinsic (the body, or figuratively, one's integrity) and placing it in the marketplace as a mere commodity.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Sex Work:** The preferred modern, non-judgmental term in sociological and human rights contexts.
+* **Soliciting:** The legal term for the act of *offering* or *asking* for the service (the behavior leading up to the act).
+* **Commercial Sexual Exploitation:** Used in legal and human rights contexts, particularly when referring to victims of trafficking.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Prostitution** | The Critical Difference |
+| --- | --- | --- |
+| **Sex Trafficking** | **Prostitution** can be voluntary or coerced. | **Sex Trafficking** *always* involves force, fraud, or coercion. |
+| **Escorting** | **Escorting** is often used as a euphemism. | While it implies social companionship, it is frequently used to describe the same industry. |
+
+* **Common Learner Error:** Using the word **prostitute** as a verb for general "bad work." While you can "prostitute your talents," you cannot "prostitute a project" if you just mean you did a bad job. It must imply that you traded your *honor* or *standards* for *money*.
+
+---
+
+Would you like to explore the **sociological shift** in terminology from "prostitution" to "sex work" in academic writing?

@@ -1299,3 +1299,151 @@ Would you like me to explain the difference between "Accrual Accounting" and "Ca
 * **The Vibe:** A *pilot* has a job; an *aviator* has a calling (and usually a cool pair of glasses).
 
 Would you like me to explain why "Aviator" sunglasses were originally designed specifically for pilots in the 1930s?
+
+# ample
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈæmpəl/ / /ˈæmpəl/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | B2 / Top 4000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Enough or more than enough; plentiful.**
+* **Chinese:** 充足的 / 充裕的 (Chōngzú de / Chōngyù de)
+* **Collocations:** [Ample] evidence, [Ample] opportunity, [Ample] time, [Ample] space, [Ample] warning.
+* **Register:** Neutral / Formal
+
+
+* **Sense 2: (Of a person’s figure) Large, full, or curvaceous (often used as a polite euphemism).**
+* **Chinese:** 丰满的 (Fēngmǎn de)
+* **Collocations:** [Ample] proportions, [Ample] bosom, [Ample] frame.
+* **Register:** Polite / Literary
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "Don't worry about rushing to the station; we have **ample** time to catch the train."
+* **Professional/Academic:** "The researchers concluded there was **ample** evidence to support the hypothesis that climate change is accelerating."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*amplus*) -> "Large, spacious, or abundant."
+* **Word Family:** * **Noun:** Amplification (The act of making something larger/louder)
+* **Verb:** Amplify (To increase volume or detail)
+* **Adverb:** Amply (e.g., "He was amply rewarded for his efforts")
+
+
+* **Semantic Map:** The mental model of **ample** is "The Safety Margin." It isn't just "enough" (which might be the bare minimum); it implies a comfortable surplus that removes stress or doubt.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Sufficient:** Use when you mean "exactly enough to meet a requirement" (no surplus).
+* **Abundant:** Use when there is a massive, overflowing supply (stronger than ample).
+* **Copious:** Use specifically for things that can be produced or gathered (e.g., "copious notes," "copious amounts of rain").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Ample** | The Critical Difference |
+| --- | --- | --- |
+| **Enough** | **Ample** sounds more formal and suggests "more than enough." | Use **Enough** for daily needs; **Ample** for professional assurances. |
+| **Spare** | **Spare** refers to an extra item kept for emergencies (e.g., "spare tire"). | **Ample** refers to the quantity of a resource already in use. |
+
+* **Common Learner Error:** Using "ample" for countable items that aren't perceived as a "resource." For example, one rarely says "I have ample apples." It is best used for abstract nouns (time, space, evidence, opportunity).
+
+---
+
+Would you like me to show you how to use the adverb form **"amply"** in a formal business evaluation?
+
+# account
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /əˈkaʊnt/ / /əˈkaʊnt/ |
+| **Word Class** | Countable Noun / Intransitive Verb (with *for*) |
+| **CEFR / Frequency** | A1 (Base) - C1 (Nuanced) / Top 500 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: A report or description of an event or experience.**
+* **Chinese:** 叙述 / 描述 (Xùshù / Miáoshù)
+* **Collocations:** [Eyewitness] account, [Detailed] account, [First-hand] account, [Conflicting] accounts, [Written] account.
+* **Register:** Neutral / Journalistic
+
+
+* **Sense 2: A record of financial transactions or a service arrangement (bank, digital).**
+* **Chinese:** 账户 / 账目 (Zhànghù / Zhàngmù)
+* **Collocations:** [Bank] account, [Savings] account, [Social media] account, [Open/Close] an account, [Joint] account.
+* **Register:** Neutral / Business
+
+
+* **Sense 3: (Verb) To explain the cause of something or to form a particular amount.**
+* **Chinese:** 解释 / 占比 (Jiěshì / Zhànbǐ)
+* **Collocations:** [Account for] the discrepancy, [Account for] 20% of sales, [Account for] one's whereabouts.
+* **Register:** Professional / Academic
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I can't log into my Netflix **account**; I think I might have forgotten the password again."
+* **Professional/Academic:** "Renewable energy sources now **account for** over 30% of the nation’s total power consumption."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Old French (*aconter*) -> "To count up" or "To reckon," from Latin *computare*.
+* **Word Family:** * **Noun:** Account; Accountant (The professional); Accountability (The state of being responsible).
+* **Adjective:** Accountable.
+* **Verb:** Account.
+
+
+* **Semantic Map:** The mental model of **account** is "The Balancing of the Ledger." Whether you are counting money, listing the facts of a story, or explaining your time, you are "reckoning" or "summarizing" a set of data to make it clear and official to others.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Narrative:** Use when referring to a structured story (more literary than account).
+* **Version:** Use when implying that one person's "account" differs from another's (e.g., "His version of the truth").
+* **Balance:** Use specifically for the amount of money remaining in a financial account.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Account** | The Critical Difference |
+| --- | --- | --- |
+| **Report** | A **Report** is usually a formal, organized document. | An **Account** can be a simple verbal story or description. |
+| **Bill** | A **Bill** is a request for payment. | An **Account** is the ongoing record of your relationship with a bank or shop. |
+
+* **Common Learner Error:** Misusing the phrase **"On account of."** It means "Because of," but learners often use it as a substitute for "according to."
+* *Incorrect:* "On account of the news, it will rain."
+* *Correct:* "It will rain **on account of** the cold front moving in."
+
+
+
+---
+
+Would you like me to provide a list of common **idioms** using this word, such as "on no account" or "take into account"?

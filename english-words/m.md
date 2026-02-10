@@ -778,3 +778,140 @@ Would you like me to find some literary examples where "morsel" is used metaphor
 ---
 
 Would you like me to show you how "modest" is used in different professional contexts, such as describing a "modest proposal" versus a "modest budget"?
+
+# molest
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /məˈlɛstɪd/ / /məˈlestəd/ |
+| **Word Class** | Past Participle / Adjective (Derived from Transitive Verb) |
+| **CEFR / Frequency** | C2 / Top 8000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Subjected to unwanted sexual touching or assault (usually involving a minor).**
+* **Chinese:** 遭猥亵的 / 受性侵的 (Zāo wěixiè de)
+* **Collocations:** [Child] molested, [Sexually] molested, [Reported being] molested.
+* **Register:** Formal / Legal / Clinical (Extremely sensitive)
+
+
+* **Sense 2: Harassed, pestered, or physically interfered with (Archaic/Technical).**
+* **Chinese:** 骚扰 / 干扰 (Sāorǎo / Gānrǎo)
+* **Collocations:** [Wildlife] molested, [Do not] molest [the animals], [Travel] unmolested.
+* **Register:** Formal / Legal / Ecological
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The survivor spoke bravely about having been **molested** as a child to help raise awareness for others."
+* **Professional/Legal:** "The statute prohibits any person from being **molested** or disturbed while peacefully exercising their right to assembly." (Used here in the legal sense of 'interference').
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*molestare*) -> "To trouble, annoy, or vex," from *moles* (a burden).
+* **Word Family:** * **Verb:** Molest
+* **Noun:** Molestation; Molester
+
+
+* **Semantic Map:** The mental model of **molested** has shifted drastically over time. Historically, it meant "to cause trouble or bother" (burdening someone). In modern English, the "burden" has specialized almost exclusively into the context of sexual violation and trauma.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Abused:** A broader term that includes physical, emotional, and sexual harm.
+* **Assaulted:** Implies a violent physical attack (can be sexual or non-sexual).
+* **Harassed:** Used for persistent pestering or intimidation, usually in a non-sexual or workplace context.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Molested** | The Critical Difference |
+| --- | --- | --- |
+| **Harassed** | **Harassed** is typically verbal or psychological pressure. | **Molested** (modern) almost always implies unwanted physical/sexual contact. |
+| **Interfered with** | A legal euphemism for molestation. | **Molested** is direct and clinical; **interfered with** is often used in police reports. |
+
+* **Common Learner Error:** **The "False Friend" Trap.** In Romance languages (e.g., Spanish *molestar*, French *molesthé*), the root still means "to bother" or "to annoy." Non-native speakers often say, *"Stop molesting me!"* when they mean *"Stop annoying me!"* In modern English, this is a **severe error**, as it implies you are being sexually assaulted. **Always use "bother," "annoy," or "disturb" instead.**
+
+---
+
+Would you like to see a comparison of how **"molest"** is used in modern wildlife protection laws versus criminal law?
+
+# memoir
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈmɛmwɑːr/ / /ˈmɛmˌwɑːr/ |
+| **Word Class** | Countable Noun |
+| **CEFR / Frequency** | C1 / Top 5000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: A historical account or biography written from personal knowledge.**
+* **Chinese:** 回忆录 (Huíyìlù)
+* **Collocations:** [Write a] memoir, [Publish a] memoir, [A best-selling] memoir, [Poignant] memoir, [Political] memoir.
+* **Register:** Neutral / Literary
+
+
+* **Sense 2: A specialized scholarly paper or report on a specific subject (Plural: Memoirs).**
+* **Chinese:** 专题论文 / 研究报告 (Zhuāntí lùnwén)
+* **Collocations:** [Scientific] memoirs, [Memoirs of the] Royal Society.
+* **Register:** Academic / Formal
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "After she retired from Hollywood, the actress released a **memoir** detailing the 'golden age' of cinema."
+* **Professional/Academic:** "The professor published a **memoir** in the geological journal regarding his thirty years of field research in the Andes."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** French (*mémoire*) -> "Memory." Originally from Latin *memoria*. In English, it evolved to distinguish a formal record of memories from the abstract faculty of "memory" itself.
+* **Word Family:** * **Noun:** Memoir; Memorial (a monument); Memory.
+* **Verb:** Memorize.
+* **Noun (Person):** Memoirist (A person who writes memoirs).
+
+
+* **Semantic Map:** The mental model of a **memoir** is a "Selective Mirror." Unlike an autobiography, which seeks to cover a whole life chronologically, a memoir focuses on specific themes or time periods, reflecting how the author *perceived* those events rather than just listing facts.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Autobiography:** Use when the book covers the *entire* life of the author from birth to the present.
+* **Biography:** Use when someone else writes the story of a person's life.
+* **Reminiscence:** Use for a more informal, nostalgic collection of past experiences, often shared orally.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Memoir** | The Critical Difference |
+| --- | --- | --- |
+| **Autobiography** | **Memoir** is a "slice" of life. | An **Autobiography** is the "whole cake" (chronological and factual). |
+| **Diary** | A **Diary** is written for the self, daily. | A **Memoir** is written for an audience, looking back from a distance. |
+
+* **Common Learner Error:** Confusing **memoir** with **memory**. You cannot say "I have a good memoir of my childhood." A **memoir** is a physical or digital *book/record*. You have a "memory" in your head; you write a "memoir" on paper.
+
+---
+
+Would you like me to analyze the opening paragraph of a famous **memoir** to show how it differs in tone from a standard biography?

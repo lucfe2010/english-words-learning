@@ -1882,3 +1882,210 @@ Would you like me to explain the **psychological role of a "confederate"** in mo
 ---
 
 Would you like me to generate a **visual guide to the different parts of a cemetery**, such as the "headstone," "crypt," and "mausoleum," to help with specific vocabulary?
+
+# confidential
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˌkɒnfɪˈdɛnʃəl/ / /ˌkɑːnfɪˈdenʃl/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | B2 / Top 3000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Intended to be kept secret or private.**
+* **Chinese:** 机密的 / 保密的 (Jīmì de / Bǎomì de)
+* **Collocations:** [Strictly] confidential, [Highly] confidential, [Confidential] information, [Confidential] documents, [Keep something] confidential.
+* **Register:** Formal / Legal / Business
+
+
+* **Sense 2: Indicating that what one says is private or secret (often regarding tone of voice).**
+* **Chinese:** 秘不可宣的 (Mì bù kě xuān de)
+* **Collocations:** [A confidential] tone, [A confidential] whisper, [A confidential] manner.
+* **Register:** Literary
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "Please keep our conversation **confidential**; I haven't told my boss that I'm looking for a new job yet."
+* **Professional/Academic:** "All employee medical records are stored in a **confidential** database and can only be accessed by HR personnel."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*confidere*) -> "To trust fully," from *com-* (intensive) + *fidere* (to trust).
+* **Word Family:** * **Noun:** Confidentiality (The state of being secret); Confidence (Trust/Certainty).
+* **Adverb:** Confidentially (e.g., "She spoke to him confidentially").
+* **Verb:** Confide (To tell a secret to someone).
+
+
+* **Semantic Map:** The mental model of **confidential** is "The Inner Circle." It implies a boundary; information is allowed to exist within that boundary because of a specific bond of trust, but it must not cross the line into the public sphere.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Secret:** The broad, everyday term for anything hidden.
+* **Classified:** Used specifically for government or military information protected by law.
+* **Private:** Refers to personal life or things not intended for public use (e.g., "a private conversation").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Confidential** | The Critical Difference |
+| --- | --- | --- |
+| **Confident** | **Confident** means feeling self-assured. **Confidential** means secret. | Same root, different result: "I am **confident** that this report is **confidential**." |
+| **Anonymous** | **Anonymous** means the *identity* is unknown. | **Confidential** means the *content* is kept secret, even if the source is known. |
+
+* **Common Learner Error:** Confusing **confidential** (adjective) with **confidence** (noun) or **confident** (adjective). A non-native speaker might say, *"I have a confidential feeling,"* when they mean *"I feel confident."* Always remember: **confidential** is about the *information*, not your *feelings*.
+
+---
+
+Would you like me to draft a standard **Confidentiality Clause** often found in employment contracts to see how this word is used legally?
+
+# confidant
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈkɒnfɪdænt/ / /ˈkɑːnfɪdænt/ |
+| **Word Class** | Countable Noun |
+| **CEFR / Frequency** | C1 / Top 8000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: A person with whom one shares a secret or private matter, trusting them not to tell others.**
+* **Chinese:** 知己 / 密友 (Zhījǐ / Mìyǒu)
+* **Collocations:** [Trusted] confidant, [Close] confidant, [Act as] a confidant, [Longtime] confidant, [Political] confidant.
+* **Register:** Neutral / Formal
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I've always seen my sister as my primary **confidant**; she’s the only one I can talk to about my relationship problems."
+* **Professional/Academic:** "Historians noted that the Prime Minister’s personal secretary was also his most influential **confidant**, often shaping policy behind closed doors."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Derived from the French *confident* (masculine) and *confidente* (feminine), from the Latin *confidere* (to trust fully).
+* **Word Family:** * **Adjective:** Confidential (Secret).
+* **Verb:** Confide (To tell a secret).
+* **Adjective:** Confident (Self-assured).
+
+
+* **Semantic Map:** The mental model of a **confidant** is "The Vault." It describes a relationship that exists outside of normal social circles, characterized by a one-way or two-way flow of sensitive information that is "locked" within that person.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Intimate:** Suggests a very close personal relationship, often with emotional or physical depth.
+* **Ally:** Suggests a partner in a struggle or political context, not necessarily someone you share personal feelings with.
+* **Mentor:** A trusted advisor, but the relationship is usually hierarchical rather than a peer-level exchange of secrets.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Confidant** | The Critical Difference |
+| --- | --- | --- |
+| **Confident** | **Confident** is an adjective (feeling sure). | "I am **confident** (sure) in my **confidant** (friend)." |
+| **Confidante** | **Confidante** (with an 'e') is the feminine form. | Historically used for women, but **Confidant** is now the standard gender-neutral term. |
+
+* **Common Learner Error:** Confusing **confidant** (the person) with **confidence** (the feeling). You cannot "have a confidant" in yourself; you have "confidence" in yourself. A **confidant** must be another person. Additionally, notice the stress: **CON**-fi-dant (noun) vs. con-fi-**DENT** (adjective/adverb in some contexts, though the adjective "confident" usually stresses the first syllable as well).
+
+---
+
+Would you like me to show you how the word **confidant** is used in literature to describe a specific character archetype?
+
+# convicted
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /kənˈvɪktɪd/ / /kənˈvɪktɪd/ |
+| **Word Class** | Adjective / Past Participle (Transitive Verb) |
+| **CEFR / Frequency** | B2 / Top 3000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Formally declared to be guilty of a criminal offense by the verdict of a jury or the decision of a judge.**
+* **Chinese:** 定罪的 / 证明有罪的 (Dìngzuì de)
+* **Collocations:** [Convicted] felon, [Previously] convicted, [Rightfully] convicted, [Convicted] of murder, [Awaits] being convicted.
+* **Register:** Legal / Formal
+
+
+* **Sense 2: Having a strong belief or being convinced of something (often used with "of").**
+* **Chinese:** 深信不疑的 (Shēnxìn bùyí de)
+* **Collocations:** [Deeply] convicted, [Convicted] of the truth, [Convicted] in one's heart.
+* **Register:** Literary / Religious / Philosophical
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "He couldn't get the job because the background check showed he was **convicted** of driving under the influence five years ago."
+* **Professional/Academic:** "The study examines the recidivism rates of individuals **convicted** of non-violent drug offenses in urban areas."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*convictus*) -> "Overcome" or "Refuted," from *com-* (intensive) + *vincere* (to conquer).
+* **Word Family:** * **Verb:** Convict (to find guilty).
+* **Noun:** Convict (the person found guilty—note the stress shift: **CON**-vict); Conviction (the belief or the legal result).
+
+
+* **Semantic Map:** The mental model of **convicted** is "The Final Seal." It implies that a debate or trial has concluded and a definitive label of "guilty" or "true" has been permanently attached to the subject.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Sentenced:** Refers specifically to the punishment given *after* being convicted. (You are convicted of the crime, then sentenced to prison).
+* **Guilty:** A general status. You can be "guilty" but not yet "convicted" by a court.
+* **Condemned:** Stronger than convicted; implies a severe moral judgment or a sentence of death.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Convicted** | The Critical Difference |
+| --- | --- | --- |
+| **Accused** | **Accused** means someone *thinks* you did it. | **Convicted** means the court *proved* you did it. |
+| **Indicted** | **Indicted** is the formal charge (the start). | **Convicted** is the final verdict (the end). |
+
+* **Common Learner Error:** Confusing the noun and verb stress.
+* To **con-VICT** (verb): "The jury will **con-VICT** him."
+* A **CON-vict** (noun): "The **CON-vict** escaped."
+* Using the preposition "for" instead of "of."
+* *Incorrect:* "Convicted for theft."
+* *Correct:* "**Convicted of** theft."
+
+
+
+---
+
+Would you like me to create a timeline of a legal case to show exactly where **indicted**, **convicted**, and **sentenced** occur?

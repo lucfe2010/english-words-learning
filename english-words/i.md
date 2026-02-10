@@ -715,3 +715,71 @@ Would you like me to create a practice dialogue where one character is caught tr
 ---
 
 Would you like me to provide a few examples of how "ingrained" is used specifically in the context of psychology and behavioral science?
+
+# indictment
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ɪnˈdaɪtmənt/ / /ɪnˈdaɪtmənt/ |
+| **Word Class** | Countable/Uncountable Noun |
+| **CEFR / Frequency** | C1 / Top 4000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: A formal charge or accusation of a serious crime.**
+* **Chinese:** 控告 / 起诉书 (Kònggào / Qǐsùshū)
+* **Collocations:** [Hand down] an indictment, [Federal] indictment, [Face] indictment, [Seal] an indictment, [Criminal] indictment.
+* **Register:** Legal / Formal
+
+
+* **Sense 2: A thing that serves as a sign or proof that something is very bad or wrong.**
+* **Chinese:** 控诉 / 衰败的迹象 (Kòngsù / Shuāibài de jìxiàng)
+* **Collocations:** [A damning] indictment of, [A scathing] indictment, [A sad] indictment of [society/the system].
+* **Register:** Journalistic / Rhetorical
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The fact that so many people are homeless in such a wealthy city is a **damning indictment** of our social policies."
+* **Professional/Legal:** "The grand jury issued an **indictment** against the executive on three counts of wire fraud and conspiracy."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*indictare*) -> "To proclaim or declare." The silent "c" was added later by scholars to mimic the Latin *dictare* (to speak), though the pronunciation remains tied to the Middle English *indite*.
+* **Word Family:** * **Verb:** Indict (Pronounced /ɪnˈdaɪt/)
+* **Noun:** Indictment
+
+
+* **Semantic Map:** The mental model of **indictment** is "The Formal Finger-Point." Whether it is a literal piece of paper in a courtroom or a metaphorical failure of society, it represents a moment where "enough evidence" has been gathered to publicly declare that something is broken or guilty.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Accusation:** A general claim that someone did something wrong (not necessarily legal).
+* **Arraignment:** The specific court hearing where a defendant hears the indictment and enters a plea.
+* **Denunciation:** A public condemnation of someone or something, often for moral reasons.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Indictment** | The Critical Difference |
+| --- | --- | --- |
+| **Conviction** | **Indictment** is the *start* of the process (the charge). | **Conviction** is the *end* (the verdict of guilt). |
+| **Indite** | **Indite** (now rare) means "to write or compose." | They are homophones, but **Indict** is exclusively about legal charges. |
+
+* **Common Learner Error:** **The Pronunciation Trap.** Because of the "c" in the spelling, many learners try to pronounce it as "in-dict-ment" (/ɪnˈdɪkt/). **It is always pronounced "in-dite-ment" (/ɪnˈdaɪt/)**, rhyming with "kite."
+
+---
+
+Would you like me to explain the **Grand Jury process** that leads to a legal indictment?

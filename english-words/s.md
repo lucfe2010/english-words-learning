@@ -2414,3 +2414,266 @@ Would you like me to show you how to combine "savvy" with other nouns to describ
 ---
 
 Would you like me to generate a visual mnemonic image of a mountain shrouded in mist to help lock in this vocabulary?
+
+# scant
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /skænt/ / /skænt/ |
+| **Word Class** | Adjective (occasionally used as a Transitive Verb) |
+| **CEFR / Frequency** | C1 / Top 7000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Barely sufficient or adequate; very little in amount or degree.**
+* **Chinese:** 不足的 / 缺乏的 (Bùzú de / Quēfá de)
+* **Collocations:** [Scant] regard, [Scant] attention, [Scant] resources, [Scant] evidence, [Scant] clothing.
+* **Register:** Formal / Literary
+
+
+* **Sense 2: Just short of a specific measure (used in recipes or technical instructions).**
+* **Chinese:** 不足...的 (Bùzú... de)
+* **Collocations:** [A scant] teaspoon, [A scant] cup, [A scant] mile.
+* **Register:** Technical / Practical
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The hiker was found in the woods wearing **scant** clothing despite the freezing temperatures."
+* **Professional/Academic:** "The CEO paid **scant** regard to the legal warnings, ultimately leading to a massive fine for the firm."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Old Norse (*skamt*) -> "Short" or "Lacking."
+* **Word Family:** * **Adverb:** Scantly (e.g., "scantly clad")
+* **Noun:** Scantiness (The state of being meager)
+* **Verb:** Scant (To provide an inadequate amount—rarely used)
+
+
+* **Semantic Map:** The mental model of **scant** is "The Deficit." Unlike "small," which is just a size, **scant** carries a nuance of *disappointment* or *risk* because the amount is less than what is needed or expected.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Meager:** Use when the amount is so small it implies poverty or weakness (e.g., "a meager salary").
+* **Sparse:** Use for things spread out over an area (e.g., "sparse vegetation").
+* **Scarce:** Use when something is hard to find due to market conditions or rarity (e.g., "water is scarce").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Scant** | The Critical Difference |
+| --- | --- | --- |
+| **Few** | **Scant** is an adjective describing quality/quantity; **Few** is for countable nouns. | You have "few friends," but "scant evidence." |
+| **Short** | **Short** usually refers to length or height. | **Scant** is used for abstract concepts like "attention" or "regard." |
+
+* **Common Learner Error:** Confusing **scant** with **scarce**. While related, **scarce** means something is difficult to obtain in the moment, whereas **scant** means the specific amount present is simply not enough.
+
+---
+
+Would you like me to demonstrate how **scant** is used in academic literature to critique a weak argument?
+
+# soliciting
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /səˈlɪsɪtɪŋ/ / /səˈlɪsɪtɪŋ/ |
+| **Word Class** | Present Participle / Gerund (Transitive Verb) |
+| **CEFR / Frequency** | C1 / Top 5000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Asking for or trying to obtain something (money, help, opinions, or business) from someone.**
+* **Chinese:** 征求 / 募集 / 招揽 (Zhēngqiú / Mùjí / Zhāolǎn)
+* **Collocations:** [Soliciting] donations, [Soliciting] feedback, [Soliciting] bids, [Soliciting] advice, [Proactively] soliciting.
+* **Register:** Professional / Formal
+
+
+* **Sense 2: Approaching someone with an offer of sexual services in exchange for money.**
+* **Chinese:** 卖淫 / 招嫖 (Màiyín / Zhāopiáo)
+* **Collocations:** [Arrested for] soliciting, [Soliciting] in a public place, [Anti-] soliciting laws.
+* **Register:** Legal / Tabloid
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The school is **soliciting** donations for the new library wing, so they've been sending out emails all week."
+* **Professional/Academic:** "We are currently **soliciting** feedback from our beta testers to identify any remaining bugs before the official launch."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*sollicitare*) -> "To agitate, disturb, or move," from *sollus* (whole) + *ciere* (to set in motion).
+* **Word Family:** * **Verb:** Solicit
+* **Noun:** Solicitation (The act); Solicitor (In the UK, a lawyer; in the US, someone who asks for money).
+* **Adjective:** Solicitous (Showing concern—note that this has a very different meaning!).
+
+
+* **Semantic Map:** The mental model of **soliciting** is "The Active Outreach." It is not a passive reception of things; it is a targeted, intentional movement toward others to pull something (information, money, or action) back toward yourself.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Requesting:** A neutral, polite way of asking for something.
+* **Canvassing:** Specifically used for systematic outreach, often for votes or opinions in a neighborhood.
+* **Touting:** Used when aggressively trying to sell or promote something (often carries a negative nuance).
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Soliciting** | The Critical Difference |
+| --- | --- | --- |
+| **Petitioning** | **Petitioning** usually involves a formal written request signed by many. | **Soliciting** can be done by one person and is often for immediate resources. |
+| **Solicitous** | **Solicitous** is an adjective meaning "anxious or concerned." | "He was **solicitous** about her health" (caring); "He was **soliciting** her help" (asking). |
+
+* **Common Learner Error:** **The "No Soliciting" Sign.** Learners often see "No Soliciting" signs on doors and think it means "No Entry" or "No Talking." It specifically means "Do not come here to sell things or ask for donations."
+
+---
+
+Would you like me to draft a professional email **soliciting** a quote from a vendor or feedback from a client?
+
+# sensationalized
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /sɛnˈseɪʃənəlaɪzd/ / /sɛnˈseɪʃənəlaɪzd/ |
+| **Word Class** | Adjective / Past Participle (Transitive Verb) |
+| **CEFR / Frequency** | C1 / Top 6000 words (Common in Media Studies and Journalism) |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Presented in a way that is intended to provoke public interest or excitement, often at the expense of accuracy.**
+* **Chinese:** 煽情化的 / 夸张报道的 (Shānqínghuà de / Kuāngzhāng bàodǎo de)
+* **Collocations:** [Sensationalized] headlines, [Highly] sensationalized, [Sensationalized] media coverage, [Avoid] being sensationalized, [Sensationalized] account.
+* **Register:** Critical / Journalistic
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I don't trust that news site; their stories are always **sensationalized** just to get people to click on the links."
+* **Professional/Academic:** "The report criticized the tabloid press for providing a **sensationalized** version of the trial that biased potential jurors."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Derived from **Sensation** (from Latin *sensus*, meaning "feeling/sense"). The suffix *-ize* (to make) + *-ed* (past state) creates a word that means "made into a feeling-based event."
+* **Word Family:** * **Noun:** Sensation; Sensationalism (The practice of sensationalizing).
+* **Verb:** Sensationalize (The act of making something provocative).
+* **Adjective:** Sensational (Can be positive: "a sensational performance," or negative: "sensational news").
+
+
+* **Semantic Map:** The mental model of **sensationalized** is "The Magnifying Glass." It takes a small, factual core and surrounds it with bright colors, loud noises, and extreme language to make it appear much larger and more "shocking" than it actually is.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Exaggerated:** Use when the facts are simply made larger or more extreme (not necessarily for "shock" value).
+* **Hyperbolic:** Use in literary contexts to describe language that uses extreme metaphors (e.g., "I've told you a million times").
+* **Yellow Journalism:** A specific historical term for journalism that uses crude exaggeration and sensationalism.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Sensationalized** | The Critical Difference |
+| --- | --- | --- |
+| **Sensational** | **Sensational** is often positive (e.g., "You look sensational!"). | **Sensationalized** is almost always negative/critical. |
+| **Provocative** | **Provocative** means intended to make people think or react. | **Sensationalized** means intended to make people *feel* (shock/anger) without depth. |
+
+* **Common Learner Error:** Confusing "Sensationalized" with "Famous." A student might say, *"The actor is very sensationalized,"* when they mean *"The actor is a sensation (famous)."* Use **sensationalized** specifically for *how a story is told*, not for the status of a person.
+
+---
+
+Would you like me to show you a side-by-side comparison of a **factual headline** versus a **sensationalized headline** for the same event?
+
+# subpoenas
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /səˈpiːnəz/ / /səˈpiːnəz/ |
+| **Word Class** | Countable Noun (Plural) / Transitive Verb |
+| **CEFR / Frequency** | C1 / Top 4000 words (High frequency in Legal/Political news) |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Formal legal documents ordering a person to attend a court or to produce evidence.**
+* **Chinese:** 传票 / 传唤 (Chuánpiào / Chuánhuàn)
+* **Collocations:** [Issue] subpoenas, [Comply with] subpoenas, [Ignore] subpoenas, [Subpoenas for] records, [Grand jury] subpoenas.
+* **Register:** Legal / Formal
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The company's lawyers are scrambling because they just received several **subpoenas** for all internal emails regarding the merger."
+* **Professional/Academic:** "Congressional committees often utilize **subpoenas** to compel testimony from reluctant witnesses during high-profile investigations."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*sub poena*) -> "Under penalty." This reflects the core nature of the document: if you do not follow the order, you face a legal penalty (fine or jail).
+* **Word Family:** * **Noun (Singular):** Subpoena
+* **Verb:** Subpoena (e.g., "The witness was subpoenaed last Tuesday")
+
+
+* **Semantic Map:** The mental model of **subpoenas** is "The Inescapable Command." It is not an invitation or a request; it is a forced entry into a legal process, backed by the full power of the state's punishment system.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Summons:** Use when the order is for a defendant to appear in court to answer a complaint (a subpoena is usually for witnesses or evidence).
+* **Warrant:** Use when the court authorizes the police to perform an action, like an arrest or a search.
+* **Citation:** Use for minor legal infractions (like a speeding ticket) that require a court appearance or fine.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Subpoenas** | The Critical Difference |
+| --- | --- | --- |
+| **Subpoena duces tecum** | **Subpoenas** (general) | This specific type of subpoena requires you to bring *documents*, not just yourself. |
+| **Deposition** | **Subpoenas** | A **Deposition** is the *meeting* where you give testimony; a **Subpoena** is the *order* that makes you go there. |
+
+* **Common Learner Error:** **The Spelling and Pronunciation Trap.** The "b" is silent in many minds, but it is there. More importantly, the "oe" is pronounced like a long "ee" (/iː/). Learners often struggle with the plural; while "subpoenae" exists in ancient Latin forms, **subpoenas** is the only correct version in modern English.
+
+---
+
+Would you like me to explain the difference between a **civil subpoena** and a **criminal subpoena**?

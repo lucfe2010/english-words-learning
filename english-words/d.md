@@ -1873,3 +1873,201 @@ Would you like me to generate a comparison chart of the **dwarf planets** in our
 ---
 
 Would you like me to explain the specific legal consequences that occur after a "Notice of Default" is issued, or would you like to see how a default affects a credit score over a 10-year period?
+
+# depict
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /dɪˈpɪkt/ / /dɪˈpɪkt/ |
+| **Word Class** | Transitive Verb |
+| **CEFR / Frequency** | B2 / Top 3500 words (High frequency in Humanities and Media) |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: To represent or show something in a picture, drawing, or other art form.**
+* **Chinese:** 描绘 / 绘画 (Miáohuì / Huìhuà)
+* **Collocations:** [Depict] a scene, [Vividly] depict, [Depict] as a [hero/villain], [Accurately] depict.
+* **Register:** Neutral / Formal
+
+
+* **Sense 2: To describe something in words; to characterize.**
+* **Chinese:** 描写 / 刻画 (Miáoxiě / Kèhuà)
+* **Collocations:** [Depict] the struggle, [Depict] the protagonist, [The media] depicts [someone] as, [Depict] a situation.
+* **Register:** Professional / Academic
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The movie **depicts** the life of a typical college student in the 90s, but it's not very realistic."
+* **Professional/Academic:** "Table 4.2 **depicts** the correlation between socio-economic status and access to tertiary education."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*depictus*) -> "To paint/color." Derived from *de-* (down/completely) + *pingere* (to paint).
+* **Word Family:** * **Noun:** Depiction (The representation itself)
+* **Verb:** Depict (Root)
+* **Adjective:** Depicted (The thing being shown)
+
+
+* **Semantic Map:** The mental model of **depict** is "Mapping Reality." It implies taking a complex subject (a person, a feeling, a data set) and rendering it into a visible or understandable format for an audience.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Portray:** Use when focusing on the *manner* or *emotion* an actor or author gives to a character (e.g., "She portrayed the queen with dignity").
+* **Illustrate:** Use when providing an example to make a point clearer (e.g., "This story illustrates the dangers of greed").
+* **Delineate:** Use in technical or legal contexts to describe exact boundaries or precise details.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Depict** | The Critical Difference |
+| --- | --- | --- |
+| **Describe** | **Depict** usually implies a visual or artistic medium; **Describe** is purely linguistic. | You "describe" a smell; you "depict" a landscape. |
+| **Sketch** | **Sketch** implies a quick, rough, or unfinished representation. | **Depict** is a general term that includes finished, detailed works. |
+
+* **Common Learner Error:** Using "depict" for non-visual sensory experiences. You cannot "depict" a sound or a flavor; use "describe" or "convey" instead. **Depict** requires a "picture" (mental or physical) to be formed.
+
+---
+
+Would you like me to show you how to use **depict** versus **portray** in a film review or literary analysis?
+
+# diligently
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈdɪlɪdʒəntli/ / /ˈdɪlɪdʒəntli/ |
+| **Word Class** | Adverb |
+| **CEFR / Frequency** | B2 / Top 4500 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: In a way that shows care and conscientiousness in one's work or duties.**
+* **Chinese:** 勤勉地 / 孜孜不倦地 (Qínmiǎn de / Zīzī bùjuàn de)
+* **Collocations:** [Work] diligently, [Study] diligently, [Apply oneself] diligently, [Pursue] diligently, [Search] diligently.
+* **Register:** Neutral / Professional
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "If you follow the skincare routine **diligently** for a month, you’ll definitely see an improvement in your skin."
+* **Professional/Academic:** "The legal team worked **diligently** to review over a thousand documents before the trial began."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*diligere*) -> "To value highly" or "To love/choose." It evolved from "loving" something to "taking great care" of it because it is valued.
+* **Word Family:** * **Adjective:** Diligent (Hard-working/careful)
+* **Noun:** Diligence (The quality of being committed and thorough)
+
+
+* **Semantic Map:** The mental model of **diligently** is "The Steady Stream." It does not imply a sudden burst of genius or luck; rather, it represents a consistent, high-effort application of energy over time, driven by a sense of duty or purpose.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Assiduously:** Use when someone is working with great constant attention (highly formal).
+* **Thoroughly:** Use when the focus is on the *completeness* of the task rather than the *effort* of the worker.
+* **Industriously:** Use when focusing on being "busy" or productive (like an ant or a bee).
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Diligently** | The Critical Difference |
+| --- | --- | --- |
+| **Quickly** | **Diligently** focuses on quality and care. | Working **quickly** might lead to mistakes; working **diligently** avoids them. |
+| **Efficiently** | **Efficiently** means with the least waste of time. | You can work **efficiently** but lazily; **diligently** implies a moral or serious commitment. |
+
+* **Common Learner Error:** Confusing it with "hardly." Non-native speakers sometimes say "He worked hardly" to mean "He worked hard." In English, "hardly" means "almost not at all." **Diligently** is the perfect professional adverb to replace the basic "hard."
+
+---
+
+Would you like me to write a **performance review** paragraph using **diligently** and its synonyms to describe a top-tier employee?
+
+# demonstrably
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /dɪˈmɒnstrəbli/ / /ˈdɛmənstrəbli/ |
+| **Word Class** | Adverb |
+| **CEFR / Frequency** | C1 / Top 7000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: In a way that can be clearly shown, proven, or logically evidenced.**
+* **Chinese:** 显而易见地 / 可证实地 (Xiǎn’éryìjiàn de / Kě zhèngshí de)
+* **Collocations:** [Demonstrably] false, [Demonstrably] true, [Demonstrably] better, [Demonstrably] effective, [Has demonstrably] improved.
+* **Register:** Formal / Academic / Legal
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The new engine is **demonstrably** quieter than the previous model; you don't even need to measure the decibels to hear the difference."
+* **Professional/Academic:** "The defendant’s claims were **demonstrably** false, as GPS data placed him three miles away from the scene of the crime."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin (*demonstrare*) -> "To point out" or "To show clearly," from *de-* (completely) + *monstrare* (to show).
+* **Word Family:** * **Verb:** Demonstrate (To show/prove).
+* **Noun:** Demonstration (The act of showing); Demonstrator.
+* **Adjective:** Demonstrable (Capable of being proven).
+
+
+* **Semantic Map:** The mental model of **demonstrably** is "The Receipt." It moves a statement from the realm of *opinion* or *theory* into the realm of *fact*. If something is demonstrably true, you aren't asking the listener to "trust" you; you are inviting them to look at the evidence that already exists.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Evidently:** Use when something is clear based on the available signs, though perhaps not strictly "proven" yet.
+* **Manifestly:** Use for something that is obvious or "plain to see" (often used in moral or political critiques).
+* **Verifiably:** Use when the focus is on the ability to check the facts against a source or experiment.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Demonstrably** | The Critical Difference |
+| --- | --- | --- |
+| **Clearly** | **Clearly** is often subjective ("It's clearly hot"). | **Demonstrably** implies that data or logic exists to back it up. |
+| **Arguably** | **Arguably** means it *could* be true, but it's open to debate. | **Demonstrably** means the debate is essentially over because the proof is there. |
+
+* **Common Learner Error:** Using "demonstrably" when they just mean "very."
+* *Incorrect:* "The cake was demonstrably delicious." (Taste is subjective).
+* *Correct:* "The cake was **demonstrably** larger than the others." (You can measure it).
+
+
+
+---
+
+Would you like me to show you how to use **demonstrably** in a persuasive essay to shut down an opposing argument?
