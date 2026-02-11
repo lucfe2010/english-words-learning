@@ -486,3 +486,77 @@ Would you like me to create a comparison table for other "Over-" verbs like **ov
 ---
 
 Would you like me to find some examples of **outlandish** fashion trends from history to help you see the word in a visual context?
+
+# obsolete
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˌɒb.səlˈiːt/ / /ˌɑːb.səˈliːt/ |
+| **Word Class** | Adjective, Transitive Verb (Rare) |
+| **CEFR / Frequency** | C1 / Top 4000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: No longer produced or used; out of date.**
+* **Chinese:** 废弃的 / 过时的 (Fèiqì de / Guòshí de)
+* **Collocations:** **Render** obsolete; **virtually** obsolete; **obsolete** technology; **planned** obsolescence; **obsolete** equipment.
+* **Register:** Neutral / Technical / Business.
+
+
+* **Sense 2 (Biology): Imperfectly developed; no longer functional in a species (vestigial).**
+* **Chinese:** 退化的 (Tuìhuà de)
+* **Collocations:** **Obsolete** organ; **obsolete** structure.
+* **Register:** Technical / Scientific.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I have a drawer full of **obsolete** chargers for phones I don't even own anymore."
+* **Professional/Academic:** "The rapid advancement of AI-driven automation threatens to make certain manual data-entry roles **obsolete** within the decade."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Latin *obsoletus* (**grown old, worn out**), the past participle of *obsolescere*.
+* **Word Family:** * **Noun:** Obsolescence (e.g., *built-in obsolescence*)
+* **Verb:** Obsolesce (to become obsolete)
+* **Noun:** Obsoleteness (the state of being obsolete)
+
+
+* **Semantic Map:** The mental model of **obsolete** is **displacement by evolution**. It doesn't just mean "old"; it implies that a newer, better, or more efficient version has arrived, rendering the original item unnecessary or unusable.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Archaic:** Describes something that belongs to an earlier period and feels "old-fashioned" (e.g., archaic language), but might still be understood.
+* **Antiquated:** Stronger than old-fashioned; implies that something is so old it is no longer suitable for modern needs (e.g., an antiquated legal system).
+* **Defunct:** Specifically means something that has **ceased to exist** or function entirely (e.g., a defunct airline).
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Obsolete** | The Critical Difference |
+| --- | --- | --- |
+| **Old** | Age | Something can be **old** but still useful (e.g., an old hammer); **obsolete** means it has lost its utility. |
+| **Ancient** | History | **Ancient** refers to thousands of years ago; **obsolete** can happen in just six months (e.g., software). |
+| **Deprecated** | Computing | **Deprecated** means "available but discouraged"; **obsolete** means "removed/no longer supported." |
+
+* **Common Learner Error:** Using "obsolete" to describe people.
+* **Incorrect:** "My grandfather is obsolete."
+* **Correct:** "My grandfather's **skills** are becoming obsolete." (Use "obsolete" for things, systems, or ideas; calling a person obsolete is highly dehumanizing and grammatically awkward).
+
+
+* **Expert Note: "Planned Obsolescence"**
+This is a specific business strategy where a product is designed with a limited useful life, so it will become **obsolete** after a certain period, forcing the consumer to buy a new version.
+
+Would you like me to analyze a related term like "vanguard" (the opposite of obsolete) or look into the "Lindy Effect" regarding how long things stay useful?

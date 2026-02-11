@@ -179,3 +179,134 @@ Since you've learned a powerful set of words today, here is how they all fit tog
 > "The billionaire practiced extreme **frugality**, a habit that **ushered** him into a life of immense wealth but also deep isolation. His success **cemented** his legacy, yet his coworkers whispered that his secretiveness bordered on **paranoia**. When he suddenly vanished, his family was left **distraught**, staring into the **unfathomable** mystery of his private life."
 
 Would you like me to provide a few more C1/C2 words related to **mysteries** or **secrets** to round out this theme?
+
+# unceasing
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ʌnˈsiː.sɪŋ/ / /ʌnˈsiː.sɪŋ/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | C1 / Top 7000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Not stopping; continuous and seemingly endless.**
+* **Chinese:** 不断的 / 无休止的 (Bùduàn de / Wúxiūzhǐ de)
+* **Collocations:** **Unceasing** efforts; **unceasing** noise; **unceasing** flow; **unceasing** rain; **unceasing** prayer.
+* **Register:** Formal / Literary.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The **unceasing** barking of the neighbor's dog made it impossible to get any sleep last night."
+* **Professional/Academic:** "Success in the field of medical research requires **unceasing** dedication and a willingness to learn from failure."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** *Un-* (**not**) + *cease* (from Latin *cessare*, **to stop**) + *-ing*.
+* **Word Family:** * **Verb:** Cease (e.g., *to cease fire*)
+* **Adverb:** Unceasingly (e.g., *they worked unceasingly*)
+* **Adjective:** Ceaseless (Very similar, but "ceaseless" often feels more poetic or rhythmic).
+
+
+* **Semantic Map:** The mental model of **unceasing** is a **conveyor belt**. It describes a process that lacks a "pause" button. While "continuous" is neutral, "unceasing" often carries a tone of either **admiration** (for hard work) or **exhaustion** (for something annoying).
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Incessant:** Almost always negative. Used for things that are annoying because they don't stop (e.g., "incessant chatter").
+* **Perpetual:** Implies something that lasts forever or for an indefinitely long time (e.g., "perpetual motion").
+* **Relentless:** Implies a lack of mercy or a refusal to give up (e.g., "a relentless pursuit").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Unceasing** | The Critical Difference |
+| --- | --- | --- |
+| **Constant** | Frequency | **Constant** can mean "happening regularly"; **unceasing** means it literally never stops for a second. |
+| **Eternal** | Time | **Eternal** exists outside of time/forever; **unceasing** describes the *action* of not stopping right now. |
+| **Persistent** | Effort | **Persistent** means you keep trying despite obstacles; **unceasing** just means you haven't stopped yet. |
+
+* **Common Learner Error:** Using "unceasing" for things that have short, natural breaks.
+* **Incorrect:** "My unceasing classes start at 9:00 AM."
+* **Correct:** "My **back-to-back** classes..." or "The **constant** stream of classes..."
+* **Correction:** Reserve "unceasing" for things that feel like a single, unbroken flow (like wind, rain, or a lifetime of work).
+
+
+
+Would you like me to show you how "unceasing" is used in classical literature compared to modern news reporting?
+
+# unfazed
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ʌnˈfeɪzd/ / /ʌnˈfeɪzd/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | C1 / Top 8000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Not confused, worried, or shocked by something unexpected or unpleasant.**
+* **Chinese:** 不为所动的 / 泰然自若的 (Bù wéi suǒ dòng de)
+* **Collocations:** **Remain** unfazed; **seemingly** unfazed; **completely** unfazed; **unfazed by** the news.
+* **Register:** Neutral / Informal.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "Even though the fire alarm went off in the middle of her speech, she seemed **unfazed** and just kept talking."
+* **Professional/Academic:** "The seasoned CEO appeared **unfazed** by the hostile takeover bid, calmly outlining his counter-strategy to the board."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** *Un-* (**not**) + *fazed*. The base verb **faze** (to disturb the composure of) is an Americanism from the 19th century, likely derived from the Old English *fesian* (**to drive away or put to flight**).
+* **Word Family:** * **Verb:** Faze (e.g., *nothing seems to faze him*)
+* **Semantic Map:** The mental model of **unfazed** is **The Teflon Shield**. It suggests that external "chaos" or "stress" hits the person but slides right off without leaving a mark or causing a reaction. It is often used to describe someone with high emotional intelligence or extensive experience.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Indifferent:** Implies a lack of interest or care (negative). Being **unfazed** implies you noticed it, but it didn't rattle you.
+* **Nonchalant:** Implies a cool, casual lack of concern, often in a stylish or slightly arrogant way.
+* **Imperturbable:** A high-level academic synonym. It describes a permanent personality trait rather than a reaction to a single event.
+* **Staunch:** Describes loyalty or firmness, rather than a lack of reaction to surprise.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Unfazed** | The Critical Difference |
+| --- | --- | --- |
+| **Unphased** | **Spelling** | This is a common **misspelling**. "Phase" refers to stages; "Faze" refers to being disturbed. |
+| **Calm** | State | **Calm** is a general state of peace; **unfazed** specifically implies a *challenge* was present but failed to upset the person. |
+| **Stoic** | Philosophy | **Stoic** implies enduring pain without complaint; **unfazed** implies the pain/stress didn't even bother you. |
+
+* **Common Learner Error:** The "Phase" vs "Faze" Trap.
+* **Incorrect:** "He was unphased by the rain."
+* **Correct:** "He was **unfazed** by the rain."
+* **Tip:** Think of **F**aze = **F**ear/ **F**lustration. If you aren't **F**azed, you aren't bothered.
+
+
+
+Would you like me to provide some examples of how to use "unfazed" in a performance review or a fictional character description?

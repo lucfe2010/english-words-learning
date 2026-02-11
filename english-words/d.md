@@ -2071,3 +2071,70 @@ Would you like me to write a **performance review** paragraph using **diligently
 ---
 
 Would you like me to show you how to use **demonstrably** in a persuasive essay to shut down an opposing argument?
+
+# dogma
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈdɒɡ.mə/ / /ˈdɑːɡ.mə/ |
+| **Word Class** | Countable/Uncountable Noun |
+| **CEFR / Frequency** | C1 / Top 6000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: A principle or set of principles laid down by an authority as incontrovertibly true.**
+* **Chinese:** 教条 / 武断的观点 (Jiàotiáo / Wǔduàn de guāndiǎn)
+* **Collocations:** **Religious** dogma; **political** dogma; **challenge** dogma; **blindly follow** dogma; **scientific** dogma.
+* **Register:** Formal / Academic / Critical.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "He’s so stuck in his own **dogma** about how a 'real man' should act that he won't even help with the dishes."
+* **Professional/Academic:** "The 'Central **Dogma**' of molecular biology describes the two-step process—transcription and translation—by which the information in genes flows into proteins."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Greek *dogma* (**opinion / tenet**), from *dokein* (**to seem good / to think**). Originally, it wasn't necessarily negative; it just meant a settled opinion.
+* **Word Family:** * **Adjective:** Dogmatic (e.g., *a dogmatic approach*)
+* **Adverb:** Dogmatically (e.g., *he argued dogmatically*)
+* **Noun:** Dogmatism (the tendency to lay down principles as undeniably true)
+
+
+* **Semantic Map:** The mental model of **dogma** is a **Fixed Anchor**. It represents an idea that is no longer "up for debate." It implies a top-down structure where the truth is declared by an authority (the Church, a political party, or even a scientific establishment) rather than discovered through ongoing individual questioning.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Doctrine:** Often used neutrally to describe the official teachings of a group (e.g., "military doctrine"). **Dogma** is usually more rigid and carries a negative connotation of being resistant to change.
+* **Tenet:** A single principle or belief held to be true, especially one of the main principles of a religion or philosophy. Less heavy than dogma.
+* **Ideology:** A broader system of ideas and ideals, especially one that forms the basis of economic or political theory.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Dogma** | The Critical Difference |
+| --- | --- | --- |
+| **Doctrine** | Connotation | **Doctrine** is often what is taught (neutral); **dogma** is what *must* be believed (often negative). |
+| **Creed** | Usage | A **creed** is a formal statement of personal belief; **dogma** is the rule set imposed by the organization. |
+| **Axiom** | Field | An **axiom** is a self-evident truth in logic/math; **dogma** is a declared truth in social/religious systems. |
+
+* **Common Learner Error:** Confusing **Dogma** with **Dharma**.
+* **Dogma:** Rigid rules or beliefs (Western/Critical context).
+* **Dharma:** Cosmic order/duty in Indian religions (Hinduism/Buddhism).
+* **Correction:** Ensure the context matches the philosophical tradition being discussed.
+
+
+
+Would you like me to explore the "Central Dogma" of biology in more detail, or perhaps look at how "dogma" is used in modern political discourse?p

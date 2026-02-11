@@ -666,3 +666,80 @@ Would you like me to find a news article excerpt where a public figure is being 
 ---
 
 Would you like me to create a table showing different professional scenarios and how to use "leeway," "latitude," and "slack" correctly in each?
+
+# leverage
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈliː.vər.ɪdʒ/ / /ˈlev.ər.ɪdʒ/ |
+| **Word Class** | Noun (Uncountable), Transitive Verb |
+| **CEFR / Frequency** | B2 / Top 2000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1 (Physical/Mechanical): The mechanical advantage gained by using a lever to lift or move an object.**
+* **Chinese:** 杠杆作用 (Gànggǎn zuòyòng)
+* **Collocations:** **Maximum** leverage; **provide** leverage; **mechanical** leverage.
+* **Register:** Technical / Physics.
+
+
+* **Sense 2 (Business/Figurative): The power to influence a person or situation to achieve a desired outcome.**
+* **Chinese:** 优势 / 影响力 (Yōushì / Yǐngxiǎnglì)
+* **Collocations:** **Negotiating** leverage; **gain** leverage; **use as** leverage.
+* **Register:** Business / Political / General.
+
+
+* **Sense 3 (Finance): Using borrowed capital (debt) for an investment, expecting the profits to be greater than the interest payable.**
+* **Chinese:** 杠杆融资 (Gànggǎn róngzī)
+* **Collocations:** **High** leverage; **financial** leverage; **de-leverage**.
+* **Register:** Finance / Economics.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The fact that I’m the only one who knows the password gives me a bit of **leverage** in this argument."
+* **Professional/Academic:** "We need to **leverage** our existing customer data to identify new market opportunities."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From the word **lever**, from Old French *levier*, meaning "to raise" (from Latin *levare*).
+* **Word Family:** * **Verb:** Leverage (e.g., *to leverage assets*)
+* **Noun:** Lever (the tool itself)
+
+
+* **Semantic Map:** The mental model of **leverage** is **Force Multiplication**. It’s about doing more with less. Physically, a small push at the end of a long stick moves a heavy rock. Figuratively, a small piece of information or a bit of borrowed money creates a much larger result than would be possible through "raw strength" alone.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Influence:** A general ability to affect outcomes. **Leverage** is more tactical; it implies you have a specific "handle" to pull.
+* **Advantage:** A superior position. **Leverage** is the *use* of that position to get what you want.
+* **Clout:** Informal term for power or influence, especially in politics or business.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Leverage** | The Critical Difference |
+| --- | --- | --- |
+| **Utilize** | Action | **Utilize** simply means to use; **leverage** means to use something specifically to get a *multiplied* benefit. |
+| **Gearing** | Region | **Gearing** is the British equivalent of financial **leverage** (debt-to-equity ratio). |
+| **Pressure** | Tone | **Pressure** is often forceful or negative; **leverage** is more about strategic positioning. |
+
+* **Common Learner Error:** Overusing the verb "leverage" in non-business contexts.
+* **Corporate Jargon Alert:** In modern offices, "leverage" is often used as a "buzzword" for "use" (e.g., "Let's leverage our synergies"). Be careful not to sound like a management textbook in casual conversation!
+* **Correction:** Use "use" or "take advantage of" in daily life; save "leverage" for when you are talking about strategy or tools.
+
+
+
+Would you like me to explain how "leverage" works in a specific field, such as **real estate investing** or **physics**?

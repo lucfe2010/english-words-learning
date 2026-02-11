@@ -1568,3 +1568,148 @@ Would you like me to create a short dialogue between a bank agent and a homeowne
 * **The Vibe:** *Ransom* is a hostage situation; *Blackmail* is a secret-sharing threat.
 
 Would you like me to explain the term "King's Ransom" and how it transitioned from a literal historical event to a common modern idiom?
+
+# rattling
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈræt.lɪŋ/ / /ˈræt.lɪŋ/ |
+| **Word Class** | Present Participle (Verb), Adjective, Noun |
+| **CEFR / Frequency** | B2 / Top 4500 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1 (Physical Sound): Making a series of short, sharp, knocking sounds.**
+* **Chinese:** 咔哒响的 / 哗啦响的 (Kādā xiǎng de)
+* **Collocations:** **Rattling** windows; **rattling** chains; **rattling** noise; **rattling** breath.
+* **Register:** Neutral.
+
+
+* **Sense 2 (Medical): A specific sound in the chest (rales) caused by air passing through mucus.**
+* **Chinese:** 啰音 (Luōyīn)
+* **Collocations:** **Rattling** cough; **death** rattle; **rattling** in the chest.
+* **Register:** Clinical / Descriptive.
+
+
+* **Sense 3 (Psychological/Informal): Causing someone to feel nervous, worried, or irritated.**
+* **Chinese:** 使不安 / 使慌乱 (Shǐ bù'ān)
+* **Collocations:** **Rattling** the competition; **get** rattled; **rattling** someone's cage.
+* **Register:** Informal / Figurative.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The old radiator kept me up all night with its constant **rattling** and hissing."
+* **Professional/Academic:** "The patient presented with labored breathing and a distinct **rattling** sound in the lower lobes of the lungs, suggesting pneumonia."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Middle English *ratelen*, likely of Germanic origin and **onomatopoeic** (the word sounds like the noise it describes).
+* **Word Family:** * **Verb:** Rattle (e.g., *to rattle the door*)
+* **Noun:** Rattle (e.g., *a baby’s rattle* or *a rattlesnake's rattle*)
+* **Adjective:** Rattled (e.g., *he looked visibly rattled*)
+
+
+* **Semantic Map:** The mental model of **rattling** is **loose vibration**. It implies that components that should be solid or steady are instead shaking against one another, often signaling that something is broken, old, or unstable (physically or mentally).
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Clattering:** Heavier and noisier than rattling; usually involves hard objects like plates or shoes on a hard floor.
+* **Jangling:** Specifically for metallic, often discordant sounds (e.g., keys or bells).
+* **Rumbling:** A low, continuous, heavy sound (e.g., thunder or a stomach), whereas rattling is sharp and intermittent.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Rattling** | The Critical Difference |
+| --- | --- | --- |
+| **Shaking** | Movement | **Shaking** is the motion; **rattling** is the *sound* produced by the motion. |
+| **Vibrating** | Frequency | **Vibrating** is usually fast and hum-like; **rattling** implies impact between parts. |
+| **Rales/Crackles** | Medical | **Rattling** is the layperson's term; **rales** or **rhonchi** are the specific clinical terms used by doctors. |
+
+* **Common Learner Error:** Confusing the adjective "rattling" with "rattled."
+* **Incorrect:** "The news made me very rattling."
+* **Correct:** "The news was **rattling**" (the news caused the feeling) or "I was **rattled** by the news" (I felt the nervousness).
+
+
+
+Would you like me to explain the mechanical causes of "engine rattling" or perhaps the clinical difference between "dry" and "wet" rattling in the lungs?
+
+# rollercoaster
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈrəʊ.ləˌkəʊ.stər/ / /ˈroʊ.lɚˌkoʊ.stɚ/ |
+| **Word Class** | Countable Noun |
+| **CEFR / Frequency** | B1 / Top 4000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: An amusement park attraction consisting of a light railroad track with many tight turns and steep slopes.**
+* **Chinese:** 过山车 (Guòshānchē)
+* **Collocations:** **Ride a** rollercoaster; **wooden** rollercoaster; **inverted** rollercoaster; **thrilling** rollercoaster.
+* **Register:** Neutral / General.
+
+
+* **Sense 2 (Figurative): A situation or experience that involves rapid and unpredictable changes.**
+* **Chinese:** 坐过山车般的变化 / 起伏不定 (Qǐfú bùdìng)
+* **Collocations:** **Emotional** rollercoaster; **economic** rollercoaster; **a rollercoaster of** a week; **rollercoaster** ride.
+* **Register:** Informal / Idiomatic.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I've been on an **emotional rollercoaster** since I got the job offer—one minute I'm ecstatic, and the next I'm terrified of moving."
+* **Professional/Academic:** "The stock market has been a **rollercoaster** this quarter, with prices fluctuating wildly based on the latest inflation data."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** A compound word from **roller** + **coaster**. Early versions (late 19th century) featured cars that literally coasted on rollers. The concept evolved from "Russian Mountains"—winter sledding slides popular in 17th-century Russia.
+* **Word Family:** * **Verb (Informal):** To rollercoaster (e.g., *the prices rollercoastered all day*)
+* **Semantic Map:** The mental model of a **rollercoaster** is **Loss of Control**. It represents the thrill—or the anxiety—of being strapped into a process that moves at high speed through extreme highs and lows, where you are a passenger to the momentum.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum (Figurative):**
+* **Ups and downs:** More common and less intense. A "rollercoaster" implies more speed and violence in the changes.
+* **Volatile:** A technical/scientific term for things that change rapidly (e.g., volatile chemicals or markets).
+* **Tumultuous:** Implies chaos and noise along with the change.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Rollercoaster** | The Critical Difference |
+| --- | --- | --- |
+| **Carousel** | Movement | A **carousel** (merry-go-round) goes in circles (repetition); a **rollercoaster** goes up and down (volatility). |
+| **Ferris Wheel** | Pace | A **Ferris wheel** is slow and observational; a **rollercoaster** is fast and visceral. |
+| **Yo-yo** | Control | A **yo-yo** implies a back-and-forth movement often controlled by someone; a **rollercoaster** implies a fixed track. |
+
+* **Common Learner Error:** Spelling.
+* Note that in American English, it is often written as two words (**roller coaster**) or hyphenated (**roller-coaster**), while British English and modern digital usage often prefer the single word (**rollercoaster**).
+
+
+
+Would you like me to explain the physics of how a rollercoaster maintains speed without an engine, or perhaps analyze more "amusement park" idioms?

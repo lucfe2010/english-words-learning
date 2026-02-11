@@ -2089,3 +2089,221 @@ Would you like me to show you how the word **confidant** is used in literature t
 ---
 
 Would you like me to create a timeline of a legal case to show exactly where **indicted**, **convicted**, and **sentenced** occur?
+
+# confine
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /kənˈfaɪn/ / /kənˈfaɪn/ |
+| **Word Class** | Transitive Verb, Plural Noun (Confines) |
+| **CEFR / Frequency** | B2 / Top 3000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: To keep someone or something within certain limits of space, activity, or topic.**
+* **Chinese:** 限制 / 禁闭 (Xiànzhì / Jìnbì)
+* **Collocations:** **Confine** to bed; **confine** oneself to; **be confined** to a wheelchair; **confine** the discussion to.
+* **Register:** Neutral / Formal.
+
+
+* **Sense 2 (Plural Noun): The borders or boundaries of a place.**
+* **Chinese:** 范围 / 边界 (Fànwéi / Biānjiè)
+* **Collocations:** Within the **confines** of the city; the narrow **confines** of the office.
+* **Register:** Slightly Formal.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "Please **confine** your comments to the topic at hand; we don't have time to discuss the budget right now."
+* **Professional/Academic:** "The outbreak was largely **confined** to the northern suburbs thanks to a rapid quarantine response."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Old French *confiner*, from Latin *con-* (**together**) + *finis* (**end/boundary**). Literally "to share a boundary with" or "to keep within a boundary."
+* **Word Family:** * **Noun:** Confinement (e.g., *solitary confinement*)
+* **Adjective:** Confined (e.g., *a confined space*)
+
+
+* **Semantic Map:** The mental model of **confine** is **The Invisible Wall**. It implies a restriction of movement or thought. Whether it is a physical wall (jail), a biological limit (bedridden), or a logical limit (scope of a project), the essence is the prevention of "overflow."
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Restrict:** General word for limiting something. **Confine** is more specific about keeping it *inside* a box/area.
+* **Imprison:** Specifically refers to legal or forceful detention in a jail.
+* **Circumscribe:** A formal/academic term meaning to draw a line around something or to strictly limit its power/scope.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Confine** | The Critical Difference |
+| --- | --- | --- |
+| **Limit** | Magnitude | **Limit** is often about amount (speed limit); **confine** is about space or scope. |
+| **Detain** | Duration | **Detain** usually implies a temporary hold (by police/customs); **confine** can be long-term. |
+| **Contain** | Control | **Contain** means to keep something from spreading out (e.g., containing a fire); **confine** means to keep it in a specific spot. |
+
+* **Common Learner Error: "Confined to a wheelchair"**
+* In modern inclusive language, many disability advocates prefer the term "**wheelchair user**" over "**confined to a wheelchair**." The latter implies that the chair is a prison, whereas for the user, it is a tool for mobility.
+
+
+* **Grammar Note:** **Confine** is almost always used with the preposition **to**.
+* *Example:* "The research is **confined to** urban areas."
+
+
+
+Would you like me to explain the legal implications of "confinement" in a civil rights context, or perhaps look into the "confines" of architectural design?
+
+# coaster
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈkəʊ.stər/ / /ˈkoʊ.stɚ/ |
+| **Word Class** | Countable Noun |
+| **CEFR / Frequency** | B1 / Top 4000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: A small mat or plate placed under a bottle or glass to protect the surface of a table.**
+* **Chinese:** 杯垫 (Bēidiàn)
+* **Collocations:** **Set of** coasters; **cardboard** coaster; **wooden** coaster; **put your drink on a** coaster.
+* **Register:** Neutral / Everyday.
+
+
+* **Sense 2 (Short form): A rollercoaster (amusement park ride).**
+* **Chinese:** 过山车 (Guòshānchē - 简称)
+* **Collocations:** **Coaster** enthusiast; **new** coaster; **steel** coaster.
+* **Register:** Informal / Enthusiast.
+
+
+* **Sense 3 (Nautical/Historical): A ship that sails along the coast from port to port.**
+* **Chinese:** 近海贸易船 (Jìnhǎi màoyì chuán)
+* **Register:** Technical / Historical.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "Can you use a **coaster**? I don't want the condensation from your iced tea to ruin the wood on this table."
+* **Informal (Amusement Parks):** "Cedar Point is famous for having some of the tallest and fastest **coasters** in the world."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Derived from **coast** (from Latin *costa*, meaning "rib" or "side").
+* The **drink coaster** was originally called a "bottle-coaster." In the mid-18th century, these were silver trays with wheels or smooth bottoms that allowed the wine bottle to "coast" or slide easily around the dinner table from person to person.
+
+
+* **Word Family:** * **Verb:** Coast (e.g., *the car coasted to a stop*—meaning to move without power).
+* **Noun:** Coastline.
+
+
+* **Semantic Map:** The mental model of a **coaster** is **Frictionless Protection**. Whether it’s a ship following a coastline, a tray sliding across a table, or a car moving by gravity alone, the root concept is smooth, effortless movement along a surface or edge.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Mat:** A general term for any protective covering (e.g., placemat, doormat). A **coaster** is specifically for individual drinks.
+* **Trivet:** Similar to a coaster but larger and heat-resistant, used for hot pots and pans.
+* **Sled:** In some contexts, objects that "coast" on runners.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Coaster** | The Critical Difference |
+| --- | --- | --- |
+| **Placemat** | Size | A **placemat** covers the area for a whole meal; a **coaster** is just for a glass. |
+| **Saucer** | Function | A **saucer** is part of a tea/coffee set (ceramic) and catches spills; a **coaster** protects the table from rings. |
+| **Caster** | Spelling/Object | A **caster** (or castor) is a small wheel attached to the bottom of furniture. |
+
+* **Common Learner Error: "The Coaster Effect"**
+In a social setting, asking for a "coaster" is a sign of being a considerate guest. However, in slang, a **coaster** can occasionally refer to someone who is "coasting" through life—doing the bare minimum to get by without putting in effort.
+
+Would you like me to look into the different materials used for coasters and which ones are best at absorbing moisture?
+
+# crusade 
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /kruːˈseɪd/ / /kruːˈseɪd/ |
+| **Word Class** | Countable Noun, Intransitive Verb |
+| **CEFR / Frequency** | C1 / Top 6000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1 (Historical): Any of the military expeditions made by Christian Europeans in the 11th, 12th, and 13th centuries to recover the Holy Land from the Muslims.**
+* **Chinese:** 十字军东征 (Shízìjūn dōngzhēng)
+* **Collocations:** **The First** Crusade; **the Third** Crusade; **Crusader** states.
+* **Register:** Historical / Academic.
+
+
+* **Sense 2 (Modern/Figurative): A vigorous campaign for political, social, or religious change.**
+* **Chinese:** 长期而热烈的运动 / 改革运动 (Chángqí ér rèliè de yùndòng)
+* **Collocations:** **A crusade against** corruption; **moral** crusade; **lifelong** crusade; **lead a** crusade.
+* **Register:** Neutral / Journalistic / Rhetorical.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "My aunt has started a one-woman **crusade** against the use of plastic straws in our local cafes."
+* **Professional/Academic:** "The journalist spent years on a **crusade** to expose the systemic bribery within the construction industry."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Derived from the French *croisade*, based on Latin *crux* (**cross**). It refers to the crosses worn on the clothing of those who participated in the historical Crusades.
+* **Word Family:** * **Noun (Person):** Crusader (e.g., *a human rights crusader*)
+* **Verb:** Crusade (e.g., *she crusaded for women's suffrage*)
+
+
+* **Semantic Map:** The mental model of a **crusade** is **Righteous Persistence**. Unlike a simple "campaign," a crusade implies that the person involved believes they are on the side of "good" against "evil." It suggests a high degree of moral fervor and a long-term commitment.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Campaign:** A neutral, organized effort to achieve a goal (often political or commercial).
+* **Mission:** Implies a specific task or a sense of calling, often more personal or religious.
+* **Jihad:** Often used as the Islamic counterpart in a religious context, though it has broader spiritual meanings in Arabic.
+* **Drive:** A short-term, energetic effort (e.g., "a blood drive").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Crusade** | The Critical Difference |
+| --- | --- | --- |
+| **Movement** | Scale | A **movement** involves many people; a **crusade** can be led by a single person or a small group. |
+| **Protest** | Direction | A **protest** is usually *against* something; a **crusade** is a proactive *campaign for* a change. |
+| **Quest** | Goal | A **quest** is a search for something (e.g., the Holy Grail); a **crusade** is a fight to change something. |
+
+* **Sensitivity Note:** Because of its historical origins in religious warfare, the word "crusade" can be seen as insensitive or inflammatory in certain cultural and religious contexts, particularly in the Middle East. In diplomatic or international business settings, it is often safer to use terms like **campaign**, **initiative**, or **mission**.
+
+Would you like me to dive deeper into the history of the medieval Crusades or provide synonyms that carry less historical "baggage"?

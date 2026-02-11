@@ -2398,3 +2398,324 @@ Would you like me to show you how a journalist uses **"probing questions"** duri
 ---
 
 Would you like to explore the **sociological shift** in terminology from "prostitution" to "sex work" in academic writing?
+
+# psychiatist
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /saɪˈkaɪə.trɪst/ / /saɪˈkaɪə.trɪst/ |
+| **Word Class** | Countable Noun |
+| **CEFR / Frequency** | B2 / Top 4000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: A medical doctor (MD or DO) who specializes in the diagnosis, treatment, and prevention of mental, emotional, and behavioral disorders.**
+* **Chinese:** 精神科医生 (Jīngshénkē yīshēng)
+* **Collocations:** **Consult** a psychiatrist; **refer to** a psychiatrist; **board-certified** psychiatrist; **child** psychiatrist; **forensic** psychiatrist.
+* **Register:** Professional / Clinical.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "My therapist suggested I see a **psychiatrist** to discuss whether medication might help manage my anxiety."
+* **Professional/Academic:** "The **psychiatrist** performed a clinical evaluation to differentiate between bipolar disorder and clinical depression."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Greek *psykhe* (**mind/soul**) + *iatros* (**healer**). The suffix "-iatry" denotes medical healing (as in *pediatrics* or *geriatrics*).
+* **Word Family:** * **Noun (Field):** Psychiatry
+* **Adjective:** Psychiatric (e.g., *psychiatric ward*)
+* **Adverb:** Psychiatrically
+
+
+* **Semantic Map:** The mental model of a **psychiatrist** is defined by **medical authority**. Unlike other mental health roles, the psychiatrist views mental distress through a biological and physiological lens, possessing the legal power to prescribe drugs and perform physical interventions.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Shrink:** Slang/Informal. Historically used for psychoanalysts ("head-shrinkers"), now applied broadly but often perceived as slightly dismissive or dated.
+* **Alienist:** Archaic. A 19th-century term for a doctor treating the "alienated" (mentally ill), now found only in historical literature or legal history.
+* **Psychopharmacologist:** Technical. A specialist specifically focused on how drugs affect the mind; often used when the psychiatrist’s role is strictly limited to medication management.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Psychiatrist** | The Critical Difference |
+| --- | --- | --- |
+| **Psychologist** | Doctorate (PhD/PsyD) | Focuses on psychotherapy and testing; **cannot** prescribe medication in most jurisdictions. |
+| **Therapist** | Master's/Doctorate | A broad umbrella term (LCSW, LMFT); focuses on "talk therapy" and behavioral strategies. |
+| **Neurologist** | Medical Doctor (MD) | Focuses on organic disorders of the **nervous system** (e.g., epilepsy, stroke) rather than behavioral/mental disorders. |
+
+* **Common Learner Error:** Spelling and pronunciation.
+* **Spelling:** The "p" is silent, and the "ch" is pronounced like a "k" (/k/). Learners often forget the middle "i" after the "ch."
+* **Incorrect:** *Psychatrist* or *Psycologist* (when they mean the medical doctor).
+
+
+
+Would you like me to create a comparison table of different psychiatric specialties, such as "geriatric" vs. "forensic" psychiatry?
+
+# prolonged
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /prəˈlɒŋd/ / /prəˈlɑːŋd/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | B2 / Top 3000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Continuing for a long time or longer than usual/expected.**
+* **Chinese:** 持续很久的 / 延长的 (Chíxù hěnjiǔ de / Yáncháng de)
+* **Collocations:** **Prolonged** exposure; **prolonged** illness; **prolonged** absence; **prolonged** period; **prolonged** conflict.
+* **Register:** Neutral / Academic / Formal.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "After **prolonged** negotiations with the landlord, we finally managed to get the rent lowered."
+* **Professional/Academic:** "Clinical data suggests that **prolonged** exposure to blue light before sleep can significantly disrupt circadian rhythms."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin *prolongare*. *Pro-* (**forward**) + *longus* (**long**). Literally "to extend forward in time."
+* **Word Family:** * **Verb:** Prolong (e.g., *to prolong a meeting*)
+* **Noun:** Prolongation (e.g., *the prolongation of life*)
+
+
+* **Semantic Map:** The mental model of **prolonged** is **unnatural extension**. It often implies that something has been stretched out beyond its normal boundaries, sometimes leading to exhaustion, wear and tear, or increased risk.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Extended:** A neutral term for something made longer (e.g., an "extended version" of a movie).
+* **Protracted:** Often carries a negative connotation of being *unnecessarily* long or drawn out (e.g., a "protracted legal battle").
+* **Sustained:** Focuses on the *consistency* of the duration rather than just the length (e.g., "sustained economic growth").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Prolonged** | The Critical Difference |
+| --- | --- | --- |
+| **Long** | Duration | **Long** is a general measurement; **prolonged** implies it is longer than it *ought* to be or usually is. |
+| **Chronic** | Nature of illness | **Chronic** refers to a condition that recurs or persists for a lifetime; **prolonged** describes a specific, singular duration. |
+| **Lengthy** | Subjectivity | **Lengthy** is often used for documents or speeches that feel tedious; **prolonged** is more clinical or observational. |
+
+* **Common Learner Error:** Confusing **prolonged** with **long** in physical measurements.
+* **Incorrect:** "He has prolonged legs."
+* **Correct:** "He has **long** legs." (Use "prolonged" for time/processes, not physical length).
+
+
+
+Would you like me to show you how "prolonged" is used specifically in legal or medical contexts regarding "prolonged detention" or "prolonged recovery"?
+
+# placate
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /pləˈkeɪt/ / /ˈpleɪ.keɪt/ |
+| **Word Class** | Transitive Verb |
+| **CEFR / Frequency** | C1 / Top 8000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: To make someone less angry or hostile, usually by yielding to their demands or making concessions.**
+* **Chinese:** 安抚 / 抚慰 (Ānfǔ / Fǔwèi)
+* **Collocations:** **Placate** an angry customer; **placate** the masses; **attempt to** placate; **placate** a crying child; **be easily** placated.
+* **Register:** Formal / Literary.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The restaurant manager offered us a round of free drinks to **placate** us after we had to wait an hour for our table."
+* **Professional/Academic:** "The government’s minor tax reform was seen as a desperate attempt to **placate** the protesters without addressing the root causes of their grievances."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Latin *placatus*, past participle of *placare* (**to soothe, appease, or quiet**). It is related to *placere* (to please).
+* **Word Family:** * **Noun:** Placation (the act of placating)
+* **Adjective:** Placatory (e.g., *a placatory gesture*)
+* **Adjective:** Implacable (incapable of being placated; e.g., *an implacable enemy*)
+
+
+* **Semantic Map:** The mental model of **placate** is **Feeding the Beast**. It suggests a situation where there is a "fire" of anger or a "hunger" of demand, and you provide a specific "offering" (a gift, a promise, an apology) to dampen the intensity of the emotion.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Appease:** Very similar, but often carries a negative political connotation (appeasement), implying you are giving in to a bully or an aggressor in a way that is cowardly or short-sighted.
+* **Pacify:** Focuses on restoring *order* or peace, often through force or authority (e.g., "pacifying a rebellious province").
+* **Mollify:** Focuses on softening the *temper* or "hardening" of a person's mood; it feels more emotional and gentle than the transactional nature of placating.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Placate** | The Critical Difference |
+| --- | --- | --- |
+| **Appease** | Moral/Political | **Appease** often implies a sacrifice of principles; **placate** is more about immediate conflict de-escalation. |
+| **Propitiate** | Context | **Propitiate** is specifically used in religious or ritual contexts (e.g., "to propitiate the gods"). |
+| **Console** | Intent | You **console** someone who is sad; you **placate** someone who is angry. |
+
+* **Common Learner Error:** Misunderstanding the **direction of power**. You generally placate someone who has the power to cause trouble for you (an angry boss, a crying baby, a dissatisfied voter). You don't usually "placate" someone you have absolute control over; you "quiet" or "calm" them.
+
+Would you like me to provide some "placatory" phrases often used in professional emails or customer service?
+
+# stave
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /pləˈkeɪt/ / /ˈpleɪ.keɪt/ |
+| **Word Class** | Transitive Verb |
+| **CEFR / Frequency** | C1 / Top 8000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: To make someone less angry or hostile, usually by yielding to their demands or making concessions.**
+* **Chinese:** 安抚 / 抚慰 (Ānfǔ / Fǔwèi)
+* **Collocations:** **Placate** an angry customer; **placate** the masses; **attempt to** placate; **placate** a crying child; **be easily** placated.
+* **Register:** Formal / Literary.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The restaurant manager offered us a round of free drinks to **placate** us after we had to wait an hour for our table."
+* **Professional/Academic:** "The government’s minor tax reform was seen as a desperate attempt to **placate** the protesters without addressing the root causes of their grievances."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Latin *placatus*, past participle of *placare* (**to soothe, appease, or quiet**). It is related to *placere* (to please).
+* **Word Family:** * **Noun:** Placation (the act of placating)
+* **Adjective:** Placatory (e.g., *a placatory gesture*)
+* **Adjective:** Implacable (incapable of being placated; e.g., *an implacable enemy*)
+
+
+* **Semantic Map:** The mental model of **placate** is **Feeding the Beast**. It suggests a situation where there is a "fire" of anger or a "hunger" of demand, and you provide a specific "offering" (a gift, a promise, an apology) to dampen the intensity of the emotion.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Appease:** Very similar, but often carries a negative political connotation (appeasement), implying you are giving in to a bully or an aggressor in a way that is cowardly or short-sighted.
+* **Pacify:** Focuses on restoring *order* or peace, often through force or authority (e.g., "pacifying a rebellious province").
+* **Mollify:** Focuses on softening the *temper* or "hardening" of a person's mood; it feels more emotional and gentle than the transactional nature of placating.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Placate** | The Critical Difference |
+| --- | --- | --- |
+| **Appease** | Moral/Political | **Appease** often implies a sacrifice of principles; **placate** is more about immediate conflict de-escalation. |
+| **Propitiate** | Context | **Propitiate** is specifically used in religious or ritual contexts (e.g., "to propitiate the gods"). |
+| **Console** | Intent | You **console** someone who is sad; you **placate** someone who is angry. |
+
+* **Common Learner Error:** Misunderstanding the **direction of power**. You generally placate someone who has the power to cause trouble for you (an angry boss, a crying baby, a dissatisfied voter). You don't usually "placate" someone you have absolute control over; you "quiet" or "calm" them.
+
+Would you like me to provide some "placatory" phrases often used in professional emails or customer service?
+
+# phobia
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈfəʊ.bi.ə/ / /ˈfoʊ.bi.ə/ |
+| **Word Class** | Countable Noun |
+| **CEFR / Frequency** | B2 / Top 5000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: An extreme or irrational fear of or aversion to something specific.**
+* **Chinese:** 恐惧症 (Kǒngjùzhèng)
+* **Collocations:** **Develop a** phobia; **overcome a** phobia; **specific** phobia; **social** phobia; **irrational** phobia.
+* **Register:** Neutral / Medical / Informal.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I know spiders are mostly harmless, but my **phobia** is so bad I can't even look at a picture of one."
+* **Professional/Academic:** "Cognitive behavioral therapy (CBT), specifically exposure therapy, remains the gold standard for treating specific **phobias**."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Greek *phobos* (**fear/terror**). In Greek mythology, Phobos was the personification of fear and the son of Ares (Mars).
+* **Word Family:** * **Adjective:** Phobic (e.g., *phobic avoidance*)
+* **Suffix:** -phobia (Used to create hundreds of specific terms: *Arachnophobia*, *Claustrophobia*, *Technophobia*)
+* **Noun (Person):** Phobe (usually used with a prefix, e.g., *technophobe*)
+
+
+* **Semantic Map:** The mental model of **phobia** is **Fear Out of Proportion**. Unlike a "fear" (which might be a rational response to danger), a phobia implies a psychological "malfunction" where the brain's alarm system triggers violently at a stimulus that poses little to no actual threat.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Aversion:** A strong dislike or desire to avoid something. It lacks the intense physiological panic of a phobia.
+* **Dread:** A deep, anticipatory fear. You dread a future event; you have a phobia of an object or situation.
+* **Terror:** An extreme, acute state of fear. A phobia is a *chronic predisposition* to feel terror in specific contexts.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Phobia** | The Critical Difference |
+| --- | --- | --- |
+| **Fear** | Rationality | **Fear** can be protective/rational; **phobia** is by definition irrational and life-limiting. |
+| **Anxiety** | Specificity | **Anxiety** is often generalized/vague; **phobia** is tied to a specific "trigger" (snakes, heights, etc.). |
+| **Panic Attack** | Duration | A **panic attack** is a brief episode; a **phobia** is the underlying condition that might cause one. |
+
+* **Common Learner Error:** Misusing the suffix **-phobia** in social/political contexts.
+* **Technical Phobia:** A clinical fear (e.g., *Acrophobia* = fear of heights).
+* **Social "Phobia":** Used to describe prejudice or hatred (e.g., *Xenophobia*, *Homophobia*). In these cases, it does not mean "fear" in the medical sense, but rather "intolerance" or "hostility."
+
+
+
+Would you like me to compile a list of the most common clinical phobias and their scientific names?

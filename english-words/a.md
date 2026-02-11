@@ -1447,3 +1447,143 @@ Would you like me to show you how to use the adverb form **"amply"** in a formal
 ---
 
 Would you like me to provide a list of common **idioms** using this word, such as "on no account" or "take into account"?
+
+# ailment
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈeɪl.mənt/ / /ˈeɪl.mənt/ |
+| **Word Class** | Countable Noun |
+| **CEFR / Frequency** | C1 / Top 6000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: A physical or mental disorder, especially one that is minor or chronic.**
+* **Chinese:** 小病 / 微恙 (Xiǎobìng / Wēiyàng)
+* **Collocations:** **Minor** ailment; **childhood** ailment; **common** ailment; **treat** an ailment; **suffer from** an ailment.
+* **Register:** Slightly formal / General Medical (often used for non-emergency conditions).
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "My grandmother has a few **ailments** related to her age, like stiff joints and slight hearing loss, but she's mostly doing well."
+* **Professional/Academic:** "The study focused on whether herbal remedies are effective for treating common respiratory **ailments** in rural populations."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Derived from the verb **ail** (from Old English *eglan* meaning "to trouble, plague, or afflict"). The suffix **-ment** transforms the action into the state or result of being troubled.
+* **Word Family:** * **Verb:** Ail (e.g., "What ails you?")
+* **Adjective:** Ailing (e.g., "an ailing economy" or "an ailing relative")
+
+
+* **Semantic Map:** The mental model of **ailment** is one of **persistent bother** rather than acute crisis. It suggests a condition that is "nagging" or uncomfortable, often implying it is manageable or less severe than a "disease."
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Malady:** More formal and literary; often implies a deep-seated or systemic problem (can be metaphorical, e.g., "social maladies").
+* **Affliction:** Suggests greater suffering or a more burdensome condition; often carries a tone of sympathy.
+* **Complaint:** Medical jargon for the symptom a patient *reports* (e.g., "The patient's chief complaint was a cough").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Ailment** | The Critical Difference |
+| --- | --- | --- |
+| **Disease** | Severity | **Disease** is a specific, diagnosed medical pathology; **ailment** is often more vague or minor. |
+| **Illness** | Perception | **Illness** is the *subjective experience* of feeling unwell; **ailment** is the physical condition itself. |
+| **Condition** | Duration | **Condition** is a neutral, long-term state (e.g., chronic condition); **ailment** often suggests a "nuisance" factor. |
+
+* **Common Learner Error:** Using "ailment" for life-threatening emergencies.
+* **Incorrect:** "He was rushed to the ER with a fatal ailment."
+* **Correct:** "He was rushed to the ER with a critical **injury** (or **condition**)."
+* **Correction:** Keep "ailment" for things like colds, indigestion, or chronic back pain.
+
+
+
+Would you like me to provide a list of common "minor ailments" that are typically treated with over-the-counter medications?
+
+# arithmatic
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /əˈrɪθ.mə.tɪk/ (Noun) / /ˌær.ɪθˈmet.ɪk/ (Adj) |
+| **Word Class** | Uncountable Noun, Adjective |
+| **CEFR / Frequency** | B1 / Top 3000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1 (Noun): The branch of mathematics dealing with the properties and manipulation of numbers.**
+* **Chinese:** 算术 (Suànshù)
+* **Collocations:** **Mental** arithmetic; **do** arithmetic; **basic** arithmetic.
+* **Key Operations:** Addition (), Subtraction (), Multiplication (), Division ().
+
+
+* **Sense 2 (Adjective): Relating to arithmetic.**
+* **Chinese:** 算术的 (Suànshù de)
+* **Collocations:** **Arithmetic** progression; **arithmetic** mean (average).
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I had to do some quick **mental arithmetic** to figure out if I had enough cash for the tip."
+* **Professional/Academic:** "The student struggled with algebra, but their **arithmetic** skills—adding and multiplying large figures—were flawless."
+
+---
+
+### **4. Technical Foundation**
+
+* **The Four Pillars:**
+1. **Addition:**  (Sum)
+2. **Subtraction:**  (Difference)
+3. **Multiplication:**  (Product)
+4. **Division:**  (Quotient)
+
+
+* **Arithmetic Mean:** The most common type of average, calculated by:
+
+
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Mathematics (Math/Maths):** The broad field. Arithmetic is the most basic "floor" of math.
+* **Calculation:** The *act* of finding a result using numbers.
+* **Computation:** Usually implies more complex or computer-based arithmetic.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Arithmetic** | The Critical Difference |
+| --- | --- | --- |
+| **Algebra** | Variables | **Arithmetic** uses definite numbers (); **Algebra** uses variables (). |
+| **Number Theory** | Depth | **Arithmetic** is about calculation; **Number Theory** is the study of the properties of integers. |
+| **Mathematics** | Scope | **Mathematics** includes geometry, calculus, and logic; **Arithmetic** is just number manipulation. |
+
+* **Common Learner Error: Pronunciation Shift**
+* When it is a **noun** (the subject), the stress is on the second syllable: /ə-**RITH**-me-tik/.
+* When it is an **adjective** (e.g., "arithmetic progression"), the stress is on the third syllable: /**ar**-ith-**MET**-ik/.
+
+
+
+Would you like me to explain the difference between an **arithmetic progression** and a **geometric progression**, or perhaps show you some tricks for **mental arithmetic**?

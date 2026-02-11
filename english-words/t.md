@@ -682,3 +682,143 @@ Would you like me to generate an image of a **triumphal arch** in a futuristic s
 * **The Vibe:** A *baby* is stationary or crawling; a *toddler* is a "vertical" explorer who is constantly on the move and getting into trouble.
 
 Would you like me to provide a list of common "toddler" milestones or phrases parents use during this stage?
+
+# typhoid
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈtaɪ.fɔɪd/ / /ˈtaɪ.fɔɪd/ |
+| **Word Class** | Uncountable Noun |
+| **CEFR / Frequency** | C1 / Top 8000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: An infectious bacterial fever caused by *Salmonella typhi*, typically transmitted through contaminated food or water.**
+* **Chinese:** 伤寒 (Shānghán)
+* **Collocations:** **Contract** typhoid; **typhoid** fever; **outbreak** of typhoid; **typhoid** vaccine; **carrier** of typhoid.
+* **Register:** Medical / Historical / Formal.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "Make sure to drink bottled water while traveling to avoid picking up **typhoid** or other waterborne illnesses."
+* **Professional/Academic:** "The epidemiologist traced the **typhoid** cluster back to a single asymptomatic carrier working in the local food industry."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Derived from **Typhus** + **-oid** (Greek *-oeidēs*, meaning "resembling"). It was named because the symptoms (delirium and high fever) resembled those of typhus, though they are distinct diseases.
+* **Word Family:** * **Adjective:** Typhoidal (e.g., *a typhoidal rash*)
+* **Semantic Map:** The mental model of **typhoid** is centered on **sanitation failure**. It is perceived as a "disease of civilization's plumbing," where the invisible transfer of bacteria from human waste to food or water creates a life-threatening systemic infection.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Enteric Fever:** A broader clinical term that includes both typhoid and paratyphoid fever. Used in modern medical literature to describe the systemic nature of the infection.
+* **Slow Fever:** An archaic, descriptive term used before the bacterial cause was identified.
+* **Typhoid Mary:** An eponymous idiom referring to a person who spreads something undesirable (originally Mary Mallon, an asymptomatic carrier).
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Typhoid** | The Critical Difference |
+| --- | --- | --- |
+| **Typhus** | Transmission | **Typhus** is spread by lice/fleas (Rickettsia); **Typhoid** is spread by contaminated food/water (Salmonella). |
+| **Cholera** | Primary Symptom | Both are waterborne, but **Cholera** is defined by severe, watery diarrhea and rapid dehydration; **Typhoid** is defined by high fever and abdominal pain. |
+| **Salmonellosis** | Severity | Both are caused by *Salmonella*, but general salmonellosis (food poisoning) stays in the gut; **Typhoid** enters the bloodstream. |
+
+* **Common Learner Error:** Confusing **Typhoid** with **Typhus**. Because they share the same root and were historically confused by doctors, learners often use them interchangeably. Remember: **Typhoid** = Water/Food; **Typhus** = Insects/Lice.
+
+Would you like me to explain the "Widal test" used for diagnosis, or perhaps look into the history of "Typhoid Mary" as a linguistic idiom?
+
+# tapper
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈteɪ.pər/ / /ˈteɪ.pɚ/ |
+| **Word Class** | Verb (Intransitive/Transitive), Countable Noun |
+| **CEFR / Frequency** | C1 / Top 6000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1 (Physical): To become gradually narrower toward one end.**
+* **Chinese:** 变细 / 呈锥形 (Biàn xì / Chéng zhuīxíng)
+* **Collocations:** **Tapered** legs; **taper** to a point; **gradual** taper.
+* **Register:** Neutral / Design / Engineering.
+
+
+* **Sense 2 (Action/Process): To diminish or reduce something gradually.**
+* **Chinese:** 逐渐减少 (Zhújiàn jiǎnshǎo)
+* **Collocations:** **Taper off** (phrasal verb); **taper** the dosage; **tapering** expectations.
+* **Register:** Neutral / Medical / Financial.
+
+
+* **Sense 3 (Noun): A very slender candle, or a long wick coated with wax.**
+* **Chinese:** 细蜡烛 (Xì làzhú)
+* **Collocations:** **Light a** taper; **wax** taper.
+* **Register:** Literary / Historical.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The heavy rain started to **taper off** around midnight, finally letting us get some sleep."
+* **Professional/Academic:** "Patients should never stop this medication abruptly; instead, they must **taper** the dose over several weeks to avoid withdrawal symptoms."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Old English *taper* (candle). The verb sense developed because candles are often narrower at the top than the base.
+* **Word Family:** * **Verb:** Taper (e.g., *to taper off*)
+* **Adjective:** Tapered (e.g., *tapered jeans*)
+
+
+* **Semantic Map:** The mental model of **taper** is **The Cone Shape**. Whether physical or metaphorical, it represents a smooth, controlled transition from "more" to "less." It is the opposite of a "cliff" or a "sudden stop."
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Dwindle:** Implies a shrinking that feels like wasting away or becoming weak (e.g., "dwindling resources").
+* **Recede:** To move back or away from a limit (e.g., "receding hairline").
+* **Subside:** Used for things that become less intense or quiet down (e.g., "the storm subsided").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Taper** | The Critical Difference |
+| --- | --- | --- |
+| **Decrease** | Style | **Decrease** is general; **taper** implies a *gradual* and *shaped* decrease. |
+| **Narrow** | Focus | **Narrow** usually refers to width; **taper** implies the process of *becoming* narrower toward a point. |
+| **Fade** | Senses | **Fade** is for light, sound, or color; **taper** is for physical shape or quantity. |
+
+* **Specialized Use: "The Taper" (Sports & Finance)**
+* **Sports:** Athletes "taper" their training (reduce volume) in the days before a big race to ensure they are fully recovered.
+* **Finance (Quantitative Easing):** Central banks "taper" their bond-buying programs when they want to slow down economic stimulus without causing a market panic.
+
+
+* **Common Learner Error:** Forgetting the "off" in phrasal usage.
+* **Incorrect:** "The traffic began to taper."
+* **Correct:** "The traffic began to **taper off**." (Use "taper off" for activities or intensity; use "taper" alone for physical objects).
+
+
+
+Would you like me to explain the specific medical "tapering schedule" for common medications or perhaps the engineering utility of "tapered threads"?

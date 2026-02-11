@@ -604,3 +604,75 @@ Would you like me to generate a list of **common architectural terms** related t
 ---
 
 Would you like me to write a paragraph comparing "enduring" with "ephemeral" to show how they function as opposites in a literary context?
+
+# endeavour
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ɪnˈdev.ər/ / /ɪnˈdev.ɚ/ |
+| **Word Class** | Intransitive Verb, Countable/Uncountable Noun |
+| **CEFR / Frequency** | C1 / Top 4000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: An earnest, prolonged, and industrious effort to achieve a goal.**
+* **Chinese:** 努力 / 尝试 (Nǔlì / Chángshì)
+* **Collocations:** **Scientific** endeavour; **artistic** endeavour; **joint** endeavour; **praiseworthy** endeavour; **human** endeavour.
+* **Register:** Formal / Academic / Literary.
+
+
+* **Sense 2 (Verb): To try hard to do or achieve something.**
+* **Chinese:** 竭力 / 尽力 (Jiélì / Jìnlì)
+* **Collocations:** **Endeavour to** satisfy; **endeavour to** provide; **endeavour to** explain.
+* **Register:** Formal / Official.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** (Rarely used in casual speech; usually replaced by "try"). "I will **endeavour** to get the report to you by the end of the day, though I have a few meetings."
+* **Professional/Academic:** "The exploration of Mars represents the pinnacle of modern scientific **endeavour**, requiring unprecedented international cooperation."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Middle English *endevour*, from the phrase *put oneself in deveir* (to do one's duty). Derived from Old French *devoir* (**duty/debt**).
+* **Word Family:** * **Noun:** Endeavour (same form)
+* **Verb:** Endeavour (same form)
+
+
+* **Semantic Map:** The mental model of **endeavour** is **Duty + Labor**. Unlike a simple "attempt," an endeavour implies a sense of responsibility or a higher calling. It suggests a journey or a large-scale project that requires grit and persistence over a long period.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Attempt:** A neutral, general term. An attempt can be brief or half-hearted; an **endeavour** is always serious.
+* **Undertaking:** Refers to a specific task or piece of work, often a large one. An **endeavour** is the *effort* within that undertaking.
+* **Enterprise:** Focuses on the organized, often commercial or adventurous nature of a project (e.g., a "business enterprise").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Endeavour** | The Critical Difference |
+| --- | --- | --- |
+| **Effort** | Scope | **Effort** is the energy spent; **endeavour** is the sustained, organized application of that energy toward a goal. |
+| **Strive** | Verb usage | **Strive** focuses on the *struggle* or conflict; **endeavour** focuses on the *process* and duty. |
+| **Venture** | Risk | A **venture** implies a gamble or financial risk; an **endeavour** implies hard work. |
+
+* **Common Learner Error:** Preposition and Grammar.
+* **Error:** "He endeavoured on winning."
+* **Correction:** "He **endeavoured to** win." (The verb is almost always followed by an infinitive, not a prepositional phrase with a gerund).
+* **Spelling:** Remember the British English spelling (**Endeavour**) vs. American English (**Endeavor**).
+
+
+
+Would you like me to show you how "endeavour" is used in formal legal contracts versus its use in historical exploration journals?

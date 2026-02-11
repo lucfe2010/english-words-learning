@@ -872,3 +872,75 @@ Would you like me to generate a **comparison table of different fabric types** (
 * **The Vibe:** *Forensic* always implies that the results are headed toward a courtroom or a formal judgment. It is cold, objective, and highly detailed.
 
 Would you like me to list the different branches of forensic science, such as toxicology, entomology, and ballistics?
+
+# fatal
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈfeɪ.təl/ / /ˈfeɪ.t̬əl/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | B2 / Top 2500 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Causing or leading inevitably to death.**
+* **Chinese:** 致命的 (Zhìmìng de)
+* **Collocations:** **Fatal** accident; **fatal** blow; **fatal** dose; **prove** fatal; **fatal** injuries.
+* **Register:** General / Medical / Legal.
+
+
+* **Sense 2: Leading to failure, disaster, or ruin (metaphorical death).**
+* **Chinese:** 毁灭性的 / 严重的 (Huǐmiè xìng de)
+* **Collocations:** **Fatal** flaw; **fatal** error; **fatal** weakness; **fatal** mistake.
+* **Register:** Academic / Professional / Literary.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The police confirmed that the car crash was **fatal**, though the names of the victims haven't been released yet."
+* **Professional/Academic:** "The CEO’s inability to adapt to the digital market proved to be a **fatal** flaw in the company's long-term strategy."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin *fatalis* ("ordained by fate"). Derived from *fatum* (**fate/destiny**). Originally, it meant "decreed by the Fates," implying something that *must* happen.
+* **Word Family:** * **Noun:** Fatality (e.g., *five fatalities reported*)
+* **Adverb:** Fatally (e.g., *fatally injured*)
+* **Noun (Philosophy):** Fatalism (belief that all events are predetermined)
+
+
+* **Semantic Map:** The mental model of **fatal** is the **Point of No Return**. Whether referring to a biological body or a business plan, the word suggests an event or characteristic that triggers an irreversible process of destruction.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Lethal:** Used for things *designed* or *capable* of killing (e.g., lethal weapon, lethal injection). Focuses on the **potency**.
+* **Mortal:** Often used for wounds or the human condition (e.g., mortal coil, mortal wound). Focuses on the **subject's vulnerability**.
+* **Deadly:** The most common/generic term. Can apply to things that *could* kill (e.g., deadly snake), whereas **fatal** usually describes an outcome that *did* or *will* kill.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Fatal** | The Critical Difference |
+| --- | --- | --- |
+| **Lethal** | Outcome vs. Potential | **Fatal** implies death occurred; **lethal** implies the capacity to kill. |
+| **Deadly** | Scope | **Deadly** can describe a habit or person; **fatal** is strictly about the finality of an event. |
+| **Terminal** | Speed/Nature | **Terminal** refers to a slow, incurable progression (e.g., terminal cancer); **fatal** often implies a sudden event. |
+
+* **Common Learner Error:** Confusing **Fatal** with **Fateful**.
+* **Fatal** means "leading to death/disaster."
+* **Fateful** means "having great, often negative, significance for the future" (e.g., "a fateful decision"). A fateful meeting isn't necessarily a fatal one.
+
+
+
+Would you like me to clarify the legal distinction between "fatal negligence" and "manslaughter"?

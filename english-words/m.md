@@ -915,3 +915,148 @@ Would you like to see a comparison of how **"molest"** is used in modern wildlif
 ---
 
 Would you like me to analyze the opening paragraph of a famous **memoir** to show how it differs in tone from a standard biography?
+
+# malaria
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /məˈleə.ri.ə/ / /məˈler.i.ə/ |
+| **Word Class** | Uncountable Noun |
+| **CEFR / Frequency** | B2 / Top 5000 words (High frequency in Global Health contexts) |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: An intermittent and remittent fever caused by a protozoan parasite (Plasmodium) which invades the red blood cells.**
+* **Chinese:** 疟疾 (Nüèjí)
+* **Collocations:** **Contract** malaria; **transmit** malaria; **eradicate** malaria; **drug-resistant** malaria; **cerebral** malaria.
+* **Register:** Medical / Academic / General.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "Before traveling to certain parts of sub-Saharan Africa, you really need to take your **malaria** pills every day."
+* **Professional/Academic:** "The WHO reported a significant decrease in **malaria** mortality rates following the widespread distribution of insecticide-treated bed nets."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Italian *mala aria* -> "**bad air**." Historically, it was believed the disease was caused by the "miasma" or foul air rising from swamps and marshes.
+* **Word Family:** * **Adjective:** Malarial (e.g., *malarial symptoms*)
+* **Noun/Agent:** Antimalarial (referring to drugs like quinine or artemisinin)
+
+
+* **Semantic Map:** The mental model of **malaria** is centered on a **vector-host cycle**. It implies a biological "hijacking" where a parasite (not a virus or bacteria) uses a mosquito as a taxi to enter the human bloodstream and destroy red blood cells.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Plasmodium infection:** Used in laboratory or research settings to specify the exact parasite genus.
+* **The Ague:** An archaic term once used to describe the violent shivering and fever fits associated with the disease.
+* **Marsh Fever:** A historical/geographic term highlighting the environmental conditions where the disease was prevalent.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Malaria** | The Critical Difference |
+| --- | --- | --- |
+| **Dengue** | Viral Vector | Both are mosquito-borne, but Dengue is viral and often called "breakbone fever" due to extreme muscle/joint pain. |
+| **Typhoid** | Bacterial Waterborne | Typhoid is caused by contaminated food/water (Salmonella Typhi), not mosquito bites. |
+| **Yellow Fever** | Viral Vector | Also mosquito-borne, but Yellow Fever is viral and can be prevented by a single vaccine; malaria requires prophylaxis. |
+
+* **Common Learner Error:** Confusing the **cause** with the **vector**.
+* **Incorrect:** "The mosquito is the malaria."
+* **Correct:** "The mosquito **transmits** malaria." (The mosquito is the vector; the *Plasmodium* parasite is the cause).
+
+
+
+Would you like me to generate a visual representation of the malaria transmission cycle or perhaps analyze a related term like "prophylaxis"?
+
+# mutual
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈmjuː.tʃu.əl/ / /ˈmjuː.tʃu.əl/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | B2 / Top 2000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Shared by two or more people; held in common.**
+* **Chinese:** 共同的 / 共有 (Gòngtóng de / Gòngyǒu)
+* **Collocations:** **Mutual** friend; **mutual** respect; **mutual** interest; **mutual** understanding.
+* **Register:** Neutral / General.
+
+
+* **Sense 2: Experienced or done by each of two or more parties toward the other.**
+* **Chinese:** 相互的 / 彼此 (Xiānghù de / Bǐcǐ)
+* **Collocations:** **Mutual** aid; **mutual** suspicion; **mutual** benefit.
+* **Register:** Formal / Professional.
+
+
+* **Sense 3 (Finance/Business): A firm owned by its members or policyholders rather than shareholders.**
+* **Chinese:** 互助型的 (Hùzhù xíng de)
+* **Collocations:** **Mutual** fund; **mutual** insurance company; **mutual** savings bank.
+* **Register:** Technical / Finance.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "We didn't actually know each other in college, but we realized we have several **mutual** friends on social media."
+* **Professional/Academic:** "The partnership was dissolved by **mutual** agreement, as both companies felt their strategic goals had diverged."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Old French *mutuel*, from Latin *mutuus* (**borrowed / reciprocal**), from *mutare* (**to change**). The core idea is an "exchange" or "trading" of feelings or status.
+* **Word Family:** * **Adverb:** Mutually (e.g., *mutually exclusive*)
+* **Noun:** Mutuality (the quality of being mutual)
+
+
+* **Semantic Map:** The mental model of **mutual** is a **Two-Way Bridge**. It describes a connection where the direction of energy or ownership goes both ways. In biology, this is represented by **mutualism**, where both species benefit from an interaction.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Reciprocal:** Highly formal. Focuses on the "back-and-forth" action (e.g., "a reciprocal invitation").
+* **Joint:** Focuses on combined effort or shared ownership (e.g., "a joint bank account").
+* **Common:** Implies something shared by a larger group (e.g., "common goals").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Mutual** | The Critical Difference |
+| --- | --- | --- |
+| **Reciprocal** | Complexity | **Mutual** is often a state of feeling; **reciprocal** is often an exchange of actions. |
+| **Common** | Direction | A **common** enemy is someone *everyone* hates; **mutual** hate is when two people hate *each other*. |
+| **Bilateral** | Structure | **Bilateral** is used for formal agreements between two nations/entities. |
+
+* **Common Learner Error: "Mutual friend" vs. "Common friend"**
+* While "common friend" is technically understandable, "**mutual friend**" is the standard idiomatic expression in English. "Common" can sometimes imply "ordinary" or "low-class," so "mutual" is the safer, more polite choice.
+
+
+* **Logic Note: "Mutually Exclusive"**
+* This is a critical phrase in logic and statistics. If two events are **mutually exclusive**, they cannot both happen at the same time (e.g., a coin landing on both heads and tails).
+
+
+
+Would you like me to explain how a **Mutual Fund** works in finance, or perhaps look at the biological concept of **Mutualism** vs. Parasitism?

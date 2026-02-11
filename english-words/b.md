@@ -1371,3 +1371,81 @@ Would you like me to generate an image of a **classic 18th-century ballroom** wi
 ---
 
 Would you like me to help you analyze a recent news event to see if the public reaction qualifies as a **backlash** or just standard criticism?
+
+# blunt
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /blʌnt/ / /blʌnt/ |
+| **Word Class** | Adjective, Transitive Verb |
+| **CEFR / Frequency** | B2 / Top 3500 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1 (Physical): Having a worn-down edge or point; not sharp.**
+* **Chinese:** 钝的 (Dùn de)
+* **Collocations:** **Blunt** knife; **blunt** pencil; **blunt** instrument; **blunt** object.
+* **Register:** Neutral.
+
+
+* **Sense 2 (Communication): Characterized by directness in speech, often to the point of being rude or insensitive.**
+* **Chinese:** 直率的 / 露骨的 (Zhíshuài de / Lùgǔ de)
+* **Collocations:** **Blunt** refusal; **blunt** assessment; **be brutally** blunt; **blunt** manner.
+* **Register:** Neutral / Informal.
+
+
+* **Sense 3 (Verb): To make something less sharp or less effective.**
+* **Chinese:** 使变钝 / 减弱 (Shǐ biàn dùn / Jiǎnruò)
+* **Collocations:** **Blunt** the impact; **blunt** the pain; **blunt** the edge of.
+* **Register:** Neutral / Academic.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I'll be **blunt** with you: if you don't start studying now, you're going to fail the final exam."
+* **Professional/Academic:** "The coroner concluded that the trauma was caused by a **blunt** force injury, likely from a heavy, flat object rather than a blade."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Origin uncertain; possibly from Middle English *blunt* (dull, stupid), perhaps related to Old Norse *blunda* (**to shut one's eyes**).
+* **Word Family:** * **Noun:** Bluntness (e.g., *his characteristic bluntness*)
+* **Adverb:** Bluntly (e.g., *she stated it bluntly*)
+
+
+* **Semantic Map:** The mental model of **blunt** is **Impact without Finesse**. Physically, a blunt tool hits with surface area rather than a focused edge. Socially, a blunt person speaks with the raw "surface" of the truth, omitting the "sharpened" nuance of politeness or tact.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum (Communication):**
+* **Candid:** Positive. Implies honest and sincere openness (e.g., "a candid discussion").
+* **Frank:** Neutral. Implies straightforwardness without necessarily intending to hurt.
+* **Abrupt:** Focuses on the *suddenness* and brevity of the speech, often appearing rude.
+* **Brusque:** Specifically implies a discourteous or offhand "shortness" in manner.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Blunt** | The Critical Difference |
+| --- | --- | --- |
+| **Dull** | Context | **Dull** often refers to a lack of light or intelligence; **blunt** specifically refers to an edge or a style of speech. |
+| **Direct** | Intent | You can be **direct** and polite; being **blunt** usually implies a lack of social "softening." |
+| **Obtuse** | Geometry/Mind | **Obtuse** means "slow to understand" or an angle > 90°; **blunt** means "direct in speaking." |
+
+* **Common Learner Error:** Confusing **Blunt** with **Blind**.
+* **Incorrect:** "The knife is blind."
+* **Correct:** "The knife is **blunt**." (In some languages, the same word is used for both; in English, they are strictly separate).
+
+
+
+Would you like me to explain the forensic distinction between "blunt force" and "sharp force" trauma, or perhaps provide some "softened" alternatives to blunt phrases for business settings?

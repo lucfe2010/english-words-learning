@@ -314,3 +314,136 @@ Would you like me to show you how to use "notoriously" to describe common travel
 ---
 
 Would you like me to analyze how the concept of an "Ecological Niche" works in biology to see how the word applies to science?
+
+# neurosyphilis
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˌnjʊə.rəʊˈsɪf.ɪ.lɪs/ / /ˌnʊr.oʊˈsɪf.ə.lɪs/ |
+| **Word Class** | Uncountable Noun |
+| **CEFR / Frequency** | C2 (Specialized Medical) |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: An infection of the central nervous system (brain and spinal cord) caused by the bacterium *Treponema pallidum*, occurring as a complication of late-stage or untreated syphilis.**
+* **Chinese:** 神经梅毒 (Shénjīng méidú)
+* **Collocations:** **Asymptomatic** neurosyphilis; **develop** neurosyphilis; **meningovascular** neurosyphilis; **paretic** neurosyphilis; **diagnose via** lumbar puncture.
+* **Register:** Technical / Clinical.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "He started showing signs of dementia and personality changes, which the doctors later discovered were actually caused by **neurosyphilis** from an infection decades ago."
+* **Professional/Academic:** "The patient presented with Argyll Robertson pupils and ataxia, classic clinical markers for tabetic **neurosyphilis**."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Prefix **neuro-** (Greek *neuron* for nerve) + **syphilis** (from the 1530 poem).
+* **Word Family:** * **Noun:** Syphilis
+* **Adjective:** Neurosyphilitic (e.g., *neurosyphilitic dementia*)
+
+
+* **Semantic Map:** The mental model is one of **invasion and latency**. It represents the "final frontier" of the infection where the bacteria breach the blood-brain barrier. It implies a transition from a dermatological/systemic disease to a permanent neurological or psychiatric condition.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **General Paresis:** Specifically refers to the late-stage psychiatric and cognitive decline (dementia) caused by the infection.
+* **Tabes Dorsalis:** Specifically refers to the "wasting" of the spinal cord's dorsal columns, resulting in a characteristic loss of coordination and "slapping" gait.
+* **Lues Nervosa:** An older, Latinate medical term for the same condition.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Neurosyphilis** | The Critical Difference |
+| --- | --- | --- |
+| **Meningitis** | General Inflammation | Neurosyphilis *can* cause meningitis, but "meningitis" is a general state caused by many pathogens (viral/bacterial). |
+| **Dementia** | Symptom/Syndrome | Neurosyphilis is a *cause* of dementia; most dementia (like Alzheimer’s) is neurodegenerative, not infectious. |
+| **Multiple Sclerosis** | Autoimmune | MS involves the immune system attacking myelin; neurosyphilis is an active bacterial destruction of tissue. |
+
+* **Common Learner Error:** Misunderstanding the **timeline**. Learners often assume this is a separate disease from syphilis. In reality, it is a clinical *progression*. It can occur at any stage (even early), but is most famously associated with the "Tertiary" (late) stage.
+
+Would you like me to explain the specific diagnostic tests for this, such as the VDRL or RPR tests used on spinal fluid?
+
+# nusances
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈnjuː.səns.ɪz/ / /ˈnuː.səns.ɪz/ |
+| **Word Class** | Countable Noun (Plural) |
+| **CEFR / Frequency** | B2 / Top 5000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Persons, things, or situations that cause inconvenience or annoyance.**
+* **Chinese:** 令人讨厌的人或事 / 麻烦事 (Lìng rén tǎoyàn de rén huò shì)
+* **Collocations:** **Minor** nuisances; **daily** nuisances; **be a** nuisance; **public** nuisance; **commit a** nuisance.
+* **Register:** Neutral / General.
+
+
+* **Sense 2 (Legal): An act or condition that interferes with the use or enjoyment of property or harms the health/safety of the public.**
+* **Chinese:** 妨害行为 (Fánghài xíngwéi)
+* **Collocations:** **Private** nuisance; **abatement of** nuisances; **sue for** nuisance; **noise** nuisance.
+* **Register:** Technical / Legal.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "Mosquitoes and slow internet are the two biggest **nuisances** when you're trying to work from a beach house."
+* **Professional/Academic:** "The city council implemented stricter bylaws to address the growing **nuisances** caused by late-night construction and illegal dumping."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Old French *nuisance* (**harm/damage**), derived from the verb *nuire* (**to hurt**), from Latin *nocere* (**to harm**). Originally, it referred to actual physical harm before softening to mean "annoyance."
+* **Word Family:** * **Adjective:** Nuisance (rarely used as a modifier: e.g., *a nuisance call*)
+* **Verb:** (None directly related; use "annoy" or "bother")
+
+
+* **Semantic Map:** The mental model of **nuisances** is **Friction in the System**. It represents things that don't necessarily stop a process entirely but make it irritating, difficult, or unpleasant to continue. It occupies the space between "triviality" and "disaster."
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Annoyances:** Focuses on the internal emotional reaction of the person bothered.
+* **Inconveniences:** Focuses on the external disruption of plans or logistics (e.g., "The flight delay was a major inconvenience").
+* **Pests:** Specifically used for biological nuisances (insects, rodents) or metaphorically for persistent, bothering people.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Nuisances** | The Critical Difference |
+| --- | --- | --- |
+| **Hassles** | Informality | **Hassles** are active, complex problems requiring effort to fix; **nuisances** are often passive annoyances. |
+| **Harassment** | Severity | **Harassment** is targeted, intentional, and often illegal; **nuisance** is often unintentional or incidental. |
+| **Obstacles** | Impact | An **obstacle** stops you from moving forward; a **nuisance** just makes the journey annoying. |
+
+* **Common Learner Error:** Countability and Article use.
+* **Incorrect:** "It’s such a nuisance!" (Often missed by learners who think of it as an abstract feeling).
+* **Correct:** "What a **nuisance**!" or "These are minor **nuisances**."
+* **Correction:** Remember that "nuisance" is countable. You can have one nuisance or many nuisances.
+
+
+
+Would you like me to elaborate on the legal "Public Nuisance" doctrine or provide more examples of "nuisance calls" and how to handle them?

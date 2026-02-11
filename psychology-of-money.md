@@ -340,3 +340,107 @@ Having more control over your time and options is becoming one of the most valua
 That’s why more people can, and more people should, save money.
 
 You know what else they should do? Stop trying to be so rational. Let me tell you why.
+
+# 11. reasonable rational
+
+You’re not a spreadsheet. You’re a person. A screwed up, emotional person.
+
+It took me a while to figure this out, but once it clicked I realized it’s one of the most important parts of finance.
+
+With it comes something that often goes overlooked: Do not aim to be coldly rational when making financial decisions. Aim to just be pretty reasonable. Reasonable is more realistic and you have a better chance of sticking with it for the long run, which is what matters most when managing money.
+
+To show you what I mean, let me tell you the story of a guy who tried to cure syphilis with malaria.
+
+Julius Wagner-Jauregg was a 19th-century psychiatrist with two unique skills: He was good at recognizing patterns, and what others saw as “crazy” he found merely “bold.”
+
+His specialty was patients with severe neurosyphilis—then a fatal diagnosis with no known treatment. He began noticing a pattern: syphilis patients tended to recover if they had the added misfortune of having prolonged fevers from an unrelated ailment.
+
+Wagner-Jauregg assumed this was due to a hunch that had been around for centuries but doctors didn’t understand well: fevers play a role in helping the body fight infection.
+
+So he jumped to the logical conclusion.
+
+In the early 1900s Wagner-Jauregg began injecting patients with low-end strains of typhoid, malaria, and smallpox to trigger fevers strong enough to kill off their syphilis. This was as dangerous as it sounds. Some of his patients died from the treatment. He eventually settled on a weak version of malaria, since it could be effectively countered with quinine after a few days of bone-rattling fevers.
+
+After some tragic trial and error his experiment worked. Wagner-Jauregg reported that 6 in 10 syphilis patients treated with “malariotherapy” recovered, compared to around 3 in 10 patients left alone. He won the Nobel Prize in medicine in 1927. The organization today notes: “The main work that concerned Wagner-Jauregg throughout his working life was the endeavour to cure mental disease by inducing a fever.”33
+
+Penicillin eventually made malariotherapy for syphilis patients obsolete, thank goodness. But Wagner-Jauregg is one of the only doctors in history who not only recognized fever’s role in fighting infection, but also prescribed it as a treatment.
+
+Fevers have always been as feared as they are mysterious. Ancient Romans worshiped Febris, the Goddess who protected people from fevers. Amulets were left at temples to placate her, hoping to stave off the next round of shivers.
+
+But Wagner-Jauregg was onto something. Fevers are not accidental nuisances. They do play a role in the body’s road to recovery. We now have better, more scientific evidence of fever’s usefulness in fighting infection. A one-degree increase in body temperature has been shown to slow the replication rate of some viruses by a factor of 200. “Numerous investigators have identified a better outcome among patients who displayed fever,” one NIH paper writes.34 The Seattle Children’s Hospital includes a section on its website to educate parents who may panic at the slightest rise in their child’s temperature: “Fevers turn on the body’s immune system. They help the body fight infection. Normal fevers between 100° and 104° f are good for sick children.”35
+
+But that’s where the science ends and reality takes over.
+
+Fever is almost universally seen as a bad thing. They’re treated with drugs like Tylenol to reduce them as quickly as they appear. Despite millions of years of evolution as a defense mechanism, no parent, no patient, few doctors, and certainly no drug company views fever as anything but a misfortune that should be eliminated.
+
+These views do not match the known science. One study was blunt: “Treatment of fever is common in the ICU setting and likely related to standard dogma rather than evidence-based practice.”36 Howard Markel, director of the Center for the History of Medicine, once said of fever phobia: “These are cultural practices that spread just as widely as the infectious diseases that are behind them.”37
+
+Why does this happen? If fevers are beneficial, why do we fight them so universally?
+
+I don’t think it’s complicated: Fevers hurt. And people don’t want to hurt.
+
+That’s it.
+
+A doctor’s goal is not just to cure disease. It’s to cure disease within the confines of what’s reasonable and tolerable to the patient. Fevers can have marginal benefits in fighting infection, but they hurt. And I go to the doctor to stop hurting. I don’t care about double-blind studies when I’m shivering under a blanket. If you have a pill that can make a fever stop, give it to me now.
+
+It may be rational to want a fever if you have an infection. But it’s not reasonable.
+
+That philosophy—aiming to be reasonable instead of rational—is one more people should consider when making decisions with their money.
+
+Academic finance is devoted to finding the mathematically optimal investment strategies. My own theory is that, in the real world, people do not want the mathematically optimal strategy. They want the strategy that maximizes for how well they sleep at night.
+
+Harry Markowitz won the Nobel Prize for exploring the mathematical tradeoff between risk and return. He was once asked how he invested his own money, and described his portfolio allocation in the 1950s, when his models were first developed:
+
+I visualized my grief if the stock market went way up and I wasn’t in it—or if it went way down and I was completely in it. My intention was to minimize my future regret. So I split my contributions 50/50 between bonds and equities.
+
+Markowitz eventually changed his investment strategy, diversifying the mix. But two things here are important.
+
+One is that “minimizing future regret” is hard to rationalize on paper but easy to justify in real life. A rational investor makes decisions based on numeric facts. A reasonable investor makes them in a conference room surrounded by co-workers you want to think highly of you, with a spouse you don’t want to let down, or judged against the silly but realistic competitors that are your brother-in-law, your neighbor, and your own personal doubts. Investing has a social component that’s often ignored when viewed through a strictly financial lens.
+
+The second is that this is fine. Jason Zweig, who conducted the interview when Markowitz described how he invested, later reflected:
+
+My own view is that people are neither rational nor irrational. We are human. We don’t like to think harder than we need to, and we have unceasing demands on our attention. Seen in that light, there’s nothing surprising about the fact that the pioneer of modern portfolio theory built his initial portfolio with so little regard for his own research. Nor is it surprising that he adjusted it later.38
+
+Markowitz is neither rational or irrational. He’s reasonable.
+
+What’s often overlooked in finance is that something can be technically true but contextually nonsense.
+
+In 2008 a pair of researchers from Yale published a study arguing young savers should supercharge their retirement accounts using two-to-one margin (two dollars of debt for every dollar of their own money) when buying stocks. It suggests investors taper that leverage as they age, which lets a saver take more risk when they’re young and can handle a magnified market rollercoaster, and less when they’re older.
+
+Even if using leverage left you wiped out when you were young (if you use two-to-one margin a 50% market drop leaves you with nothing) the researchers showed savers would still be better off in the long run so long as they picked themselves back up, followed the plan, and kept saving in a two-to-one leveraged account the day after being wiped out.
+
+The math works on paper. It’s a rational strategy.
+
+But it’s almost absurdly unreasonable.
+
+No normal person could watch 100% of their retirement account evaporate and be so unfazed that they carry on with the strategy undeterred. They’d quit, look for a different option, and perhaps sue their financial advisor.
+
+The researchers argued that when using their strategy “the expected retirement wealth is 90% higher compared to life-cycle funds.” It is also 100% less reasonable.
+
+There is, in fact, a rational reason to favor what look like irrational decisions.
+
+Here’s one: Let me suggest that you love your investments.
+
+This is not traditional advice. It’s almost a badge of honor for investors to claim they’re emotionless about their investments, because it seems rational.
+
+But if lacking emotions about your strategy or the stocks you own increases the odds you’ll walk away from them when they become difficult, what looks like rational thinking becomes a liability. The reasonable investors who love their technically imperfect strategies have an edge, because they’re more likely to stick with those strategies.
+
+There are few financial variables more correlated to performance than commitment to a strategy during its lean years—both the amount of performance and the odds of capturing it over a given period of time. The historical odds of making money in U.S. markets are 50/50 over one-day periods, 68% in one-year periods, 88% in 10-year periods, and (so far) 100% in 20-year periods. Anything that keeps you in the game has a quantifiable advantage.
+
+If you view “do what you love” as a guide to a happier life, it sounds like empty fortune cookie advice. If you view it as the thing providing the endurance necessary to put the quantifiable odds of success in your favor, you realize it should be the most important part of any financial strategy.
+
+Invest in a promising company you don’t care about, and you might enjoy it when everything’s going well. But when the tide inevitably turns you’re suddenly losing money on something you’re not interested in. It’s a double burden, and the path of least resistance is to move onto something else. If you’re passionate about the company to begin with—you love the mission, the product, the team, the science, whatever—the inevitable down times when you’re losing money or the company needs help are blunted by the fact that at least you feel like you’re part of something meaningful. That can be the necessary motivation that prevents you from giving up and moving on.
+
+There are several other times when it’s fine to be reasonable instead of rational with money.
+
+There’s a well-documented “home bias,” where people prefer to invest in companies from the country they live in while ignoring the other 95%+ of the planet. It’s not rational, until you consider that investing is effectively giving money to strangers. If familiarity helps you take the leap of faith required to remain backing those strangers, it’s reasonable.
+
+Day trading and picking individual stocks is not rational for most investors—the odds are heavily against your success. But they’re both reasonable in small amounts if they scratch an itch hard enough to leave the rest of your more diversified investments alone. Investor Josh Brown, who advocates and mostly owns diversified funds, once explained why he also owns a smattering of individual stocks: “I’m not buying individual stocks because I think I’m going to generate alpha [outperformance]. I just love stocks and have ever since I was 20 years old. And it’s my money, I get to do whatever.” Quite reasonable.
+
+Most forecasts about where the economy and the stock market are heading next are terrible, but making forecasts is reasonable. It’s hard to wake up in the morning telling yourself you have no clue what the future holds, even if it’s true. Acting on investment forecasts is dangerous. But I get why people try to predict what will happen next year. It’s human nature. It’s reasonable.
+
+Jack Bogle, the late founder of Vanguard, spent his career on a crusade to promote low-cost passive index investing. Many thought it interesting that his son found a career as an active, high-fee hedge fund and mutual fund manager. Bogle—the man who said high-fee funds violate “the humble rules of arithmetic”—invested some of his own money in his son’s funds. What’s the explanation?
+
+“We do some things for family reasons,” Bogle told The Wall Street Journal. “If it’s not consistent, well, life isn’t always consistent.”39
+
+Indeed, it rarely is.

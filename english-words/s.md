@@ -2677,3 +2677,287 @@ Would you like me to show you a side-by-side comparison of a **factual headline*
 ---
 
 Would you like me to explain the difference between a **civil subpoena** and a **criminal subpoena**?
+
+# syphilis
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈsɪf.ɪ.lɪs/ |
+| **Word Class** | Uncountable Noun |
+| **CEFR / Frequency** | C2 (Technical/Medical) |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: A chronic bacterial infection primarily spread by sexual contact.**
+* **Chinese:** 梅毒 (Méidú)
+* **Collocations:** **Contract** syphilis; **diagnose** syphilis; **congenital** syphilis; **latent** syphilis; **primary/secondary/tertiary** syphilis.
+* **Register:** Technical / Medical / Formal.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The doctor ordered a full STI panel, including a test for **syphilis**, after he noticed a small painless sore."
+* **Professional/Academic:** "The historical resurgence of **syphilis** in urban populations suggests a need for more robust public health screening and penicillin distribution."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Neo-Latin. Named after *Syphilus*, the protagonist of the 1530 poem *Syphilis sive Morbus Gallicus* by Girolamo Fracastoro. The character was a shepherd punished by Apollo with a "foul disease."
+* **Word Family:** * **Adjective:** Syphilitic (e.g., *a syphilitic lesion*)
+* **Noun (Person):** Syphilitic (archaic/offensive; now "patient with syphilis")
+
+
+* **Semantic Map:** The mental model of **syphilis** involves a multi-stage progression: beginning with a localized entry point (chancre), moving to a systemic "great imitator" phase (rash/fever), and ending in potential neurological or cardiovascular destruction if untreated.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Treponema pallidum:** Used in strictly clinical or microbiological contexts to refer to the causative agent itself rather than the clinical syndrome.
+* **Lues:** An older medical term (Latin for "plague") still occasionally used in medical records to avoid the stigma associated with the word "syphilis."
+* **The Great Imitator:** A common medical moniker used because syphilis symptoms often mimic many other diseases.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Syphilis** | The Critical Difference |
+| --- | --- | --- |
+| **Gonorrhea** | Bacterial STI | Gonorrhea typically causes acute discharge/pain; syphilis can be painless and latent for years. |
+| **Chancroid** | Ulcerative STI | Chancroid causes *painful* sores; the primary syphilitic chancre is characteristically *painless*. |
+| **Herpes** | Viral infection | Herpes (HSV) is chronic and incurable (though manageable); syphilis is bacterial and curable with antibiotics. |
+
+* **Common Learner Error:** Many learners mistakenly treat "syphilis" as a countable noun because it ends in "s."
+* **Incorrect:** "He has a syphilis."
+* **Correct:** "He has syphilis" or "He was diagnosed with syphilis."
+
+
+
+Would you like me to analyze another medical term or perhaps a related word in the field of epidemiology?
+
+# strain
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /streɪn/ / /streɪn/ |
+| **Word Class** | Noun (Count/Uncount), Transitive & Intransitive Verb |
+| **CEFR / Frequency** | B2 / Top 2000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1 (Physical/Mental): Force or pressure that causes tension or damage.**
+* **Chinese:** 压力 / 劳损 (Yālì / Láosǔn)
+* **Collocations:** **Eye** strain; **put a** strain **on**; **repetitive** strain **injury** (RSI); **under** strain.
+* **Register:** Neutral.
+
+
+* **Sense 2 (Biology/Virology): A specific genetic variation or subtype of a microorganism.**
+* **Chinese:** 菌株 / 毒株 (Jūnzhū / Dúzhū)
+* **Collocations:** **New** strain; **deadly** strain; **resistant** strain; **viral** strain.
+* **Register:** Technical / Medical.
+
+
+* **Sense 3 (Verb): To filter a liquid or to push oneself to the limit.**
+* **Chinese:** 过滤 (Filter); 使劲 (Exert)
+* **Collocations:** **Strain** the pasta; **strain** one's ears; **strain** to see.
+* **Register:** Neutral.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "Working from home has put a real **strain** on my marriage because we're in each other's space all day."
+* **Professional/Academic:** "Researchers are concerned that the current **strain** of the virus may be resistant to existing vaccines."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Derived from Old French *estreindre* (to bind tightly), from Latin *stringere* (**to draw tight**).
+* **Word Family:** * **Noun:** Strainer (kitchen tool)
+* **Adjective:** Strained (e.g., *a strained relationship*)
+* **Noun:** Restraint (the act of holding back)
+
+
+* **Semantic Map:** The mental model of **strain** is **tension near the breaking point**. Whether it’s a muscle, a relationship, or a physical filter, it implies something being pulled, pushed, or forced through a narrow or difficult limit.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Stress:** General mental or physical pressure. **Strain** is often the *result* of too much stress (e.g., "The stress caused a strain on the system").
+* **Sprain:** Specifically refers to tearing **ligaments** (bone to bone). A **strain** refers to **muscles or tendons** (muscle to bone).
+* **Variant:** In biology, a "variant" is a broad term for a version of a virus; a **strain** is a variant that demonstrates distinct functional properties.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Strain** | The Critical Difference |
+| --- | --- | --- |
+| **Sprain** | Injury Type | **Sprain** = Ligaments (Ankle); **Strain** = Muscles (Back/Shoulder). |
+| **Stress** | Cause/Effect | **Stress** is the external force; **Strain** is the internal deformation/damage. |
+| **Sift** | Action | You **strain** liquids (remove solids); you **sift** dry powders like flour. |
+
+* **Common Learner Error:** Using "strain" when they mean "stress" in a psychological context.
+* **Incorrect:** "I have a lot of strain at my job."
+* **Correct:** "I am under a lot of **stress** at my job" or "The job is a **strain** on my mental health."
+
+
+
+Would you like me to dive deeper into the physics definition of strain (deformation) or perhaps provide a list of common "repetitive strain injuries"?
+
+# shivers
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈʃɪv.əz/ / /ˈʃɪv.ɚz/ |
+| **Word Class** | Plural Noun / Intransitive Verb (Third-person singular) |
+| **CEFR / Frequency** | B1 / Top 4000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Involuntary shaking of the body caused by cold, fear, or excitement.**
+* **Chinese:** 发抖 / 打冷颤 (Fādǒu / Dǎ lěngzhàn)
+* **Collocations:** **Send** shivers **down one’s spine**; **get the** shivers; **a bout of** shivers; **violent** shivers.
+* **Register:** Neutral / General.
+
+
+* **Sense 2 (Medical): A symptom of fever where the body temperature rises rapidly.**
+* **Chinese:** 寒战 (Hánzhàn)
+* **Collocations:** **Fever and** shivers; **sudden** shivers; **racked with** shivers.
+* **Register:** Medical / Descriptive.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The horror movie was so intense it sent literal **shivers** down my spine."
+* **Professional/Academic:** "The patient reported acute onset of **shivers** and rigors, common precursors to the high-grade fever associated with influenza."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Derived from Middle English *chiveren* (to quiver/shake). It is possibly related to the Old English word for "jaw" (*ceaft*), suggesting the chattering of teeth.
+* **Word Family:** * **Verb:** Shiver (e.g., *to shiver in the cold*)
+* **Adjective:** Shivery (e.g., *feeling a bit shivery*)
+* **Noun (Fragment):** Shiver (Archaic: a splinter or piece; e.g., "shattered into shivers")
+
+
+* **Semantic Map:** The mental model of **shivers** is **Micro-Convulsion as Defense**. Physically, it is the body's attempt to generate heat through friction (thermogenesis). Psychologically, it represents the "body's honest reaction" to an external stimulus that the mind hasn't fully processed yet.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Trembles:** Often associated with weakness, old age, or deep emotional fragility.
+* **Quivers:** Finer and faster than shivers; often used for light movement (e.g., a leaf or a lip).
+* **Shudders:** A brief, intense convulsion usually triggered by a feeling of "grossness," horror, or a sudden chill.
+* **Rigors:** The medical term for severe shivering accompanied by a rising fever.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Shivers** | The Critical Difference |
+| --- | --- | --- |
+| **Shake** | Control/Size | **Shaking** can be voluntary or large-scale; **shivers** are always involuntary and small-scale. |
+| **Quake** | Source | **Quaking** implies a massive internal or external force (e.g., earthquake or "quaking in one's boots"). |
+| **Chills** | Sensation | **Chills** is the *feeling* of being cold; **shivers** is the *physical movement* resulting from that feeling. |
+
+* **Common Learner Error:** Using the singular "shiver" when referring to a continuous state.
+* **Incorrect:** "I have a shiver because of the fever."
+* **Correct:** "I have the **shivers**" (referring to the condition) or "A **shiver** ran down my spine" (referring to a single, momentary sensation).
+
+
+
+Would you like me to explain the "goosebumps" phenomenon (piloerection) that often accompanies shivers, or perhaps analyze the idiom "shiver my timbers"?
+
+# spouse
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /spaʊs/ / /spaʊs/ |
+| **Word Class** | Countable Noun |
+| **CEFR / Frequency** | B2 / Top 2500 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: A person's husband or wife, considered as a legal partner.**
+* **Chinese:** 配偶 (Pèi'ǒu)
+* **Collocations:** **Surviving** spouse; **dependent** spouse; **former** spouse; **spouse’s** benefits; **identify a** spouse.
+* **Register:** Formal / Legal / Bureaucratic.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** (Rarely used in conversation). "Are you bringing your **spouse** to the office holiday party?" (Usually people say "husband," "wife," or "partner").
+* **Professional/Academic:** "The insurance policy covers the employee, their **spouse**, and any children under the age of 26."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** From Old French *espouse*, from Latin *sponsus* (**fiancé/groom**) and *sponsa* (**fiancée/bride**), from *spondere* (**to promise solemnly**).
+* **Word Family:** * **Adjective:** Spousal (e.g., *spousal support*, *spousal abuse*)
+* **Verb:** Espouse (To adopt or support a cause/belief—literally "to marry" an idea).
+
+
+* **Semantic Map:** The mental model of **spouse** is **The Neutral Placeholder**. It is a gender-neutral term used primarily in systems (law, tax, insurance, medicine) where the specific gender of the partner is irrelevant to the rules being applied.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Partner:** Common in modern usage; inclusive of non-married couples or same-sex couples. It sounds more egalitarian and social.
+* **Better Half:** An idiomatic, humorous way to refer to one's spouse.
+* **Significant Other (SO):** A broad term used to avoid assuming marital status or gender.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Spouse** | The Critical Difference |
+| --- | --- | --- |
+| **Partner** | Legal Status | **Spouse** strictly implies a legal marriage; **partner** can mean married or cohabiting. |
+| **Fiancé(e)** | Timing | A **fiancé(e)** is promised to be married; a **spouse** is already married. |
+| **Consort** | Status | A **consort** is the spouse of a reigning monarch (e.g., Prince Consort). |
+
+* **Common Learner Error:** Using "spouse" in casual introductions.
+* **Socially Awkward:** "Hi, I'd like you to meet my spouse, David."
+* **Natural:** "Hi, I'd like you to meet my **husband**, David."
+* **Correction:** Use "spouse" for forms, legal documents, and formal invitations. Use "husband/wife/partner" in conversation.
+
+
+* **Legal Note: Spousal Privilege**
+In many legal systems, "spousal privilege" protects a spouse from being forced to testify against their partner in a court of law, emphasizing the unique legal bond this word represents.
+
+Would you like me to explain the difference between a "spouse" and a "common-law partner" in different jurisdictions?

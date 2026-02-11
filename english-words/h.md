@@ -327,3 +327,74 @@ This is a high-impact adjective. While "bad" or "terrible" are common, **horrend
 * **The Vibe:** A *scam* steals your wallet; a *hoax* steals your attention and tests your common sense.
 
 Would you like me to analyze some of the most famous historical hoaxes and explain how they were eventually exposed?
+
+# hunch
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /hʌntʃ/ / /hʌntʃ/ |
+| **Word Class** | Countable Noun / Transitive & Intransitive Verb |
+| **CEFR / Frequency** | B2 / Top 5000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1 (Noun): A feeling or guess based on intuition rather than known facts.**
+* **Chinese:** 直觉 / 预感 (Zhíjué / Yùgǎn)
+* **Collocations:** **Follow** a hunch; **have** a hunch; **confirm** a hunch; **mere** hunch; **strong** hunch.
+* **Register:** Informal / Daily.
+
+
+* **Sense 2 (Verb): To bend one's body forward and down so that the back is rounded.**
+* **Chinese:** 弓着身子 / 耸肩 (Gōngzhe shēnzi / Sǒngjiān)
+* **Collocations:** **Hunch** one's shoulders; **hunch** over a desk; **sit** hunched up.
+* **Register:** Neutral.
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I had a **hunch** that the party would be cancelled, so I didn't bother getting ready."
+* **Professional/Academic:** "While the detective acted on a **hunch**, the subsequent forensic evidence was required to secure a conviction."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Origin obscure; possibly related to the Middle English *hump*. The shift from a physical "hump" or "push" to a "mental push/intuition" occurred in the 19th century, likely from the superstitious idea that touching a hunchback brought good luck (and thus, a "hunch" was a lucky guess).
+* **Word Family:** * **Adjective:** Hunched (e.g., *a hunched posture*)
+* **Noun:** Hunchback (Now often considered offensive; replaced by *kyphosis* in medical contexts)
+
+
+* **Semantic Map:** The mental model of **hunch** bridges the physical and the psychological. Physically, it is a **contraction** or rounding. Psychologically, it is a **visceral "gut" feeling**—a piece of knowledge that feels physically located in the body before the mind can explain it.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Intuition:** A more "dignified" or semi-formal version of a hunch. It suggests a subconscious processing of patterns.
+* **Inkling:** A very slight or vague suggestion/hunch. A hunch is stronger than an inkling.
+* **Premonition:** Specifically a hunch about a *future* event, often with a negative or "warning" tone.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Hunch** | The Critical Difference |
+| --- | --- | --- |
+| **Suspect** | Verb/Noun | To "suspect" implies you have a specific target or person in mind; a "hunch" is just the feeling itself. |
+| **Theory** | Academic | A theory is based on a system of ideas; a hunch is based on an unexplained feeling. |
+| **Crouch** | Physical | To crouch involves bending the knees to get low; to hunch involves rounding the back/shoulders while sitting or standing. |
+
+* **Common Learner Error:** Confusing the verb "hunch" with "crunch."
+* **Incorrect:** "He was crunching over his computer all day."
+* **Correct:** "He was **hunching** over his computer all day." (Crunching refers to sound or abdominal exercises).
+
+
+
+Would you like me to explore the cognitive science behind why "hunches" are often correct, or perhaps analyze the ergonomics of "hunching" at a desk?
