@@ -310,3 +310,76 @@ Would you like me to show you how "unceasing" is used in classical literature co
 
 
 Would you like me to provide some examples of how to use "unfazed" in a performance review or a fictional character description?
+
+# unassailable
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˌʌnəˈseɪləbl/ / /ˌʌnəˈseɪləbl/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | C1 (Advanced) / Lower frequency (Top 10,000-15,000 words) |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Unable to be attacked, questioned, or defeated (Abstract/Argumentative)**
+* **Chinese:** 不容置疑的 (Bùróng zhìyí de) / 攻不可破的
+* **Collocations:** [Unassailable logic], [Unassailable proof], [Unassailable lead], [Unassailable reputation], [Unassailable evidence]
+* **Register:** Formal / Journalistic
+
+
+* **Sense 2: Unable to be captured or broken into (Physical/Military)**
+* **Chinese:** 攻不破的 (Gōng bù pò de) / 固若金汤的
+* **Collocations:** [Unassailable fortress], [Unassailable position], [Unassailable defenses]
+* **Register:** Technical / Historical
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "With a twenty-point lead and only two minutes left on the clock, their victory is **unassailable**."
+* **Professional/Academic:** "The researcher presented **unassailable** evidence that climate patterns have shifted significantly over the last decade, leaving critics with little room for rebuttal."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Old French *asaillir* (to attack) -> Middle English *assail*.
+* **Prefix:** *un-* (not)
+* **Root:** *assail* (from Latin *ad-* "to" + *salire* "to leap")
+* **Suffix:** *-able* (capable of being)
+* **Literal meaning:** "Not capable of being leapt upon/attacked."
+
+
+* **Word Family:** * **Verb:** Assail (to attack)
+* **Noun:** Assailant (the attacker)
+* **Adverb:** Unassailably
+
+
+* **Semantic Map:** The mental model moves from a **physical fortification** (a castle that cannot be climbed) to a **logical fortification** (an argument that has no "holes" or weak points for an opponent to enter).
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Incontrovertible:** Use when a statement is so true that it is impossible to deny or argue against (strictly factual/legal).
+* **Invulnerable:** Use when focusing on the *lack of weakness* or immunity to harm, often regarding physical or emotional states.
+* **Impregnable:** Use specifically for physical structures or extremely strong metaphorical defenses (like a "mindset").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Unassailable** | The Critical Difference |
+| --- | --- | --- |
+| **Infallible** | **Unassailable** | *Infallible* refers to a **person** or system that cannot make mistakes; *Unassailable* refers to a **position** that cannot be proven wrong. |
+| **Irrefutable** | **Unassailable** | *Irrefutable* is strictly for **evidence/arguments**; *Unassailable* can also describe a physical status or a competitive lead. |
+
+* **Common Learner Error:** Learners often confuse the "attack" aspect with physical violence only. They may use "undefeatable" when "unassailable" is the more sophisticated choice for a **logical conclusion** or a **reputation**.
+
+Would you like me to generate a short practice exercise to help you distinguish between "unassailable" and its synonyms in context?

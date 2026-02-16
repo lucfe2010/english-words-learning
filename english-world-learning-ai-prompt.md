@@ -41,7 +41,7 @@ Provide the top 2-3 most frequent senses.
 ---
 
 ### **4. Morphological & Historical Rooting**
-* **Etymology:** [Source language] -> [Root meaning]. 
+* **Etymology:** [Source language] -> [Root meaning](Break down the root, prefix, and suffix). 
 * **Word Family:** (List Nouns, Verbs, Adjs, Advs clearly)
 * **Semantic Map:** Briefly explain the "Mental Model" of the word (e.g., "The word 'Impact' implies a physical collision transferred to a metaphorical result").
 

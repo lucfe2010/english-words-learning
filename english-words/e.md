@@ -676,3 +676,80 @@ Would you like me to write a paragraph comparing "enduring" with "ephemeral" to 
 
 
 Would you like me to show you how "endeavour" is used in formal legal contracts versus its use in historical exploration journals?
+
+# elaborate
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ɪˈlæbəreɪt/ (Verb) / /ɪˈlæbərət/ (Adj) |
+| **Word Class** | Transitive/Intransitive Verb, Adjective |
+| **CEFR / Frequency** | B2 (Upper Intermediate) / Top 3,000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1 (Verb): To add more detail or explanation to something previously stated.**
+* **Chinese:** 阐述 (Chǎnshù) / 详尽说明 (Xiángjìn shuōmíng)
+* **Collocations:** [Elaborate on a point], [Elaborate further], [Refuse to elaborate], [Elaborate a theory], [Elaborate on the details]
+* **Register:** Professional / Academic
+
+
+* **Sense 2 (Adjective): Involving many carefully arranged parts or details; complicated and design-heavy.**
+* **Chinese:** 精致的 (Jīngzhì de) / 复杂的 (Fùzá de)
+* **Collocations:** [Elaborate costume], [Elaborate hoax], [Elaborate scheme], [Elaborate meal], [Elaborate pattern]
+* **Register:** Neutral / Descriptive
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "You said you were quitting your job, but you didn't **elaborate** on why."
+* **Professional/Academic:** "The architect presented an **elaborate** 3D model of the proposed city center, detailing every green space and transit vein."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin *elaborare*: *e-* (out) + *laborare* (to work).
+* **Literal meaning:** "To work out" or "produced by labor."
+
+
+* **Word Family:**
+* **Noun:** Elaboration (the act of adding detail)
+* **Adverb:** Elaborately
+
+
+* **Semantic Map:** The mental model is **expansion through effort**. Whether it is a spoken thought or a physical object, "elaborate" implies taking a simple core and building outward with complexity and "labor."
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Expound:** A more formal verb for explaining a theory or set of ideas in great depth (e.g., "Expounding on philosophy").
+* **Intricate:** An adjective synonymous with the "detailed" sense, but focusing more on the *interweaving* of parts.
+* **Develop:** Used when a simple idea is grown into a full-scale plan or product.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Elaborate** | The Critical Difference |
+| --- | --- | --- |
+| **Complicated** | **Elaborate** | *Complicated* often has a **negative** nuance (hard to understand); *Elaborate* is usually **neutral/positive** (rich in detail). |
+| **Exaggerate** | **Elaborate** | *Exaggerate* means to make something seem **bigger/better** than it is (falsehood); *Elaborate* means to provide **more facts** (clarity). |
+
+* **Common Learner Error:** **Pronunciation shift.** Learners often fail to change the vowel sound between the verb and adjective.
+* **Verb:** Ends in /-eɪt/ (like "gate").
+* **Adjective:** Ends in /-ət/ (like "it").
+* **Preposition choice:** When used as a verb, it almost always requires **"on"** before the object (e.g., "He elaborated **on** his plans").
+
+
+
+---
+
+Would you like me to demonstrate how to use **"elaborate"** in a formal email to request more information from a colleague?

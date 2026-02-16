@@ -2719,3 +2719,149 @@ Would you like me to provide some "placatory" phrases often used in professional
 
 
 Would you like me to compile a list of the most common clinical phobias and their scientific names?
+
+# prone
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /prəʊn/ / /proʊn/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | B2 (Upper Intermediate) / Top 3,500 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Likely or liable to suffer from, do, or experience something (usually regrettable).**
+* **Chinese:** 易于...的 (Yìyú... de) / 有...倾向的
+* **Collocations:** [Prone to injury], [Error-prone], [Accident-prone], [Prone to outbursts], [Prone to depression]
+* **Register:** Neutral / Medical / Technical
+
+
+* **Sense 2: Lying flat, especially face downwards.**
+* **Chinese:** 俯卧的 (Fǔwò de) / 趴着的
+* **Collocations:** [Prone position], [Lying prone], [Prone board]
+* **Register:** Medical / Military / Formal
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "He’s very **accident-prone**, so I wouldn't trust him to carry that expensive vase across the room."
+* **Professional/Academic:** "Patients who remain in a **prone** position for extended periods require specialized care to prevent respiratory complications."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin *pronus* (leaning forward, inclined).
+* **Word Family:**
+* **Noun:** Proneness (the state of being likely to do something)
+* **Adverb:** Pronely (Rarely used)
+
+
+* **Semantic Map:** The mental model is **physical inclination**. Just as a body "leans" toward the ground in a physical prone position, a person's character "leans" toward a specific behavior or habit.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Liable:** Often used when there is a **legal** or logical probability of a negative outcome (e.g., "Liable to overheat").
+* **Susceptible:** Used specifically when one is **vulnerable** to external influences like disease or flattery.
+* **Prostrate:** A more extreme version of "prone," implying lying flat out of exhaustion, submission, or adoration.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Prone** | The Critical Difference |
+| --- | --- | --- |
+| **Supine** | **Prone** | *Supine* is lying on your **back** (face up); *Prone* is lying on your **stomach** (face down). |
+| **Apt** | **Prone** | *Apt* implies a natural **talent or fitness** for something; *Prone* almost always carries a **negative** connotation. |
+
+* **Common Learner Error:** Preposition usage. Learners often forget that when "prone" is used for a tendency, it **must** be followed by **"to"** + [Noun/Gerund].
+* *Incorrect:* "He is prone for headaches."
+* *Correct:* "He is **prone to** headaches."
+
+
+
+---
+
+Would you like me to show you how **"prone"** is used in statistical or data-science contexts, such as **"error-prone"** systems?
+
+# pharaonic
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /fɛːreɪˈɒnɪk/ / /ferəˈɑːnɪk/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | C2 (Proficiency) / Low Frequency |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Relating to the Pharaohs of ancient Egypt.**
+* **Chinese:** 法老的 (Fǎlǎo de) / 古埃及法老时代的
+* **Collocations:** [Pharaonic era], [Pharaonic tombs], [Pharaonic civilization], [Pharaonic monuments]
+* **Register:** Academic / Historical / Archaeological
+
+
+* **Sense 2: Enormous, monumental, or extravagantly ambitious (Metaphorical).**
+* **Chinese:** 规模宏大的 (Guīmó hóngdà de) / 巨大的
+* **Collocations:** [Pharaonic project], [Pharaonic proportions], [Pharaonic ambitions]
+* **Register:** Journalistic / Figurative
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The new administrative capital is a **pharaonic** project, costing billions and aimed at transforming the desert into a futuristic metropolis."
+* **Professional/Academic:** "Excavations at the site revealed several **pharaonic** artifacts dating back to the Eighteenth Dynasty, including ceremonial amulets and pottery."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Derived from *Pharaoh* (via Latin *Pharao* and Greek *Pharaō* from Egyptian *pr-`3*).
+* **Root Meaning:** Originally meant "Great House" (referring to the palace), eventually becoming the title for the ruler.
+* **Suffix:** *-ic* (of or pertaining to).
+
+
+* **Word Family:**
+* **Noun:** Pharaoh (The ruler)
+* **Noun:** Pharaonism (A political/cultural movement in Egypt)
+
+
+* **Semantic Map:** The mental model is **God-like scale and permanence**. It evokes the image of the Pyramids—structures so large they seem impossible for humans to build. When applied to modern things, it suggests something that is impressively large but perhaps also hubristic or excessively expensive.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Gargantuan:** Focuses purely on massive physical size or volume.
+* **Monumental:** Suggests something of great importance or lasting significance (can be a "monumental achievement").
+* **Cyclopean:** Used in architecture to describe masonry made of huge, irregular stones (referencing the Cyclops).
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Pharaonic** | The Critical Difference |
+| --- | --- | --- |
+| **Egyptian** | **Pharaonic** | *Egyptian* refers to anything from Egypt (modern or ancient); *Pharaonic* specifically refers to the **time of the kings**. |
+| **Imperial** | **Pharaonic** | *Imperial* relates to an empire or emperor (often Roman or British); *Pharaonic* carries a unique flavor of **ancient divinity and absolute power**. |
+
+* **Common Learner Error:** Misspelling the root. Note the **'ao'** in Phara**ao**nic. Many learners mistakenly write "Pharonic" or "Pharaonic" with different vowel placements. Additionally, remember that when used metaphorically (Sense 2), it often implies that the project is *too* big or serves the ego of the person building it.
+
+---
+
+Would you like me to find some examples of **"Pharaonic projects"** in modern history to show how journalists use this word to criticize government spending?

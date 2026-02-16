@@ -1587,3 +1587,76 @@ Would you like me to provide a list of common "minor ailments" that are typicall
 
 
 Would you like me to explain the difference between an **arithmetic progression** and a **geometric progression**, or perhaps show you some tricks for **mental arithmetic**?
+
+# admission
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ədˈmɪʃn/ / /ədˈmɪʃn/ |
+| **Word Class** | Noun (Countable/Uncountable) |
+| **CEFR / Frequency** | B1 (Intermediate) / Top 1,500 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: The process or fact of entering or being allowed to enter a place or organization.**
+* **Chinese:** 准许进入 (Zhǔnxǔ jìnrù) / 入学 (Rùxué)
+* **Collocations:** [College admission], [Gain admission], [Admission fee], [Admission requirements], [Free admission]
+* **Register:** Neutral / Administrative
+
+
+* **Sense 2: A statement acknowledging that something is true, often something private or damaging.**
+* **Chinese:** 承认 (Chéngrèn) / 供词 (Gòngcí)
+* **Collocations:** [Admission of guilt], [By his own admission], [A frank admission], [Tacit admission], [Sign an admission]
+* **Register:** Formal / Legal / Personal
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The museum has a ten-dollar **admission** fee, but it’s free for students on Tuesdays."
+* **Professional/Academic:** "By the defendant’s own **admission**, he was present at the scene of the crime, yet he denies any involvement in the theft."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin *admittere*: *ad-* (to) + *mittere* (to send/let go).
+* **Literal meaning:** "To let in" or "to send toward."
+
+
+* **Word Family:**
+* **Verb:** Admit (to let in / to confess)
+* **Adjective:** Admissible (allowed, particularly in court)
+* **Adverb:** Admittedly (used to concede a point)
+
+
+* **Semantic Map:** The mental model is a **gateway or threshold**. Whether it is a physical door (Sense 1) or a psychological barrier to the truth (Sense 2), *admission* represents the act of letting something pass through that gate.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Admittance:** Used strictly for the **physical act** of entering a building or private area (e.g., "No admittance").
+* **Confession:** A stronger, more formal admission, usually involving a crime or a sin (e.g., "A full confession to the police").
+* **Concession:** An admission made during an argument, often reluctantly, to acknowledge a specific point made by the opponent.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Admission** | The Critical Difference |
+| --- | --- | --- |
+| **Admittance** | **Admission** | *Admittance* is the physical right to enter; *Admission* is the formal status or the fee paid to enter. |
+| **Entry** | **Admission** | *Entry* is the act of going in; *Admission* is the **permission** or the process required to do so. |
+
+* **Common Learner Error:** Confusing "Admission" with "Admittance." You pay an **admission** price for a movie, but a sign on a restricted lab door says "No **Admittance**." Also, note that "admission" is often uncountable when referring to the *concept* of letting people in (e.g., "Admission is restricted").
+
+---
+
+Would you like me to explain the **Admissions Cycle** for US or UK universities to see how this word is used in a specific administrative timeline?

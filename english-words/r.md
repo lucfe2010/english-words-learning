@@ -1713,3 +1713,74 @@ Would you like me to explain the mechanical causes of "engine rattling" or perha
 
 
 Would you like me to explain the physics of how a rollercoaster maintains speed without an engine, or perhaps analyze more "amusement park" idioms?
+
+# rebut
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /rɪˈbʌt/ / /rɪˈbʌt/ |
+| **Word Class** | Transitive Verb |
+| **CEFR / Frequency** | C1 (Advanced) / Top 8,000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: To claim or prove that evidence or an accusation is false.**
+* **Chinese:** 反驳 (Fǎnbó) / 驳斥 (Bóchì)
+* **Collocations:** [Rebut an allegation], [Rebut a claim], [Effectively rebut], [Attempt to rebut], [Rebut testimony]
+* **Register:** Formal / Legal / Debating
+
+
+* **Sense 2: To drive back or repel (Rare/Archaic).**
+* **Chinese:** 击退 (Jītuì)
+* **Register:** Technical (Historical military contexts)
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "She spent the entire meeting trying to **rebut** the rumor that she was planning to resign."
+* **Professional/Academic:** "The defense attorney sought to **rebut** the forensic evidence by introducing a second expert witness who challenged the DNA collection methods."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Old French *reboter*: *re-* (back) + *boter* (to push/strike).
+* **Literal meaning:** "To push back."
+
+
+* **Word Family:**
+* **Noun:** Rebuttal (the actual speech or document that contains the counter-argument)
+* **Noun:** Rebutter (the person performing the act—rare)
+
+
+* **Semantic Map:** The mental model is **intellectual self-defense**. If someone "throws" an argument at you, to *rebut* is to catch it and throw it back, or push it away by showing its flaws.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Refute:** Often used interchangeably, but strictly speaking, *refute* implies you have **successfully proved** the other person wrong, while *rebut* simply means you have **offered a counter-argument** (regardless of whether you won).
+* **Deny:** Simply saying "that isn't true" without necessarily providing evidence or logic.
+* **Confute:** A very formal term meaning to overwhelm by argument which results in the opponent's silence.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Rebut** | The Critical Difference |
+| --- | --- | --- |
+| **Refute** | **Rebut** | *Refute* is "success-oriented" (you proved it false); *Rebut* is "process-oriented" (you argued against it). |
+| **Repudiate** | **Rebut** | *Repudiate* is to reject the **authority** or validity of something (e.g., "repudiate a debt"); *Rebut* addresses the **truth** of a claim. |
+
+* **Common Learner Error:** Misusing "rebut" for personal dislikes. You don't "rebut" a person's taste in music; you **rebut** a specific **claim, charge, or argument**. It requires an intellectual target.
+
+---
+
+Would you like me to help you draft a **rebuttal** paragraph for a formal debate or an academic essay?

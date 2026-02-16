@@ -2307,3 +2307,222 @@ Would you like me to look into the different materials used for coasters and whi
 * **Sensitivity Note:** Because of its historical origins in religious warfare, the word "crusade" can be seen as insensitive or inflammatory in certain cultural and religious contexts, particularly in the Middle East. In diplomatic or international business settings, it is often safer to use terms like **campaign**, **initiative**, or **mission**.
 
 Would you like me to dive deeper into the history of the medieval Crusades or provide synonyms that carry less historical "baggage"?
+
+# confront
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /kənˈfrʌnt/ / /kənˈfrʌnt/ |
+| **Word Class** | Transitive Verb |
+| **CEFR / Frequency** | B2 (Upper Intermediate) / Top 2,500 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: To face a person or problem directly, often in a challenging or hostile way.**
+* **Chinese:** 对质 (Duìzhì) / 直面 (Zhímiàn)
+* **Collocations:** [Confront an accuser], [Confront the truth], [Confront a challenge], [Confront a bully], [Confront the reality]
+* **Register:** Neutral / Psychological
+
+
+* **Sense 2: To be presented with something (usually unpleasant) that must be dealt with.**
+* **Chinese:** 遭遇 (Zāoyù) / 面临 (Miànlín)
+* **Collocations:** [Confronted with evidence], [Confronted by obstacles], [Confronted with a choice]
+* **Register:** Formal / Narrative
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I knew he was lying about the broken vase, so I decided to **confront** him with the video footage."
+* **Professional/Academic:** "The manufacturing industry must **confront** the growing necessity of automation to remain competitive in a global market."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin *con-* (together) + *frons* (forehead).
+* **Literal meaning:** "To be forehead-to-forehead with someone."
+
+
+* **Word Family:**
+* **Noun:** Confrontation (the act of confronting)
+* **Adjective:** Confrontational (tending to cause conflict)
+
+
+* **Semantic Map:** The mental model is **spatial and directional**. It implies turning one's body (and mind) toward a source of tension rather than turning away or avoiding it. It is the opposite of "evasion."
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Face:** A neutral, often courageous act of looking at a problem (e.g., "Face your fears").
+* **Accost:** To approach someone boldly or aggressively, often in public (usually physical).
+* **Challenge:** To invite a person to a contest or to question the legality/truth of something.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Confront** | The Critical Difference |
+| --- | --- | --- |
+| **Encounter** | **Confront** | *Encounter* is often accidental or neutral; *Confront* is intentional and usually involves conflict. |
+| **Oppose** | **Confront** | *Oppose* means to be against something; *Confront* means to actively bring the issue into the open. |
+
+* **Common Learner Error:** Preposition misuse. Learners often say *"confront with someone"* (incorrect). It is a **transitive verb**: you **confront someone** (Direct Object). However, you are **confronted with** a problem (Passive Voice).
+
+---
+
+Would you like me to provide some **confrontational** dialogue examples to help you understand the tone used in movies or literature?
+
+# confiscated
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈkɒnfɪskeɪtɪd/ / /ˈkɑːnfɪskeɪtɪd/ |
+| **Word Class** | Past Participle / Adjective (from Transitive Verb) |
+| **CEFR / Frequency** | C1 (Advanced) / Top 6,000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Taken by an official authority (police, teacher, government) as a penalty or for safety.**
+* **Chinese:** 没收 (Mòshōu) / 充公 (Chōnggōng)
+* **Collocations:** [Confiscated property], [Confiscated weapons], [Confiscated by customs], [Legally confiscated], [Confiscated contraband]
+* **Register:** Formal / Legal / Institutional
+
+
+* **Sense 2: Taken away temporarily (usually in a school or household context).**
+* **Chinese:** 暂时没收 (Zànshí mòshōu)
+* **Collocations:** [Confiscated phone], [Confiscated toys]
+* **Register:** Neutral / Educational
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "The teacher **confiscated** my phone because I was texting during the algebra final."
+* **Professional/Academic:** "Under international maritime law, any vessel found carrying prohibited cargo in territorial waters may be **confiscated** by the state."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Latin *confiscat-*: *con-* (together) + *fiscus* (public treasury/basket).
+* **Literal meaning:** "To put into the public basket (treasury)."
+
+
+* **Word Family:**
+* **Verb:** Confiscate
+* **Noun:** Confiscation
+* **Adjective:** Confiscatory (e.g., "confiscatory tax rates"—taxes so high they feel like seizure).
+
+
+* **Semantic Map:** The mental model is **asymmetrical power**. It is not a "theft" (which is illegal) or a "borrowing" (which is consensual); it is a **legitimatized seizure** where an authority figure exercises their right to take possession.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:**
+* **Seize:** The broadest term for taking something by force or law. Often used in high-stakes police or military contexts (e.g., "Seize the drugs").
+* **Impound:** Specifically used for **vehicles** or animals (e.g., "The car was impounded for illegal parking").
+* **Expropriate:** Used when a **government** takes private property for public use, often with compensation (e.g., "Expropriating land for a highway").
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Confiscated** | The Critical Difference |
+| --- | --- | --- |
+| **Forfeited** | **Confiscated** | *Forfeited* implies the owner **lost** the right to the item due to a mistake; *Confiscated* focuses on the **act of the authority** taking it. |
+| **Sequestered** | **Confiscated** | *Sequestered* means kept apart/hidden (like a jury or funds) rather than permanently taken as a penalty. |
+
+* **Common Learner Error:** Using "confiscate" for peer-to-peer interactions. You cannot "confiscate" a sandwich from your friend; that is "stealing" or "taking." You can only **confiscate** if you have the **legal or institutional power** over the other person.
+
+---
+
+Would you like me to create a table showing the different legal terms for "taking property" in various contexts (Civil vs. Criminal)?
+
+# cranky
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˈkræŋki/ / /ˈkræŋki/ |
+| **Word Class** | Adjective |
+| **CEFR / Frequency** | B2 (Upper Intermediate) / Top 6,000 words |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Easily annoyed or irritable (often due to tiredness or hunger).**
+* **Chinese:** 脾气暴躁的 (Píqì bàozào de) / 任性的 / 别扭的
+* **Collocations:** [Get cranky], [Feel cranky], [Cranky toddler], [Cranky old man], [Wake up cranky]
+* **Register:** Informal / Daily Life
+
+
+* **Sense 2: (Of machinery) Working badly; shaky or eccentric (Less common).**
+* **Chinese:** 运转不灵的 (Yùnzhuǎn bù líng de)
+* **Collocations:** [Cranky engine], [Cranky old car]
+* **Register:** Informal / Technical
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "I haven't had my coffee yet, so I'm feeling a bit **cranky** this morning—give me ten minutes before you ask for anything."
+* **Professional/Academic:** "Long-haul flight crews are trained to manage **cranky** passengers who may become irritable due to sleep deprivation and jet lag."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Derived from *crank* (a bend or turn).
+* **Historical Link:** Originally referred to a "crank" in a person's character—a twist or eccentricity. By the 1800s, it shifted to mean "ill-tempered."
+
+
+* **Word Family:**
+* **Noun:** Crankiness
+* **Noun:** Crank (an eccentric or ill-tempered person)
+* **Adverb:** Crankily
+
+
+* **Semantic Map:** The mental model is a **mechanical "hitch."** Just as a cranky machine doesn't run smoothly, a "cranky" person is not emotionally "smooth." Their mood is jagged and reactive because their basic needs (rest, food, comfort) are not being met.
+
+---
+
+### **5. Precision & Nuance (The "Expert" Section)**
+
+* **Synonym Spectrum:**
+* **Grumpy:** Very similar, but often suggests a long-term personality trait or a low-energy mood.
+* **Irritable:** The clinical/medical version of cranky; used in professional diagnoses.
+* **Grouchy:** Implies a tendency to complain or grumble (very close to American "cranky").
+* **Cantankerous:** Use for an older person who is habitually argumentative and difficult to deal with.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Cranky** | The Critical Difference |
+| --- | --- | --- |
+| **Angry** | **Cranky** | *Angry* is a strong reaction to a specific **event**; *Cranky* is a general **mood** caused by physical discomfort. |
+| **Eccentric** | **Cranky** | In UK English, *cranky* can mean "weird/odd"; in US English, it almost always means "irritable." |
+
+* **Common Learner Error:** Using "cranky" in formal writing. "Cranky" is very "homely" and casual. In an academic essay or a formal business report, you should use **"irritable"** or **"fractious."**
+
+---
+
+Would you like me to explain the term **"Hangry"** (hungry + angry), which is the most common modern cause of being **cranky**?
