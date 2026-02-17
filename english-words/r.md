@@ -1784,3 +1784,70 @@ Would you like me to explain the physics of how a rollercoaster maintains speed 
 ---
 
 Would you like me to help you draft a **rebuttal** paragraph for a formal debate or an academic essay?
+
+# reparation
+
+### **1. Vital Statistics**
+
+| Attribute | Detail |
+| --- | --- |
+| **IPA (UK/US)** | /ˌrep.əˈreɪ.ʃən/ |
+| **Word Class** | Noun (Usually plural: **reparations**) |
+| **CEFR / Frequency** | C1 / Top 8,000 words (High frequency in legal/political discourse) |
+
+---
+
+### **2. Semantic Breakdown**
+
+* **Sense 1: Compensation for a wrong or injury (often systemic/historical)**
+* **Chinese:** 赔偿 (Péicháng) / 弥补 (Míbǔ)
+* **Collocations:** [Make reparations], [Pay reparations], [Financial reparations], [Demand reparations], [Historical reparations]
+* **Register:** Formal / Legal / Socio-political
+
+
+* **Sense 2: The act of repairing or restoring something to a good condition**
+* **Chinese:** 修理 (Xiūlǐ) / 修复 (Xiūfù)
+* **Collocations:** [The reparation of a building], [Beyond reparation], [Undergoing reparation]
+* **Register:** Technical / Archaic (Slightly less common than Sense 1 in modern corpora)
+
+
+
+---
+
+### **3. Exemplary Context**
+
+* **Daily/Colloquial:** "After the argument, he tried to make **reparation** by taking her out to her favorite dinner and genuinely apologizing."
+* **Professional/Academic:** "The commission debated whether the state should provide financial **reparations** to the descendants of those affected by the discriminatory housing policies of the 1950s."
+
+---
+
+### **4. Morphological & Historical Rooting**
+
+* **Etymology:** Old French *reparacion* -> Latin *reparare* (**re-** "again" + **parare** "make ready/prepare").
+* **Word Family:** * **Verb:** Repair
+* **Adjective:** Reparative (e.g., reparative justice)
+* **Noun:** Repairer / Reparation
+
+
+* **Semantic Map:** The mental model of **reparation** is "Restorative Balance." It implies that a "hole" or "debt" has been created by an action, and a specific counter-action must be taken to return the scales to a neutral state. Unlike a simple "gift," it is a moral or legal obligation.
+
+---
+
+### **5. Precision & Nuance**
+
+* **Synonym Spectrum:** * **Restitution:** Used specifically when returning a *stolen item* or the exact value of a loss to its rightful owner.
+* **Indemnity:** Used in insurance or treaty contexts to guarantee protection against future loss or to compensate for specific damages.
+* **Redress:** Often refers to the *legal mechanism* or the act of "setting right" a grievance, not necessarily involving money.
+
+
+* **The "Confusables" Table:**
+
+| Word | vs. **Reparation** | The Critical Difference |
+| --- | --- | --- |
+| **Apology** | Reparation is **material**; an apology is merely **verbal**. | "An apology isn't enough; we need reparations." |
+| **Remuneration** | Remuneration is **payment for work**; reparation is **payment for damage**. | "His remuneration was high, but it wasn't a reparation." |
+| **Atonement** | Atonement is **spiritual/emotional**; reparation is often **structural/legal**. | Atonement focuses on the sinner; reparation on the victim. |
+
+* **Common Learner Error:** **Countability.** Learners often treat "reparations" as a standard singular count noun (e.g., "a reparation"). In modern political contexts, it is almost exclusively used in the plural (**reparations**) to describe a program of compensation, whereas the singular **reparation** is used in the abstract sense (e.g., "to make reparation").
+
+Would you like me to analyze a related legal term, such as **restitution** or **liability**?
